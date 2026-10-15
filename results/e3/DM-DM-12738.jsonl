@@ -1,0 +1,26 @@
+{"i": "DM-12627", "j": "DM-12645", "relation": "FS", "predecessor": "i", "quote": "\"Implemented on DM-12627.\"", "confidence": 0.92, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12627", "j": "DM-13820", "relation": "FS", "predecessor": "j", "quote": "Note that this does not (yet) check validity of {{DatasetType}} instances, nor does it expand the list of {{DataUnit}} names (to include their dependencies). These have been postponed until after DM-13820.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12627", "j": "DM-12644", "relation": "FS", "predecessor": "i", "quote": "\"Implemented on DM-12627.\"", "confidence": 0.83, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12624", "j": "DM-12626", "relation": "FS", "predecessor": "i", "quote": "Done as part of DM-12624.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12624", "j": "DM-13820", "relation": "FF", "predecessor": "i", "quote": "Done as part of DM-12624", "confidence": 0.87, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12617", "j": "DM-12618", "relation": "NONE", "predecessor": "i", "quote": "Good catch; no.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12620", "j": "DM-14520", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.79, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12646", "j": "DM-13840", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12647", "j": "DM-13869", "relation": "FS", "predecessor": "j", "quote": "Done as part of DM-13869.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12633", "j": "DM-12640", "relation": "FS", "predecessor": "j", "quote": "Done as part of DM-12640.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12624", "j": "DM-13287", "relation": "FF", "predecessor": "i", "quote": "Done as part of DM-12624.", "confidence": 0.74, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12635", "j": "DM-13171", "relation": "FS", "predecessor": "i", "quote": "Superseded by DM-12635.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13033", "j": "DM-13840", "relation": "FF", "predecessor": "j", "quote": "\"Done as part of DM-13840.\"", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12640", "j": "DM-13496", "relation": "SS", "predecessor": "j", "quote": "Will base on current status of DM-13496.", "confidence": 0.78, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12620", "j": "DM-12633", "relation": "FS", "predecessor": "i", "quote": "This should use SQLAlchemy as much as possible, but target SQLite specifically when necessary.", "confidence": 0.68, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12629", "j": "DM-14139", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12627", "j": "DM-14543", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12617", "j": "DM-12632", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12622", "j": "DM-14321", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.67, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12617", "j": "DM-12624", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12620", "j": "DM-12640", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12640", "j": "DM-12644", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12644", "j": "DM-12645", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12640", "j": "DM-12646", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12646", "j": "DM-14139", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14638", "j": "DM-14639", "relation": "FS", "predecessor": "i", "quote": "Add a {{transaction}} context manager to {{Butler}} that uses {{Registry.transaction}} and {{Datastore.transaction}} to make multiple {{put}} calls optionally transactional (rolling back in case of failure).", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}

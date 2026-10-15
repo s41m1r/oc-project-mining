@@ -1,0 +1,37 @@
+[
+ {
+  "predecessor": "DM-3262",
+  "successor": "DM-3261",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-3262",
+  "successor": "DM-3363",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-3262",
+  "successor": "DM-3432",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-3262",
+  "successor": "DM-3451",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-3262",
+  "successor": "DM-3474",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-3262",
+  "successor": "DM-3522",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-2930",
+  "successor": "DM-3618",
+  "type": "FS"
+ }
+]

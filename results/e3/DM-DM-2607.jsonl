@@ -1,0 +1,12 @@
+{"i": "DM-3778", "j": "DM-3779", "relation": "NONE", "predecessor": "i", "quote": "With this change and DM-3778 qserv gets zero warnings from gcc 4.9.2, and zero warnings/errs from the eclipse internal c++ analyzer as well.", "confidence": 0.82, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-224", "j": "DM-4642", "relation": "FS", "predecessor": "j", "quote": "Has to be merged after DM-4642.", "confidence": 0.99, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3662", "j": "DM-3686", "relation": "FS", "predecessor": "i", "quote": "In recently merged DM-3662 compiler version testing was done using OS tools with regular $PATH.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2334", "j": "DM-4092", "relation": "FS", "predecessor": "j", "quote": "Paves the way for DM-2334", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-224", "j": "DM-4705", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3803", "j": "DM-3898", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.81, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2178", "j": "DM-2646", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.76, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3803", "j": "DM-3902", "relation": "NONE", "predecessor": "i", "quote": "Split protobuf issue off to DM-3902", "confidence": 0.74, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4642", "j": "DM-4705", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4642", "j": "DM-5125", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.73, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4642", "j": "DM-4781", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4642", "j": "DM-5122", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

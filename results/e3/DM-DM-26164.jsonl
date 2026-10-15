@@ -1,0 +1,3 @@
+{"i": "DM-26678", "j": "DM-27000", "relation": "FS", "predecessor": "i", "quote": "This is a follow-up action of DM-26678.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-26666", "j": "DM-27084", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-26177", "j": "DM-26666", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

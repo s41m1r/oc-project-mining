@@ -1,0 +1,177 @@
+{"i": "DM-11571", "j": "DM-11787", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-11931", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-11784", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-12254", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-12029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-12918", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13187", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-11785", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13269", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-12310", "relation": "FS", "predecessor": "j", "quote": "We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.", "confidence": 0.67, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13575", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13272", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.71, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13669", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13670", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13671", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-13674", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-14574", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-14020", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-14612", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-14510", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-14786", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15241", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15011", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-14767", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15421", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15254", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15431", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15695", "relation": "FS", "predecessor": "i", "quote": "Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page.", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-16235", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11784", "j": "DM-11785", "relation": "FS", "predecessor": "i", "quote": "Datasets are identified in DM-11784.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15846", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15713", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11571", "j": "DM-15751", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11784", "j": "DM-11787", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11784", "j": "DM-12029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11784", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11785", "j": "DM-12029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11785", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11785", "j": "DM-11787", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11785", "j": "DM-14786", "relation": "FF", "predecessor": "j", "quote": "With the work done on DM-14786, I think this ticket may be finally ready to close?", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11784", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11785", "j": "DM-12310", "relation": "FS", "predecessor": "j", "quote": "Have to fix this to get jointcal's photometry to work for HSC.", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-12029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11785", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.73, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-11931", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-12310", "relation": "FS", "predecessor": "j", "quote": "We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-12254", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13187", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-12918", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13269", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13575", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13669", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.61, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13272", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13671", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13670", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-13674", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-14020", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-14574", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-14612", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-14767", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15011", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15241", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.76, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-14510", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15254", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15421", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-14786", "relation": "FS", "predecessor": "j", "quote": "This ticket is what was used to produce the results that were measured and uploaded to DM-11787.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15431", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15695", "relation": "FS", "predecessor": "i", "quote": "Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page.", "confidence": 0.91, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15846", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.56, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15713", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.72, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-15751", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.79, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11931", "j": "DM-12029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11931", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11787", "j": "DM-16235", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13187", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-12254", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-12310", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.9, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11931", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-12918", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13269", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13272", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13575", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13671", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13669", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13670", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11931", "j": "DM-12310", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.57, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-14020", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-13674", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15241", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-14612", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-14574", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.9, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15011", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-14786", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-14510", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15254", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15431", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-14767", "relation": "NONE", "predecessor": "i", "quote": "Doing this should speed up the work on DM-11783.", "confidence": 0.9, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15421", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15751", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15713", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15846", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15695", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-16235", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12029", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "Use the current (2018-08-31) version of Jointcal on the latest version of the HSC PDR1 reprocessing.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12310", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12254", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-12918", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12254", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13187", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13269", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13575", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13272", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12310", "j": "DM-12906", "relation": "NONE", "predecessor": "i", "quote": "I don't want that to distract you from working on the photometry now, but when it comes time for the final sign-off, I think we'll want to take a more careful look at that.", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13669", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13671", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13674", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-13670", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-14510", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-14020", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-14612", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-14574", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-14786", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-14767", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15011", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15241", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15421", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15254", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15431", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15713", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15695", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.72, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-16235", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15846", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12918", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15751", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13187", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13269", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12906", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "I modified the plotting script to make three sets of plots: single->jointcal, single->mosaic, mosaic->jointcal, to help with the overall comparison, and I tried to keep the plot limits easily comparable between the two jointcal plots so you can easily flip between them.", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13272", "j": "DM-14020", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13272", "j": "DM-13671", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13272", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13575", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13669", "j": "DM-13671", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13272", "j": "DM-13674", "relation": "FS", "predecessor": "i", "quote": "This work was actually done on DM-13272, after we discovered errors in the new toSip unittests after DM-10765 was merged.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13272", "j": "DM-13670", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13669", "j": "DM-13670", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13669", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13670", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13674", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14020", "j": "DM-15431", "relation": "NONE", "predecessor": "i", "quote": "We've decided to associate the Jacobian with SkyWcs, not PhotoCalib, so this ticket is effectively obsoleted by DM-15431.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13671", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14510", "j": "DM-15011", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14510", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14574", "j": "DM-14786", "relation": "FS", "predecessor": "i", "quote": "I'm going to have DM-14574 go into review so that the design for the Simple model for the magnitude-based photometry fitter is happy, before I dig into the more complicated Constrained model.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14574", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14612", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14020", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15011", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14786", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14767", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14574", "j": "DM-14767", "relation": "SS", "predecessor": "i", "quote": "While starting to implement the magnitude based photometric model (DM-14574), I noticed that my implementation of the error model for the flux based model was incorrect.", "confidence": 0.9, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15254", "j": "DM-15431", "relation": "FS", "predecessor": "j", "quote": "I'm adding DM-15431 and DM-15432 as blockers; while this ticket *could* be done before those, it'll be much easier to verify that it's been done correctly: with those tickets completed, we can build coadds with meas_mosaic using both the new code path and the old code path, and check that they're effectively identical.", "confidence": 0.99, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15254", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15241", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15421", "j": "DM-15617", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15617", "j": "DM-15751", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15617", "j": "DM-15846", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15431", "j": "DM-15617", "relation": "FS", "predecessor": "i", "quote": "Please create a ticket to do this in the future, but unless we have a reason to move it up, let's aim to do it after we try to include the Jacobian as a fixed term in the photometric fit, as I would definitely expect that to affect the desired polynomial order for photometry (and perhaps indirectly the order for astrometry).", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15617", "j": "DM-16235", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15617", "j": "DM-15695", "relation": "FS", "predecessor": "i", "quote": "Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15695", "j": "DM-15713", "relation": "FS", "predecessor": "j", "quote": "When the higher order run completes, I'll summarize it on that ticket (DM-15713).", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15617", "j": "DM-15713", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.62, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14786", "j": "DM-15421", "relation": "FS", "predecessor": "i", "quote": "Now that there is a working constrained photometry model, I believe it is time to switch jointcal's default config to use the constrained models instead of the simple models.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}

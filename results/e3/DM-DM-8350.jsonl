@@ -1,0 +1,10 @@
+{"i": "DM-7989", "j": "DM-8668", "relation": "FS", "predecessor": "j", "quote": "\"has been fixed by [~<USER> in DM-8668.\"", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-8670", "j": "DM-9382", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-8668", "j": "DM-8670", "relation": "FS", "predecessor": "i", "quote": "update period area according to the feedback to the flow and the layout of DM-8668", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-7992", "j": "DM-9348", "relation": "FS", "predecessor": "j", "quote": "I believe this is implemented in DM-9348.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-8833", "j": "DM-9196", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-9348", "j": "DM-9565", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-7802", "j": "DM-9371", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-7802", "j": "DM-9691", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-7802", "j": "DM-9964", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-7802", "j": "DM-9348", "relation": "FS", "predecessor": "i", "quote": "This is the second part of changes to support LSST time series, which should handle band selection in UI.", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}

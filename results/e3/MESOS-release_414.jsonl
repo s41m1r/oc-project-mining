@@ -1,0 +1,205 @@
+{"i": "MESOS-3243", "j": "MESOS-5031", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3402", "j": "MESOS-3923", "relation": "FS", "predecessor": "j", "quote": "I'll watch MESOS-3923 and work on this once that is merged, thanks!", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3559", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-1865", "j": "MESOS-4680", "relation": "FS", "predecessor": "i", "quote": "This one fixed in MESOS-1865", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3319", "j": "MESOS-4902", "relation": "FF", "predecessor": "i", "quote": "Included in the review chain for this ticket are a couple patches to make {{/profiler/start}} and {{/profiler/stop}} functional again: MESOS-3319", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3214", "j": "MESOS-5031", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-2720", "j": "MESOS-5060", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-2257", "j": "MESOS-5060", "relation": "FS", "predecessor": "i", "quote": "There is currently a design doc in progress which will be introducing a versioned operator HTTP API (MESOS-4791), so it's possible that we could wait to implement the new semantics until that work is implemented.", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3739", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3781", "j": "MESOS-3782", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3781", "j": "MESOS-3784", "relation": "FS", "predecessor": "i", "quote": "Subcommand's usage info are basically flags descriptions, which are deeply coupled with https://issues.apache.org/jira/browse/MESOS-3781 I suggest we solve them there.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-4887", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-3783", "relation": "FS", "predecessor": "i", "quote": "Therefore, I would suggest to do this at last, or at least after the majority of code change is done.", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3779", "j": "MESOS-3782", "relation": "NONE", "predecessor": "i", "quote": "the docs and webui changes are covered by other tickets", "confidence": 0.76, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-3784", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-5055", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3781", "j": "MESOS-5271", "relation": "FS", "predecessor": "j", "quote": "Let me work on adding multiple name support to flags and then you can base your deprecation patch based on that.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-5057", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3923", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3902", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-5397", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-5407", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4090", "j": "MESOS-5233", "relation": "FS", "predecessor": "i", "quote": "After MESOS-4090, all native code is move out of {{src/python/native}}.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3976", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-3782", "j": "MESOS-5230", "relation": "FS", "predecessor": "i", "quote": "During the implementation of MESOS-3782, we thought it would be good to open a new ticket to track the rename of folder \"\"/include/mesos/slave\"\".", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-4802", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4514", "j": "MESOS-5060", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4279", "j": "MESOS-4909", "relation": "NONE", "predecessor": "i", "quote": "MESOS-4909 did not aim to solve this problem, but rather generalize the way tasks finalize.", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-4678", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4459", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-4805", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-4803", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4386", "j": "MESOS-5271", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.23, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-5121", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.72, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-5263", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-5069", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-4879", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4612", "j": "MESOS-4897", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4629", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4634", "j": "MESOS-5000", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4678", "j": "MESOS-4805", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4678", "j": "MESOS-4803", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4678", "j": "MESOS-4802", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4658", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "This is a follow up JIRA based on the comments from MESOS-3302 around testing the v1 Scheduler/Executor API.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4633", "j": "MESOS-5000", "relation": "FS", "predecessor": "i", "quote": "I could trace this to the recent refactoring of the test helpers (MESOS-4633, MESOS-4634),", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4761", "j": "MESOS-5117", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4758", "j": "MESOS-5117", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.72, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4689", "j": "MESOS-5060", "relation": "FS", "predecessor": "i", "quote": "There is currently a design doc in progress which will be introducing a versioned operator HTTP API (MESOS-4791), so it's possible that we could wait to implement the new semantics until that work is implemented.", "confidence": 0.67, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4759", "j": "MESOS-5117", "relation": "FS", "predecessor": "i", "quote": "In MESOS-4641, we have made the container created by Mesos can join CNI network by introducing {{network/cni}} isolator, we need to enhance {{mesos-execute}} to support CNI network as well by introducing a {{--networks}} flag.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4764", "j": "MESOS-5117", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4802", "j": "MESOS-4803", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4771", "j": "MESOS-5117", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4802", "j": "MESOS-4805", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4802", "j": "MESOS-4897", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4802", "j": "MESOS-5121", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4802", "j": "MESOS-5263", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4802", "j": "MESOS-4879", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4803", "j": "MESOS-4805", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4802", "j": "MESOS-5069", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4803", "j": "MESOS-5069", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4803", "j": "MESOS-4879", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4805", "j": "MESOS-4897", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4803", "j": "MESOS-5121", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4803", "j": "MESOS-5263", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4805", "j": "MESOS-4879", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4803", "j": "MESOS-4897", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4805", "j": "MESOS-5063", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.75, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4805", "j": "MESOS-5069", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4805", "j": "MESOS-5263", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4805", "j": "MESOS-5121", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4810", "j": "MESOS-5351", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4902", "j": "MESOS-4951", "relation": "FS", "predecessor": "j", "quote": "To prepare for MESOS-4902, the Mesos master and agent need a way to pass the desired authentication realm to libprocess.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4850", "j": "MESOS-4902", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.71, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4902", "j": "MESOS-5152", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4902", "j": "MESOS-5286", "relation": "FS", "predecessor": "i", "quote": "Now that the libprocess-level HTTP endpoints have had authentication added to them in MESOS-4902, we can add authorization to them as well.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4850", "j": "MESOS-4956", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4922", "j": "MESOS-5117", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4932", "j": "MESOS-5168", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4932", "j": "MESOS-5169", "relation": "FS", "predecessor": "i", "quote": "For authorization based endpoint filtering we need to introduce the authorizer actions outlined via MESOS-4932.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4933", "j": "MESOS-4956", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4933", "j": "MESOS-4951", "relation": "FS", "predecessor": "j", "quote": "May depend on MESOS-4951 (pass authn realm to libprocess), similar to MESOS-4956 (/files authn).", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4932", "j": "MESOS-5339", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4932", "j": "MESOS-5170", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4981", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4950", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4956", "j": "MESOS-5153", "relation": "FS", "predecessor": "i", "quote": "MESOS-4956 introduced authentication support for the sandboxes.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4934", "j": "MESOS-5273", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5014", "j": "MESOS-5018", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5014", "j": "MESOS-5015", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5005", "j": "MESOS-5212", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5014", "j": "MESOS-5031", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5013", "j": "MESOS-5216", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5015", "j": "MESOS-5031", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-4982", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "This is a follow up JIRA based on the comments from MESOS-3302 around testing the v1 Scheduler/Executor API.", "confidence": 0.87, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5020", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5018", "j": "MESOS-5031", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5015", "j": "MESOS-5018", "relation": "NONE", "predecessor": "i", "quote": "See MESOS-4997 for the general issue around enum usage.", "confidence": 0.91, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5057", "j": "MESOS-5230", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5055", "j": "MESOS-5230", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5475", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5477", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5474", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5480", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5479", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5485", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5484", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5478", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5487", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5486", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5489", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5492", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5491", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5494", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5498", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5495", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5493", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5496", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5497", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.64, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5499", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5500", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5501", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5502", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5504", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5503", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5506", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5505", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5509", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5507", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5512", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5508", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5510", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5514", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5513", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5517", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5511", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5518", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5593", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5695", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5642", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5616", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5572", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5609", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5060", "j": "MESOS-5750", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5113", "j": "MESOS-5117", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5127", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5167", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5453", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5413", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5225", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5226", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5592", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5667", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5130", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5669", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5155", "j": "MESOS-5336", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5639", "relation": "NONE", "predecessor": "i", "quote": "We need to document the behavior implemented in MESOS-5592.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5117", "j": "MESOS-5806", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5168", "j": "MESOS-5169", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5159", "j": "MESOS-5178", "relation": "FS", "predecessor": "j", "quote": "Updated to fail with TASK_ERROR semantics based on MESOS-5178", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5121", "j": "MESOS-5263", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5168", "j": "MESOS-5339", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5168", "j": "MESOS-5170", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5168", "j": "MESOS-5403", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5168", "j": "MESOS-5338", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5170", "j": "MESOS-5339", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5169", "j": "MESOS-5170", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5168", "j": "MESOS-5404", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.54, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5168", "j": "MESOS-5587", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5169", "j": "MESOS-5339", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5170", "j": "MESOS-5338", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5170", "j": "MESOS-5587", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5216", "j": "MESOS-5265", "relation": "FS", "predecessor": "j", "quote": "The docker volume isolator documentation MESOS-5216 will depend on this as I want to use {{mesos-execute}} as an example to test out docker volume isolator.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5222", "j": "MESOS-5593", "relation": "NONE", "predecessor": "i", "quote": "There should not be any noticeable performance degradations (at least we did not observe them while doing scale testing as part of MESOS-5222.", "confidence": 0.91, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5222", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5170", "j": "MESOS-5404", "relation": "FS", "predecessor": "j", "quote": "As we need to be able to authorize `Tasks` (e.g., for deciding whether to include them in the /state endpoint when applying authorization based filtering) we need to expose it to the authorizer.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5212", "j": "MESOS-5215", "relation": "NONE", "predecessor": "i", "quote": "I am assuming the documentation changes that go along with the new behavior will then be posted against MESOS-5215?", "confidence": 0.74, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5170", "j": "MESOS-5403", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.59, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5271", "j": "MESOS-5370", "relation": "FS", "predecessor": "i", "quote": "MESOS-5271 adds support for a flag name to have an alias.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5265", "j": "MESOS-5641", "relation": "FS", "predecessor": "i", "quote": "The mesos-execute was fixed in MESOS-5265 , the document should be updated to reflect how to use mesos-execute to test the feature of docker volume isolator.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5330", "j": "MESOS-5359", "relation": "NONE", "predecessor": "i", "quote": "A possible solution can be to introduce a {{delay}} here: https://github.com/apache/mesos/blob/master/src/scheduler/scheduler.cpp#L473", "confidence": 0.6, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5335", "j": "MESOS-5403", "relation": "FS", "predecessor": "j", "quote": "Once authorization filters land (MESOS-5403), we will be updating the implementation.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5339", "j": "MESOS-5403", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5308", "j": "MESOS-5394", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5338", "j": "MESOS-5339", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5335", "j": "MESOS-5336", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5239", "j": "MESOS-5413", "relation": "NONE", "predecessor": "i", "quote": "However, we should not do a self bind mount if the mount containing the CNI network information root directory is already a shared mount in its own share peer group, just like what we did for `filesystem/linux` isolator in [MESOS-5239 | https://issues.apache.org/jira/browse/MESOS-5239].", "confidence": 0.77, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5339", "j": "MESOS-5587", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5339", "j": "MESOS-5404", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5419", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5341", "j": "MESOS-5389", "relation": "NONE", "predecessor": "i", "quote": "I'm linking this with MESOS-5341 cause I was now enhancing docker containerizer with docker volume support, hope we can get more comments from [~<USER> and [~<USER>", "confidence": 0.73, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5457", "j": "MESOS-5537", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5429", "j": "MESOS-5438", "relation": "NONE", "predecessor": "i", "quote": "Similiar as MESOS-5429, it is difficult to know what is wrong with {{mesos-cat}},  {{mesos-tail}},  {{mesos-scp}} when those three command call {{/master/state}} failed, we should update those commands as well to get more clear error message.", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5359", "j": "MESOS-5457", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5581", "j": "MESOS-5582", "relation": "FS", "predecessor": "i", "quote": "Assuming the guaranteed ordering between isolators from MESOS-5581, we can be sure that the dependency order between the `cgroups/devices` and `gpu/nvidia` isolators is met.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5592", "j": "MESOS-5639", "relation": "FS", "predecessor": "i", "quote": "We need to document the behavior implemented in MESOS-5592.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5587", "j": "MESOS-5629", "relation": "NONE", "predecessor": "i", "quote": "The agent was built from the 1.0.0-rc1 branch, with two cherry-picks applied: [this|https://reviews.apache.org/r/48563/] and [this|https://reviews.apache.org/r/48566/], which were done to repair a different [segfault issue|https://issues.apache.org/jira/browse/MESOS-5587] on the master and agent.", "confidence": 0.71, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5629", "j": "MESOS-5684", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5576", "j": "MESOS-5740", "relation": "FS", "predecessor": "j", "quote": "Review based on [MESOS-5740]: https://reviews.apache.org/r/49346/", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5634", "j": "MESOS-5743", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.85, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5600", "j": "MESOS-5601", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5634", "j": "MESOS-5758", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5498", "j": "MESOS-5609", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.41, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5669", "j": "MESOS-5702", "relation": "FF", "predecessor": "i", "quote": "I thought I'd log the issue, but if it has been fixed by the issue above, feel free to close.", "confidence": 0.84, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5743", "j": "MESOS-5758", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "MESOS-5705", "j": "MESOS-5706", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

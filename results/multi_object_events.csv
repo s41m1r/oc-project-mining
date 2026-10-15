@@ -1,0 +1,449 @@
+field,events,other_object_type,used_by_technique
+Workflow,1796669,,False
+status,1362872,,True
+Fix Version,599621,release,True
+labels,467574,,False
+Rank,455498,,False
+Link,448089,issue,True
+resolution,415595,,True
+assignee,342418,user,True
+UIS,334435,,False
+Component,306011,component,True
+description,264455,,False
+RemoteIssueLink,263982,,False
+Sprint,174915,sprint,True
+Support reference count,138388,,False
+Attachment,124664,,False
+Version,123816,release,True
+priority,110500,,False
+issuetype,93487,,True
+Epic Link,92706,epic,True
+summary,83559,,False
+Epic Child,73054,issue,True
+Planned End,56370,,False
+Story Points,48205,,True
+ProjectImport,45519,,False
+Testing Instructions,42362,,False
+Currently in integration,41159,,False
+Pull Master Diff URL,36331,,False
+Planned Start,36184,,False
+timespent,35889,,False
+Symptom Severity,33795,,False
+Key,32435,,False
+timeestimate,30794,,False
+WorklogId,29360,,False
+Pull Master Branch,24900,,False
+Tester,23431,,False
+Pull  from Repository,23353,,False
+Documentation Changes,23065,,False
+project,21574,project,True
+Comment,21508,,False
+Integrator,20870,,False
+Backwards Compatibility,20006,,False
+Minimum Version,19518,,False
+Peer reviewer,18381,,False
+Integration date,16892,,False
+timeoriginalestimate,16182,,False
+Driver Changes,15564,,False
+User Impact Score,13848,,False
+UIS - Server,13281,,False
+Reviewers,13226,,False
+Backlog Order (Obsolete),12823,,False
+Team,12715,,False
+Severity,11649,,False
+security,11014,,False
+Project,10893,,False
+QA Assignee,10634,,False
+Labels,10317,,False
+Backport Requested,8382,,False
+Component watchers,7625,,False
+Rank (Obsolete),7535,,False
+reporter,7010,user,True
+JIRA Support Rank (Obsolete),6853,,False
+Parent,6724,issue,True
+Downstream Team Attention,6670,,False
+Reviewer,6373,,False
+environment,6288,,False
+Occurrence Factor,6257,,False
+ClosedOn,6163,,False
+Bugmaster Rank (Obsolete),6113,,False
+Studio Rank (Obsolete),6113,,False
+Support Rank (Obsolete),6113,,False
+Sprint candidate,5968,,False
+resolutiondate,5568,,False
+Triage,5552,,False
+UIS - Cloud,5075,,False
+Current Status,4704,,False
+Baseline End,4381,,False
+Baseline Start,4381,,False
+Backport,3945,,False
+Sub-Component,3783,,False
+Watchers,3726,,False
+User Summary,3709,,False
+Email,3689,,False
+Case,3635,,False
+Global Rank,3609,,False
+Kernel Team,3375,,False
+Integration priority,3340,,False
+Risk Score,3236,,False
+CAP Verification,3041,,False
+Dev Provided By,2963,,False
+Documentation Required,2801,,False
+Regular Expression,2677,,False
+Internal Complexity,2617,,False
+Internal Value,2604,,False
+End date,2533,,False
+Shepherd,2377,,False
+Target Version/s,2275,,False
+Epic Name,2260,,False
+Start date,2250,,False
+duedate,2190,,False
+SDK Impact,2054,,False
+Value,1976,,False
+Fixed in Build,1935,,False
+Tests Written,1881,,False
+Documentation Impact,1878,,False
+System Test Impact,1868,,False
+Pull 3.4 Diff URL,1854,,False
+Pull 3.3 Diff URL,1842,,False
+Complexity,1776,,False
+Difficulty,1768,,False
+Pull 3.5 Diff URL,1726,,False
+Pull 2.5 Diff URL,1715,,False
+Internal Priority,1699,,False
+Driver changes needed?,1653,,False
+Backport Completed,1627,,False
+Pull 2.7 Diff URL,1614,,False
+Introduced in Version,1604,,False
+Pull 2.3 Diff URL,1599,,False
+Pull 2.6 Diff URL,1554,,False
+Cycle,1548,,False
+Pull 2.8 Diff URL,1539,,False
+Customers,1529,,False
+Pull 2.3 Branch,1499,,False
+Pull 2.5 Branch,1461,,False
+Pull 2.4 Diff URL,1454,,False
+Workaround,1436,,False
+Pull 2.7 Branch,1418,,False
+Pull 2.2 Diff URL,1412,,False
+Pull 3.7 Diff URL,1409,,False
+Server Team,1350,,False
+Pull 2.2 Branch,1348,,False
+Pull 3.3 Branch,1335,,False
+Pull 2.4 Branch,1334,,False
+Pull 2.6 Branch,1334,,False
+Pull 3.4 Branch,1323,,False
+Pull 3.6 Diff URL,1317,,False
+Priority for beta phase,1295,,False
+Pull 2.9 Diff URL,1292,,False
+Steps To Reproduce,1290,,False
+Story Size,1289,,False
+Pull 3.1 Diff URL,1287,,False
+Pull 2.8 Branch,1285,,False
+Pull 3.5 Branch,1276,,False
+Support Rank,1251,,False
+Pull 3.2 Diff URL,1217,,False
+Pull 2.1 Diff URL,1210,,False
+Pull 3.0 Diff URL,1182,,False
+Pull 3.8 Diff URL,1182,,False
+Pull 2.1 Branch,1163,,False
+Epic Status,1148,,False
+Epic/Theme,1146,,False
+Pull 2.9 Branch,1046,,False
+Pull 3.1 Branch,1043,,False
+Pull 3.7 Branch,1025,,False
+Testing Notes,1020,,False
+Pull 3.6 Branch,992,,False
+Scrum Ranking (Obsolete),975,,False
+Backward Breaking,964,,False
+Actual End,959,,False
+Pull 3.0 Branch,951,,False
+Pull 3.2 Branch,942,,False
+Operating System,926,,False
+QA Kickoff Status,913,,False
+PM Reviewed,872,,False
+Pull 3.8 Branch,852,,False
+QA Demo Status,849,,False
+Customer Priority,833,,False
+Database,816,,False
+Documentation changes needed?,764,,False
+WBS,753,,False
+Dev Owner,716,,False
+Documentation Changes Summary,707,,False
+Actual Time,687,,False
+Pull 2.0 Diff URL,658,,False
+Defect Source,653,,False
+Pull Request URL,653,,False
+SteakHolder,648,,False
+Pull 2.0 Branch,641,,False
+Resolution,607,,False
+Status,603,,False
+Theme,602,,False
+Risk,600,,False
+Fixed in Enterprise Release/s,599,,False
+Issue Type,599,,False
+type,592,,False
+Parent Issue,591,issue,True
+Requires More Info,569,,False
+Severity Label,560,,False
+Actual Story Points,541,,False
+Notability,540,,False
+Teams Impacted,537,,False
+Downstream Changes Summary,519,,False
+Bug Type,491,,False
+Developed By,484,,False
+Business Value,477,,False
+Fix For,475,,False
+Estimate,472,,False
+Number of Developers,470,,False
+Pull 3.9 Diff URL,464,,False
+Flagged,455,,False
+Customer,443,,False
+Testing Performed,430,,False
+Backlog Order,426,,False
+Affects Docs,423,,False
+Internal Work Bucket,421,,False
+External issue ID,420,,False
+Testing Strategy,420,,False
+Code Review,404,,False
+Checked Code Coverage,400,,False
+Documentation link,375,,False
+Pull 3.9 Branch,375,,False
+Development Effort,372,,False
+Browser,351,,False
+Partner backlog,348,,False
+Effort points,338,,False
+Pull 3.10 Diff URL,337,,False
+QA Owner,331,,False
+URL,321,,False
+Urgent?,314,,False
+Test Result,312,,False
+Affects,308,,False
+QA Story Points,283,,False
+Is,277,,False
+Pull 3.10 Branch,268,,False
+User impact,267,,False
+Epic Colour,266,,False
+Time Spent,263,,False
+CVSS Score,255,,False
+Tested By,235,,False
+Release Note,224,,False
+Code Review Owner,223,,False
+Task Type,221,,False
+Issue size,215,,False
+Data Collection,212,,False
+Themes,212,,False
+Epic Color,207,,False
+WorklogTimeSpent,206,,False
+Test Type,204,,False
+Does this issue require documentation?,196,,False
+Design Status,192,,False
+Function Test Status,192,,False
+Documentation Status,188,,False
+Sample/Tutorial,185,,False
+Backport Approved,177,,False
+Executed,174,,False
+QA Needed,161,,False
+Customer Value Points,155,,False
+Confidence Level,153,,False
+Buildvariants,148,,False
+Story Points (Obsolete),146,,False
+To be done by,146,,False
+Includes Code Fix,145,,False
+Acceptance Criteria,141,,False
+Detailed Project Statuses,136,,False
+Epic SP Progress,132,,False
+Epic Story  Progress,132,,False
+Pull 1.9 Branch,132,,False
+Pull 1.9 Diff URL,131,,False
+Failing Test Suite,130,,False
+Automation Required,122,,False
+Configuration,121,,False
+Trouble Ticket,121,,False
+Work Type,120,,False
+Test Link(s),110,,False
+Pre-priority,102,,False
+Test Result Details,101,,False
+Injected,100,,False
+Migration Impact,100,,False
+LH version,98,,False
+Assignee,91,,False
+CC,91,,False
+PM Value,91,,False
+Steps to Reproduce,91,,False
+Streams,91,,False
+Release version,88,,False
+Test Status,87,,False
+Epic,86,,False
+QA Test Plan,81,,False
+Log Output,78,,False
+Work Effort (0-10),78,,False
+Reported in Build #,74,,False
+Aha! Reference,70,,False
+Aha! Rank,68,,False
+Product Rank,68,,False
+Verification,67,,False
+Launch Plan,62,,False
+Splunk query to find customers impacted by this bug,55,,False
+Test Plan,55,,False
+Fixed in Long Term Support Release/s,54,,False
+Metric Value,50,,False
+Test Case Automated,50,,False
+Description,49,,False
+% Users Impacted,47,,False
+Ordinal Priority,47,,False
+Points,43,,False
+UserVoice Links,42,,False
+QA brought to you by,41,,False
+Summary,40,,False
+company,39,,False
+Effort,38,,False
+Priority,37,,False
+Owner,36,,False
+Metric Unit,35,,False
+Release Note Required,35,,False
+Includes test case?,33,,False
+Release Version History,33,,False
+Design,32,,False
+Reporter,32,,False
+JIRA Support Rank,30,,False
+Milestone Level,29,,False
+OS and Version,29,,False
+Plugin Version,29,,False
+Unique Views,29,,False
+Risk Assessment,27,,False
+Studio Rank,25,,False
+Swan Flag,25,,False
+Bugmaster Rank,24,,False
+Random text,24,,False
+Vendor,24,,False
+Animal,23,,False
+Demo,21,,False
+Review Link,21,,False
+Story points,20,,False
+CLA,19,,False
+External issue URL,19,,False
+Failing Buildvariants,19,,False
+Found in Commit,19,,False
+Support Hot Issues Workaround,19,,False
+Site,18,,False
+SFDC Case URL,17,,False
+SFDC Customer Impact,17,,False
+Docs Text,16,,False
+SFDC Case Severity,16,,False
+Splunk query to find customers impacted by this incident,16,,False
+Evergreen Project,15,,False
+Roadmap,14,,False
+Sub Theme,14,,False
+Customer Labels,12,,False
+Reference URL,12,,False
+Environment,11,,False
+JIRA Version,11,,False
+Product-Component,11,,False
+Add-on Type,10,,False
+Count of Linked Failures,10,,False
+Failing Tasks,10,,False
+Out of Scope,10,,False
+First Failing Revision (git hash),9,,False
+Old_Backport,9,,False
+PercentDone,9,,False
+Product,9,,False
+SERVER fixVersion,9,,False
+User Agent,9,,False
+uuid,9,,False
+Assigned Teams,8,,False
+Scope,8,,False
+Task Points,8,,False
+Topology,8,,False
+Whiteboard,8,,False
+Backlog priority,7,,False
+Bamboo Ranking,7,,False
+Bamboo Stream,7,,False
+Baseline end date,7,,False
+Baseline start date,7,,False
+Customer name,7,,False
+Flags,7,,False
+Has Been Automated,7,,False
+Language,7,,False
+Platform,7,,False
+Alignment,6,,False
+E-mail,6,,False
+Epic Label,6,,False
+Feature,6,,False
+Full Name,6,,False
+MongoDB Version,6,,False
+Original Estimate,6,,False
+R,6,,False
+Ranking,6,,False
+Units,6,,False
+Usage,6,,False
+Value/Effort,6,,False
+Other viewers,5,,False
+Points (historical dont use),5,,False
+Target Release,5,,False
+Affects Clover-for-Eclipse,4,,False
+Alcohol consumed prior to contributing to this issue,4,,False
+Authorized Watchers,4,,False
+Defect Type,4,,False
+Driver Validation,4,,False
+Driver Version,4,,False
+DriverOrigin,4,,False
+QA Lead Assigned,4,,False
+Regular Expression - old,4,,False
+Scheduling,4,,False
+Spec Link,4,,False
+Support Points,4,,False
+Support Priority,4,,False
+Support Request Message (IssueType:Bug),4,,False
+Zendesk ticket Reference,4,,False
+Actual Start,3,,False
+Admin-Comment-Bulk Update Author,3,,False
+Bug Symptoms,3,,False
+Connector category,3,,False
+Failure Type,3,,False
+Plugin Info,3,,False
+Release Notes,3,,False
+Alert SARA,2,,False
+Backportable,2,,False
+Boost Version,2,,False
+Customer Request Type,2,,False
+Failing Tests,2,,False
+JAC issue link,2,,False
+Journal URL,2,,False
+Name,2,,False
+Project Planning,2,,False
+Rationale,2,,False
+Repro Case,2,,False
+Request participants,2,,False
+Responsible Organization,2,,False
+Reviewer comments,2,,False
+Tags,2,,False
+Arch,1,,False
+Art points,1,,False
+Atlassian Product,1,,False
+Automation Done,1,,False
+Burger options,1,,False
+Checklist,1,,False
+Color of label tdl-priority of field Tags,1,,False
+Compiler and Version,1,,False
+Demo Completed,1,,False
+Documentation Completed,1,,False
+EIS,1,,False
+Ecosystem Frameworks,1,,False
+Ecosystem Products,1,,False
+First Failing Revision,1,,False
+Flag,1,,False
+INFRA-Members,1,,False
+Organizations,1,,False
+Performance Done,1,,False
+ROM,1,,False
+Ranked Priority,1,,False
+Rating,1,,False
+Revision Order Number,1,,False
+Risk factor,1,,False
+Security Review Done,1,,False
+Testing instructions,1,,False
+Urgent,1,,False
+Vendor Delivery Date,1,,False
+Virtual Machine,1,,False
+components,1,,False

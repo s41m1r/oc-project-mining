@@ -1,0 +1,136 @@
+{
+ "edges": [
+  {
+   "pred": "A",
+   "succ": "E",
+   "type": "FF",
+   "stated": null,
+   "support": 1.25,
+   "e2": [
+    "same epic"
+   ],
+   "declared": true,
+   "removed": false,
+   "kind": "declared",
+   "textual": false,
+   "quote": null,
+   "hidden": false
+  },
+  {
+   "pred": "B",
+   "succ": "E",
+   "type": "FF",
+   "stated": null,
+   "support": 1.25,
+   "e2": [
+    "same epic"
+   ],
+   "declared": true,
+   "removed": false,
+   "kind": "declared",
+   "textual": false,
+   "quote": null,
+   "hidden": false
+  },
+  {
+   "pred": "C",
+   "succ": "E",
+   "type": "FF",
+   "stated": null,
+   "support": 1.25,
+   "e2": [
+    "same epic"
+   ],
+   "declared": true,
+   "removed": false,
+   "kind": "declared",
+   "textual": false,
+   "quote": null,
+   "hidden": false
+  },
+  {
+   "pred": "A",
+   "succ": "D",
+   "type": "FF",
+   "stated": null,
+   "support": 1.25,
+   "e2": [
+    "same epic"
+   ],
+   "declared": true,
+   "removed": false,
+   "kind": "declared",
+   "textual": false,
+   "quote": null,
+   "hidden": false
+  },
+  {
+   "pred": "A",
+   "succ": "F",
+   "type": "FS",
+   "stated": null,
+   "support": 1.0,
+   "e2": [],
+   "declared": true,
+   "removed": false,
+   "kind": "declared",
+   "textual": false,
+   "quote": null,
+   "hidden": false
+  },
+  {
+   "pred": "B",
+   "succ": "D",
+   "type": "FF",
+   "stated": "FS",
+   "support": 1.1600000000000001,
+   "e2": [
+    "same epic"
+   ],
+   "declared": false,
+   "removed": false,
+   "kind": null,
+   "textual": true,
+   "quote": "[2026-01-14] To test this with the new version, we need all issues of epic PRJ-7 to be applied.",
+   "hidden": true
+  },
+  {
+   "pred": "C",
+   "succ": "D",
+   "type": "FF",
+   "stated": "FS",
+   "support": 0.96,
+   "e2": [
+    "same epic"
+   ],
+   "declared": false,
+   "removed": false,
+   "kind": null,
+   "textual": true,
+   "quote": "[2026-01-14] To test this with the new version, we need all issues of epic PRJ-7 to be applied.",
+   "hidden": true
+  }
+ ],
+ "dropped": [
+  {
+   "pred": "F",
+   "succ": "D",
+   "reason": "support",
+   "type": "FF"
+  },
+  {
+   "pred": "E",
+   "succ": "D",
+   "reason": "violated",
+   "type": "FF"
+  }
+ ],
+ "realized_slack_days": {
+  "A": 7.0,
+  "B": 8.0,
+  "C": 8.0,
+  "D": 3.0,
+  "E": 0.0,
+  "F": 5.0
+ }
+}

@@ -1,0 +1,4 @@
+project,releases,tasks,declared_links,fs_satisfied,ff_satisfied,violated_ff,added_after_succ_start,added_after_pred_end,removed_share,network_edges,FS,FF,hidden,connected_share,median_longest_chain,max_longest_chain,spearman_pred_vs_realized_slack
+MDL,44,19789,2500,0.256,0.783,0.217,0.0,0.0,0.078,1993,659,1331,41,0.148,4.0,8,0.005
+MESOS,8,2209,258,0.093,0.601,0.399,0.004,0.004,0.055,162,28,134,15,0.105,3.0,5,-0.091
+SERVER,35,13933,1161,0.377,0.906,0.094,0.001,0.001,0.077,1188,528,658,88,0.124,3.0,6,0.02

@@ -1,0 +1,6 @@
+project,variant,releases,tasks,slip_rate,slip_low_slack_q1,slip_high_slack_q4,slip_connected,slip_isolated,slip_has_pred,slip_no_pred,slip_critical,n_critical
+MDL,mid,17,2435,0.775,0.828,0.659,0.49,0.781,0.524,0.777,0.596,57
+MDL,start,4,500,0.966,0.977,0.913,1.0,0.966,1.0,0.966,,0
+MESOS,start,1,40,0.825,1.0,,,0.825,,0.825,,0
+SERVER,mid,13,500,0.518,0.496,0.566,0.485,0.52,0.643,0.514,,0
+SERVER,start,11,521,0.585,0.625,0.569,0.633,0.581,0.739,0.578,,0

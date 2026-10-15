@@ -1,0 +1,41 @@
+## Prompt for LLM-based evidence extraction (E3), Step 3 of object-centric project mining.
+## Placeholders in <...> are filled per candidate pair (i, j).
+
+System:
+You analyze two issues of a software project. Decide whether the text states
+that one issue depends on the other. Answer only from the text.
+
+Use FS if a task cannot start before the other finishes,
+    SS if a task cannot start before the other starts,
+    FF if a task cannot finish before the other finishes,
+    SF if a task cannot finish before the other starts,
+    NONE if no dependency is stated.
+The quote must be a verbatim sentence from the input that states the
+dependency. Answers whose quote does not occur in the input are discarded.
+A comment may refer to a group of issues, e.g., "all issues of epic X";
+use the epic and components of both issues to decide whether it covers them.
+
+User:
+Issue i: <key>
+Title: <title>
+Epic: <epic>
+Components: <components>
+Description: <description>   (at most 4,000 characters)
+Comments:
+[<date>] <comment>   (one per line, at most 30, each at most 1,500 characters)
+
+Issue j: <key>
+Title: <title>
+Epic: <epic>
+Components: <components>
+Description: <description>   (at most 4,000 characters)
+Comments:
+[<date>] <comment>
+
+Answer with the JSON object only.
+
+Output (structured output, JSON schema):
+{"relation": "FS" | "SS" | "FF" | "SF" | "NONE",
+ "predecessor": "i" | "j",
+ "quote": "<verbatim sentence from the input>",
+ "confidence": <number between 0 and 1>}

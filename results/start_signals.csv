@@ -1,0 +1,5 @@
+project,resolved,no_start,no_start_pct,click_1h_pct,click_1d_pct,parents_with_started_subtasks,sub_earlier
+MESOS,5661,1266,22.4,6.9,18.5,3,1
+DM,22570,6043,26.8,12.1,26.7,29,16
+SERVER,29167,7406,25.4,3.7,26.2,19,8
+MDL,30709,11336,36.9,2.8,6.5,138,113

@@ -1,0 +1,6 @@
+{"i": "DM-19873", "j": "DM-19877", "relation": "FS", "predecessor": "j", "quote": "This PR requires that DM-19877 is merged first.", "confidence": 0.99, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16554", "j": "DM-17228", "relation": "FS", "predecessor": "i", "quote": "Once DM-16554 is merged there will be two metadata translators in obs_lsst.", "confidence": 0.99, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17025", "j": "DM-18181", "relation": "FS", "predecessor": "i", "quote": "DM-17025 added the ability to validate a DatasetRef against a selected file template.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-18864", "j": "DM-9873", "relation": "FS", "predecessor": "j", "quote": "The changes are at https://github.com/lsst/afw/pull/446/files and depend on DM-9873 changes to daf_base.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16292", "j": "DM-16554", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-19188", "j": "DM-19682", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.47, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

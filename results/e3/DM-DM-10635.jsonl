@@ -1,0 +1,11 @@
+{"i": "DM-10639", "j": "DM-11253", "relation": "FS", "predecessor": "i", "quote": "Includes converting existing content found in DM-10639.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11034", "j": "DM-11077", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11002", "j": "DM-11225", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.81, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10637", "j": "DM-11077", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10637", "j": "DM-11034", "relation": "SS", "predecessor": "i", "quote": "This is an addition to the original Getting Started tutorial series from DM-10637.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11007", "j": "DM-11597", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11007", "j": "DM-11334", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11597", "j": "DM-11630", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11597", "j": "DM-11639", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11004", "j": "DM-11597", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.57, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11253", "j": "DM-11513", "relation": "FS", "predecessor": "i", "quote": "The next step is to document these content patterns and the Git repository layout more precisely so that the {{pipe_base}} documentation effort can be replicated by anyone in any other package.", "confidence": 0.78, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}

@@ -1,0 +1,32 @@
+[
+ {
+  "predecessor": "DM-6629",
+  "successor": "DM-6917",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-7071",
+  "successor": "DM-7082",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-7098",
+  "successor": "DM-6992",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-6992",
+  "successor": "DM-7216",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-7005",
+  "successor": "DM-8195",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-8368",
+  "successor": "DM-8398",
+  "type": "FS"
+ }
+]

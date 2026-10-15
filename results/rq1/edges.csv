@@ -1,0 +1,895 @@
+epic,variant,pred,succ,type,support,hidden,in_gt,gt_type,quote
+DM-10099,B1,DM-9403,DM-11623,FS,1.5,False,False,,
+DM-10099,B1,DM-11624,DM-11612,FF,1.5,False,False,,
+DM-10099,B1,DM-11623,DM-11624,FS,1.5,False,False,,
+DM-10099,B1,DM-11464,DM-11612,FF,1.5,False,False,,
+DM-10099,E3-mention,DM-11624,DM-11612,FF,1.49,True,False,,"Further progress on this is blocked until DM-11624 (converting {{stack-os-matrix}} to jenkins pipeline dsl) is resolved, as I want to do the junit xml file collection in the pipeline dsl."
+DM-10099,E3-mention,DM-11612,DM-11692,FS,1.48,True,True,SF,"Post merger of DM-11612, junit xml files have been recorded with a non-zero failure count even though the build completed successfully."
+DM-10099,E3-mention,DM-9351,DM-9759,FF,1.4300000000000002,True,True,SF,"Due to DM-9351, what I would like to is remove the ability to select the py version completely and hardwire it to run py2/3 and completely split sims off to a separate build, is that acceptable?"
+DM-10099,E3-mention,DM-9403,DM-8381,FF,1.3599999999999999,True,False,,"There was a core + plugin update as part of DM-9403, which covered the intent of this ticket."
+DM-10099,FULL-mention,DM-9403,DM-11623,FS,1.5,False,False,,
+DM-10099,FULL-mention,DM-11624,DM-11612,FF,2.49,False,False,,"Further progress on this is blocked until DM-11624 (converting {{stack-os-matrix}} to jenkins pipeline dsl) is resolved, as I want to do the junit xml file collection in the pipeline dsl."
+DM-10099,FULL-mention,DM-11623,DM-11624,FS,1.5,False,False,,
+DM-10099,FULL-mention,DM-11464,DM-11612,FF,1.5,False,False,,
+DM-10099,FULL-mention,DM-11612,DM-11692,FS,1.48,True,True,SF,"Post merger of DM-11612, junit xml files have been recorded with a non-zero failure count even though the build completed successfully."
+DM-10099,FULL-mention,DM-9351,DM-9759,FF,1.4300000000000002,True,True,SF,"Due to DM-9351, what I would like to is remove the ability to select the py version completely and hardwire it to run py2/3 and completely split sims off to a separate build, is that acceptable?"
+DM-10099,FULL-mention,DM-9403,DM-8381,FF,1.3599999999999999,True,False,,"There was a core + plugin update as part of DM-9403, which covered the intent of this ticket."
+DM-10099,E3,DM-11624,DM-11612,FF,1.49,True,False,,"Further progress on this is blocked until DM-11624 (converting {{stack-os-matrix}} to jenkins pipeline dsl) is resolved, as I want to do the junit xml file collection in the pipeline dsl."
+DM-10099,E3,DM-11612,DM-11692,FS,1.48,True,True,SF,"Post merger of DM-11612, junit xml files have been recorded with a non-zero failure count even though the build completed successfully."
+DM-10099,E3,DM-9351,DM-9759,FF,1.4300000000000002,True,True,SF,"Due to DM-9351, what I would like to is remove the ability to select the py version completely and hardwire it to run py2/3 and completely split sims off to a separate build, is that acceptable?"
+DM-10099,E3,DM-9403,DM-8381,FF,1.3599999999999999,True,False,,"There was a core + plugin update as part of DM-9403, which covered the intent of this ticket."
+DM-10099,E3,DM-11624,DM-9406,FF,1.28,True,False,,"Moving the production instance to BO would require removal of any """"""""matrix"""""""" job types as they are incompatible with the new UI."
+DM-10099,FULL,DM-9403,DM-11623,FS,1.5,False,False,,
+DM-10099,FULL,DM-11624,DM-11612,FF,2.49,False,False,,"Further progress on this is blocked until DM-11624 (converting {{stack-os-matrix}} to jenkins pipeline dsl) is resolved, as I want to do the junit xml file collection in the pipeline dsl."
+DM-10099,FULL,DM-11623,DM-11624,FS,1.5,False,False,,
+DM-10099,FULL,DM-11464,DM-11612,FF,1.5,False,False,,
+DM-10099,FULL,DM-11612,DM-11692,FS,1.48,True,True,SF,"Post merger of DM-11612, junit xml files have been recorded with a non-zero failure count even though the build completed successfully."
+DM-10099,FULL,DM-9351,DM-9759,FF,1.4300000000000002,True,True,SF,"Due to DM-9351, what I would like to is remove the ability to select the py version completely and hardwire it to run py2/3 and completely split sims off to a separate build, is that acceptable?"
+DM-10099,FULL,DM-9403,DM-8381,FF,1.3599999999999999,True,False,,"There was a core + plugin update as part of DM-9403, which covered the intent of this ticket."
+DM-10099,FULL,DM-11624,DM-9406,FF,1.28,True,False,,"Moving the production instance to BO would require removal of any """"""""matrix"""""""" job types as they are incompatible with the new UI."
+DM-8397,B1,DM-16666,DM-16668,FS,1.5,False,False,,
+DM-8397,B1,DM-16809,DM-16665,FF,1.5,False,False,,
+DM-8397,E3-mention,DM-16809,DM-16665,FF,1.47,True,False,,See DM-16809 (the blocking ticket) for more details.
+DM-8397,E3-mention,DM-16707,DM-16668,FS,1.4300000000000002,True,False,,"[2018-12-20] ""Follow-up items are in DM-16668 (Implement the UI for TAP service) """
+DM-8397,E3-mention,DM-16707,DM-15492,FF,1.47,True,False,,"This has been accomplished by DM-16707, DM-17212."
+DM-8397,FULL-mention,DM-16666,DM-16668,FS,1.5,False,False,,
+DM-8397,FULL-mention,DM-16809,DM-16665,FF,2.4699999999999998,False,False,,See DM-16809 (the blocking ticket) for more details.
+DM-8397,FULL-mention,DM-16707,DM-16668,FS,1.4300000000000002,True,False,,"[2018-12-20] ""Follow-up items are in DM-16668 (Implement the UI for TAP service) """
+DM-8397,FULL-mention,DM-16707,DM-15492,FF,1.47,True,False,,"This has been accomplished by DM-16707, DM-17212."
+DM-8397,E3,DM-16809,DM-16665,FF,1.47,True,False,,See DM-16809 (the blocking ticket) for more details.
+DM-8397,E3,DM-16707,DM-16668,FS,1.4300000000000002,True,False,,"[2018-12-20] ""Follow-up items are in DM-16668 (Implement the UI for TAP service) """
+DM-8397,E3,DM-16707,DM-15492,FF,1.47,True,False,,"This has been accomplished by DM-16707, DM-17212."
+DM-8397,FULL,DM-16666,DM-16668,FS,1.5,False,False,,
+DM-8397,FULL,DM-16809,DM-16665,FF,2.4699999999999998,False,False,,See DM-16809 (the blocking ticket) for more details.
+DM-8397,FULL,DM-16707,DM-16668,FS,1.4300000000000002,True,False,,"[2018-12-20] ""Follow-up items are in DM-16668 (Implement the UI for TAP service) """
+DM-8397,FULL,DM-16707,DM-15492,FF,1.47,True,False,,"This has been accomplished by DM-16707, DM-17212."
+DM-4890,B1,DM-7195,DM-9253,FF,1.5,False,False,,
+DM-4890,B1,DM-9141,DM-9253,FF,1.5,False,False,,
+DM-4890,B1,DM-9164,DM-9253,FF,1.5,False,False,,
+DM-4890,B1,DM-9272,DM-9253,FF,1.5,False,False,,
+DM-4890,B1,DM-9300,DM-9253,FF,1.25,False,False,,
+DM-4890,E3-mention,DM-5388,DM-6134,FF,1.23,True,False,,Then another ticket to finish up (part 2 of this ticket) - Fix the UI style
+DM-4890,E3-mention,DM-6500,DM-6617,FS,1.4,True,False,,"from pull request DM-6500:  https://github.com/Caltech-IPAC/firefly/pull/102  * 2MASS All-Sky 'Read Me!' link in Catalog Search panel points to http://localhost:8080/irsaviewer/Q'http://hades.ipac.caltech.edu/applications/Gator/GatorAid/irsa/scan.html'E * -If you search m31 2MASS scan info catalog (4th catalog in the list), then bring back catalog panel, the first catalog is highlighted, but if you search, you'll notice that you are still searching 2MASS scan info.-"
+DM-4890,E3-mention,DM-7162,DM-7159,FF,1.3399999999999999,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,E3-mention,DM-7165,DM-7159,FF,1.46,True,False,,* one to build the phase folded curve based on (DM-7165)
+DM-4890,E3-mention,DM-7166,DM-7159,FF,1.44,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,E3-mention,DM-5388,DM-6136,FF,1.3399999999999999,True,False,,Catalog panel (DM-5388) needed an input area for polygon input search but it needs a review and connect the validation reducer to it.
+DM-4890,E3-mention,DM-7162,DM-7161,FF,1.3599999999999999,True,False,,"The main period values come from the result of computing the periodogram (DM-7162), called the peaks table."
+DM-4890,E3-mention,DM-7196,DM-7164,FF,1.29,True,False,,"Those functions will be used by the processors DM-7162, DM-7164, DM-7165 via one or several Firefly 'search' processor."
+DM-4890,E3-mention,DM-7167,DM-7166,FF,1.48,True,False,,Fixed in DM-7167.
+DM-4890,E3-mention,DM-7165,DM-7594,FS,1.46,True,False,,"DM-7165 allow to add an extra column ('phase') to the raw LC table, which result in the phase folded table."
+DM-4890,E3-mention,DM-7195,DM-9300,FF,1.4100000000000001,True,False,,have been fixed in dev by DM-7195
+DM-4890,E3-mention,DM-8310,DM-8627,FS,1.48,True,False,,"once DM-8310 is done, make a RC out of dev and start with DM-8309."
+DM-4890,FULL-mention,DM-9141,DM-9253,FF,1.5,False,False,,
+DM-4890,FULL-mention,DM-9164,DM-9253,FF,1.5,False,False,,
+DM-4890,FULL-mention,DM-9272,DM-9253,FF,1.5,False,False,,
+DM-4890,FULL-mention,DM-9300,DM-9253,FF,1.25,False,False,,
+DM-4890,FULL-mention,DM-5388,DM-6134,FF,1.23,True,False,,Then another ticket to finish up (part 2 of this ticket) - Fix the UI style
+DM-4890,FULL-mention,DM-6500,DM-6617,FS,1.4,True,False,,"from pull request DM-6500:  https://github.com/Caltech-IPAC/firefly/pull/102  * 2MASS All-Sky 'Read Me!' link in Catalog Search panel points to http://localhost:8080/irsaviewer/Q'http://hades.ipac.caltech.edu/applications/Gator/GatorAid/irsa/scan.html'E * -If you search m31 2MASS scan info catalog (4th catalog in the list), then bring back catalog panel, the first catalog is highlighted, but if you search, you'll notice that you are still searching 2MASS scan info.-"
+DM-4890,FULL-mention,DM-7162,DM-7159,FF,1.3399999999999999,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,FULL-mention,DM-7165,DM-7159,FF,1.46,True,False,,* one to build the phase folded curve based on (DM-7165)
+DM-4890,FULL-mention,DM-7166,DM-7159,FF,1.44,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,FULL-mention,DM-5388,DM-6136,FF,1.3399999999999999,True,False,,Catalog panel (DM-5388) needed an input area for polygon input search but it needs a review and connect the validation reducer to it.
+DM-4890,FULL-mention,DM-7162,DM-7161,FF,1.3599999999999999,True,False,,"The main period values come from the result of computing the periodogram (DM-7162), called the peaks table."
+DM-4890,FULL-mention,DM-7196,DM-7164,FF,1.29,True,False,,"Those functions will be used by the processors DM-7162, DM-7164, DM-7165 via one or several Firefly 'search' processor."
+DM-4890,FULL-mention,DM-7167,DM-7166,FF,1.48,True,False,,Fixed in DM-7167.
+DM-4890,FULL-mention,DM-7165,DM-7594,FS,1.46,True,False,,"DM-7165 allow to add an extra column ('phase') to the raw LC table, which result in the phase folded table."
+DM-4890,FULL-mention,DM-7195,DM-9300,FF,1.4100000000000001,True,False,,have been fixed in dev by DM-7195
+DM-4890,FULL-mention,DM-8310,DM-8627,FS,1.48,True,False,,"once DM-8310 is done, make a RC out of dev and start with DM-8309."
+DM-4890,E3,DM-5388,DM-6134,FF,1.23,True,False,,Then another ticket to finish up (part 2 of this ticket) - Fix the UI style
+DM-4890,E3,DM-6500,DM-6617,FS,1.4,True,False,,"from pull request DM-6500:  https://github.com/Caltech-IPAC/firefly/pull/102  * 2MASS All-Sky 'Read Me!' link in Catalog Search panel points to http://localhost:8080/irsaviewer/Q'http://hades.ipac.caltech.edu/applications/Gator/GatorAid/irsa/scan.html'E * -If you search m31 2MASS scan info catalog (4th catalog in the list), then bring back catalog panel, the first catalog is highlighted, but if you search, you'll notice that you are still searching 2MASS scan info.-"
+DM-4890,E3,DM-7162,DM-7159,FF,1.3399999999999999,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,E3,DM-7165,DM-7159,FF,1.46,True,False,,* one to build the phase folded curve based on (DM-7165)
+DM-4890,E3,DM-7166,DM-7159,FF,1.44,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,E3,DM-5388,DM-6136,FF,1.3399999999999999,True,False,,Catalog panel (DM-5388) needed an input area for polygon input search but it needs a review and connect the validation reducer to it.
+DM-4890,E3,DM-7162,DM-7161,FF,1.3599999999999999,True,False,,"The main period values come from the result of computing the periodogram (DM-7162), called the peaks table."
+DM-4890,E3,DM-7196,DM-7164,FF,1.29,True,False,,"Those functions will be used by the processors DM-7162, DM-7164, DM-7165 via one or several Firefly 'search' processor."
+DM-4890,E3,DM-7167,DM-7166,FF,1.48,True,False,,Fixed in DM-7167.
+DM-4890,E3,DM-7165,DM-7594,FS,1.46,True,False,,"DM-7165 allow to add an extra column ('phase') to the raw LC table, which result in the phase folded table."
+DM-4890,E3,DM-7195,DM-9300,FF,1.4100000000000001,True,False,,have been fixed in dev by DM-7195
+DM-4890,E3,DM-8310,DM-8627,FS,1.48,True,False,,"once DM-8310 is done, make a RC out of dev and start with DM-8309."
+DM-4890,FULL,DM-9141,DM-9253,FF,1.5,False,False,,
+DM-4890,FULL,DM-9164,DM-9253,FF,1.5,False,False,,
+DM-4890,FULL,DM-9272,DM-9253,FF,1.5,False,False,,
+DM-4890,FULL,DM-9300,DM-9253,FF,1.25,False,False,,
+DM-4890,FULL,DM-5388,DM-6134,FF,1.23,True,False,,Then another ticket to finish up (part 2 of this ticket) - Fix the UI style
+DM-4890,FULL,DM-6500,DM-6617,FS,1.4,True,False,,"from pull request DM-6500:  https://github.com/Caltech-IPAC/firefly/pull/102  * 2MASS All-Sky 'Read Me!' link in Catalog Search panel points to http://localhost:8080/irsaviewer/Q'http://hades.ipac.caltech.edu/applications/Gator/GatorAid/irsa/scan.html'E * -If you search m31 2MASS scan info catalog (4th catalog in the list), then bring back catalog panel, the first catalog is highlighted, but if you search, you'll notice that you are still searching 2MASS scan info.-"
+DM-4890,FULL,DM-7162,DM-7159,FF,1.3399999999999999,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,FULL,DM-7165,DM-7159,FF,1.46,True,False,,* one to build the phase folded curve based on (DM-7165)
+DM-4890,FULL,DM-7166,DM-7159,FF,1.44,True,False,,"In order to connect table/plot to single exposure image, be able to compute periodogram and plot based on the table focused, we need a 2 new UI components, 3 new searches and 2 new controllers (tickets will be created separately and added here):"
+DM-4890,FULL,DM-5388,DM-6136,FF,1.3399999999999999,True,False,,Catalog panel (DM-5388) needed an input area for polygon input search but it needs a review and connect the validation reducer to it.
+DM-4890,FULL,DM-7162,DM-7161,FF,1.3599999999999999,True,False,,"The main period values come from the result of computing the periodogram (DM-7162), called the peaks table."
+DM-4890,FULL,DM-7196,DM-7164,FF,1.29,True,False,,"Those functions will be used by the processors DM-7162, DM-7164, DM-7165 via one or several Firefly 'search' processor."
+DM-4890,FULL,DM-7167,DM-7166,FF,1.48,True,False,,Fixed in DM-7167.
+DM-4890,FULL,DM-7165,DM-7594,FS,1.46,True,False,,"DM-7165 allow to add an extra column ('phase') to the raw LC table, which result in the phase folded table."
+DM-4890,FULL,DM-7195,DM-9300,FF,1.4100000000000001,True,False,,have been fixed in dev by DM-7195
+DM-4890,FULL,DM-8310,DM-8627,FS,1.48,True,False,,"once DM-8310 is done, make a RC out of dev and start with DM-8309."
+DM-16920,B1,DM-17560,DM-17546,FF,1.5,False,False,,
+DM-16920,B1,DM-19385,DM-19474,FS,1.5,False,False,,
+DM-16920,E3-mention,DM-18344,DM-19154,FS,1.48,True,False,,"This will be very easy, but I plan to wait until DM-18344 is merged in order to reduce conflicts."
+DM-16920,E3-mention,DM-19385,DM-18168,FF,1.3599999999999999,True,False,,Implemented as part of DM-19385
+DM-16920,E3-mention,DM-18421,DM-18541,FF,1.45,True,True,SF,The new (as of DM-18421) function set_summary_state is not shown in the sphinx-built documentation.
+DM-16920,E3-mention,DM-19385,DM-19474,FS,1.48,True,False,,"In DM-19385 I stop using the char0 field in array data, so I propose to implement this after that ticket is merged."
+DM-16920,E3-mention,DM-19385,DM-19154,FF,1.42,True,False,,Implemented as part of DM-19385
+DM-16920,E3-mention,DM-19875,DM-19919,FS,1.46,True,True,SF,In DM-19875 I updated Script and ScriptQueue enums to be shared.
+DM-16920,E3-mention,DM-19385,DM-19643,SS,1.45,True,False,,I will implement this as part of DM-19385 as follows:  * One read loop per salobj.SalInfo  * Use dds WaitSet.wait on the read condition for all topics (running in a thread) and return the result to the read loop.
+DM-16920,E3-mention,DM-19569,DM-19644,FF,1.37,True,False,,This is being implemented on DM-19569 (but these story points were used to do so).
+DM-16920,E3-mention,DM-19880,DM-20089,FS,1.45,True,True,SF,In DM-19880 I missed some code that needs updating for ts_scriptqueue 2.1.
+DM-16920,FULL-mention,DM-17560,DM-17546,FF,1.5,False,False,,
+DM-16920,FULL-mention,DM-19385,DM-19474,FS,2.48,False,False,,"In DM-19385 I stop using the char0 field in array data, so I propose to implement this after that ticket is merged."
+DM-16920,FULL-mention,DM-18344,DM-19154,FS,1.48,True,False,,"This will be very easy, but I plan to wait until DM-18344 is merged in order to reduce conflicts."
+DM-16920,FULL-mention,DM-19385,DM-18168,FF,1.3599999999999999,True,False,,Implemented as part of DM-19385
+DM-16920,FULL-mention,DM-18421,DM-18541,FF,1.45,True,True,SF,The new (as of DM-18421) function set_summary_state is not shown in the sphinx-built documentation.
+DM-16920,FULL-mention,DM-19385,DM-19154,FF,1.42,True,False,,Implemented as part of DM-19385
+DM-16920,FULL-mention,DM-19875,DM-19919,FS,1.46,True,True,SF,In DM-19875 I updated Script and ScriptQueue enums to be shared.
+DM-16920,FULL-mention,DM-19385,DM-19643,SS,1.45,True,False,,I will implement this as part of DM-19385 as follows:  * One read loop per salobj.SalInfo  * Use dds WaitSet.wait on the read condition for all topics (running in a thread) and return the result to the read loop.
+DM-16920,FULL-mention,DM-19569,DM-19644,FF,1.37,True,False,,This is being implemented on DM-19569 (but these story points were used to do so).
+DM-16920,FULL-mention,DM-19880,DM-20089,FS,1.45,True,True,SF,In DM-19880 I missed some code that needs updating for ts_scriptqueue 2.1.
+DM-16920,E3,DM-18344,DM-19154,FS,1.48,True,False,,"This will be very easy, but I plan to wait until DM-18344 is merged in order to reduce conflicts."
+DM-16920,E3,DM-19385,DM-18168,FF,1.3599999999999999,True,False,,Implemented as part of DM-19385
+DM-16920,E3,DM-18421,DM-18541,FF,1.45,True,True,SF,The new (as of DM-18421) function set_summary_state is not shown in the sphinx-built documentation.
+DM-16920,E3,DM-19385,DM-19474,FS,1.48,True,False,,"In DM-19385 I stop using the char0 field in array data, so I propose to implement this after that ticket is merged."
+DM-16920,E3,DM-19385,DM-19154,FF,1.42,True,False,,Implemented as part of DM-19385
+DM-16920,E3,DM-19875,DM-19919,FS,1.46,True,True,SF,In DM-19875 I updated Script and ScriptQueue enums to be shared.
+DM-16920,E3,DM-19385,DM-19643,SS,1.45,True,False,,I will implement this as part of DM-19385 as follows:  * One read loop per salobj.SalInfo  * Use dds WaitSet.wait on the read condition for all topics (running in a thread) and return the result to the read loop.
+DM-16920,E3,DM-19569,DM-19644,FF,1.37,True,False,,This is being implemented on DM-19569 (but these story points were used to do so).
+DM-16920,E3,DM-19880,DM-20089,FS,1.45,True,True,SF,In DM-19880 I missed some code that needs updating for ts_scriptqueue 2.1.
+DM-16920,E3,DM-17207,DM-17546,FS,1.45,True,False,,Update ts_scriptqueue to take advantage of features in ts_salobj 3.8:  * Use data contained in the topics  * Stop using test_utils
+DM-16920,E3,DM-17207,DM-17560,FS,1.38,True,False,,Add {{force_output=False}} to {{ControllerEvent.set_put}} so we can assure output of the new event value.
+DM-16920,FULL,DM-17560,DM-17546,FF,1.5,False,False,,
+DM-16920,FULL,DM-19385,DM-19474,FS,2.48,False,False,,"In DM-19385 I stop using the char0 field in array data, so I propose to implement this after that ticket is merged."
+DM-16920,FULL,DM-18344,DM-19154,FS,1.48,True,False,,"This will be very easy, but I plan to wait until DM-18344 is merged in order to reduce conflicts."
+DM-16920,FULL,DM-19385,DM-18168,FF,1.3599999999999999,True,False,,Implemented as part of DM-19385
+DM-16920,FULL,DM-18421,DM-18541,FF,1.45,True,True,SF,The new (as of DM-18421) function set_summary_state is not shown in the sphinx-built documentation.
+DM-16920,FULL,DM-19385,DM-19154,FF,1.42,True,False,,Implemented as part of DM-19385
+DM-16920,FULL,DM-19875,DM-19919,FS,1.46,True,True,SF,In DM-19875 I updated Script and ScriptQueue enums to be shared.
+DM-16920,FULL,DM-19385,DM-19643,SS,1.45,True,False,,I will implement this as part of DM-19385 as follows:  * One read loop per salobj.SalInfo  * Use dds WaitSet.wait on the read condition for all topics (running in a thread) and return the result to the read loop.
+DM-16920,FULL,DM-19569,DM-19644,FF,1.37,True,False,,This is being implemented on DM-19569 (but these story points were used to do so).
+DM-16920,FULL,DM-19880,DM-20089,FS,1.45,True,True,SF,In DM-19880 I missed some code that needs updating for ts_scriptqueue 2.1.
+DM-16920,FULL,DM-17207,DM-17546,FS,1.45,True,False,,Update ts_scriptqueue to take advantage of features in ts_salobj 3.8:  * Use data contained in the topics  * Stop using test_utils
+DM-16920,FULL,DM-17207,DM-17560,FS,1.38,True,False,,Add {{force_output=False}} to {{ControllerEvent.set_put}} so we can assure output of the new event value.
+DM-2119,E3-mention,DM-4225,DM-4229,FS,1.38,True,True,FS,"Evaluate results of production-scale performance tests, both single and multiple host."
+DM-2119,E3-mention,DM-4402,DM-4225,FF,1.4300000000000002,True,True,FS,Add dependence on developing tests with lightweight databases for secondary index.
+DM-2119,E3-mention,DM-4227,DM-4229,FF,1.42,True,True,FS,"With the performance measurements for bulk updating complete, and showing no significant overhead compared to initially loading the database from files, I believe that we should move forward with translating the MySQL-based test code into the QServ software suite."
+DM-2119,FULL-mention,DM-4225,DM-4229,FS,1.38,True,True,FS,"Evaluate results of production-scale performance tests, both single and multiple host."
+DM-2119,FULL-mention,DM-4402,DM-4225,FF,1.4300000000000002,True,True,FS,Add dependence on developing tests with lightweight databases for secondary index.
+DM-2119,FULL-mention,DM-4227,DM-4229,FF,1.42,True,True,FS,"With the performance measurements for bulk updating complete, and showing no significant overhead compared to initially loading the database from files, I believe that we should move forward with translating the MySQL-based test code into the QServ software suite."
+DM-2119,E3,DM-4225,DM-4229,FS,1.38,True,True,FS,"Evaluate results of production-scale performance tests, both single and multiple host."
+DM-2119,E3,DM-4402,DM-4225,FF,1.4300000000000002,True,True,FS,Add dependence on developing tests with lightweight databases for secondary index.
+DM-2119,E3,DM-4227,DM-4229,FF,1.42,True,True,FS,"With the performance measurements for bulk updating complete, and showing no significant overhead compared to initially loading the database from files, I believe that we should move forward with translating the MySQL-based test code into the QServ software suite."
+DM-2119,FULL,DM-4225,DM-4229,FS,1.38,True,True,FS,"Evaluate results of production-scale performance tests, both single and multiple host."
+DM-2119,FULL,DM-4402,DM-4225,FF,1.4300000000000002,True,True,FS,Add dependence on developing tests with lightweight databases for secondary index.
+DM-2119,FULL,DM-4227,DM-4229,FF,1.42,True,True,FS,"With the performance measurements for bulk updating complete, and showing no significant overhead compared to initially loading the database from files, I believe that we should move forward with translating the MySQL-based test code into the QServ software suite."
+DM-14447,B1,DM-14725,DM-14305,FS,1.5,False,False,,
+DM-14447,B1,DM-14728,DM-14305,FS,1.5,False,False,,
+DM-14447,B1,DM-14728,DM-14740,FF,1.25,False,False,,
+DM-14447,B1,DM-14781,DM-14305,FS,1.5,False,False,,
+DM-14447,B1,DM-14834,DM-14305,FS,1.5,False,False,,
+DM-14447,B1,DM-14847,DM-13851,FF,1.5,False,False,,
+DM-14447,B1,DM-15023,DM-14305,FS,1.5,False,False,,
+DM-14447,B1,DM-14864,DM-14828,FF,1.25,False,False,,
+DM-14447,B1,DM-15126,DM-14828,FS,1.5,False,False,,
+DM-14447,B1,DM-15132,DM-14828,FS,1.5,False,False,,
+DM-14447,E3-mention,DM-10302,DM-15800,FS,1.48,True,False,,DM-10302 changed the names of `flux` columns to instFlux.
+DM-14447,E3-mention,DM-15244,DM-10302,FS,1.45,True,False,,we should do this immediately following on the changes in DM-15244.
+DM-14447,E3-mention,DM-10302,DM-15891,FS,1.48,True,False,,"In updating the pipe_analysis scripts following the changes on DM-10302, I noticed that when reading an old (I think it would be version 2) catalog, some of the aliases aren't getting set properly."
+DM-14447,E3-mention,DM-10302,DM-15796,FS,1.45,True,True,SF,"Now that the code has been updated from {{_flux}} to {{_instFlux}} in schemas, we should do a minimal pass over our documentation to bring it up to date."
+DM-14447,E3-mention,DM-15244,DM-10933,FF,1.22,True,False,,"now that [~<USER> finished DM-15244, I believe we should be good to finally merge this."
+DM-14447,E3-mention,DM-14728,DM-14305,FS,1.3900000000000001,True,False,,"This is to help LSST upgrade Eigen, which will probably require eliminating our use of {{ndarray::EigenView}}."
+DM-14447,E3-mention,DM-14781,DM-14305,FS,1.46,True,False,,As part of DM-14305 upgrading Eigen to 3.3 we need to transition to a version new enough that pybind11 supports it.
+DM-14447,E3-mention,DM-14728,DM-14740,FF,1.23,True,False,,Use the {{ndarray::Array}} functions added in DM-14728 instead of {{ndarray::Array::asEigen}} to eliminate our use of {{ndarray::EigenView}} in our C++ code.
+DM-14447,E3-mention,DM-14834,DM-14986,FS,1.4300000000000002,True,False,,"As of DM-14834 we handling Eigen differently in pybind11 wrappers: wrappers should now {{#include pybind11/eigen.h}}, which is the standard pybind11 way to do it."
+DM-14447,E3-mention,DM-9937,DM-15043,FS,1.4300000000000002,True,False,,"A last-minute change for DM-9937, combined with sloppy testing, caused non-compiling C++ to get committed to {{master}}."
+DM-14447,E3-mention,DM-15244,DM-15355,FS,1.45,True,True,SF,"ci_hsc is failing with the following error, almost certainly due to DM-15244:"
+DM-14447,E3-mention,DM-15151,DM-15790,FS,1.23,True,False,,"DM-15151 added compilation of pybind11 with hidden symbol visibility, but unfortunately only on macOS."
+DM-14447,E3-mention,DM-15796,DM-16182,FS,1.48,True,False,,The base_PsfFlux_flux -> base_PsfFlux_instFlux changes was already merged in DM-15796.
+DM-14447,E3-mention,DM-15857,DM-15891,FF,1.19,True,False,,"[~<USER>: I'm marking this done, as the original bug you described should be fixed in DM-15857, which I just merged."
+DM-14447,E3-mention,DM-15837,DM-16170,FS,1.47,True,False,,This ticket (DM-16170) reverts the DM-15837 workaround.
+DM-14447,FULL-mention,DM-14725,DM-14305,FS,1.5,False,False,,
+DM-14447,FULL-mention,DM-14728,DM-14305,FS,2.39,False,False,,"This is to help LSST upgrade Eigen, which will probably require eliminating our use of {{ndarray::EigenView}}."
+DM-14447,FULL-mention,DM-14728,DM-14740,FF,2.23,False,False,,Use the {{ndarray::Array}} functions added in DM-14728 instead of {{ndarray::Array::asEigen}} to eliminate our use of {{ndarray::EigenView}} in our C++ code.
+DM-14447,FULL-mention,DM-14781,DM-14305,FS,2.46,False,False,,As part of DM-14305 upgrading Eigen to 3.3 we need to transition to a version new enough that pybind11 supports it.
+DM-14447,FULL-mention,DM-14834,DM-14305,FS,1.5,False,False,,
+DM-14447,FULL-mention,DM-14847,DM-13851,FF,1.5,False,False,,
+DM-14447,FULL-mention,DM-15023,DM-14305,FS,1.5,False,False,,
+DM-14447,FULL-mention,DM-14864,DM-14828,FF,1.25,False,False,,
+DM-14447,FULL-mention,DM-15126,DM-14828,FS,1.5,False,False,,
+DM-14447,FULL-mention,DM-15132,DM-14828,FS,1.5,False,False,,
+DM-14447,FULL-mention,DM-10302,DM-15800,FS,1.48,True,False,,DM-10302 changed the names of `flux` columns to instFlux.
+DM-14447,FULL-mention,DM-15244,DM-10302,FS,1.45,True,False,,we should do this immediately following on the changes in DM-15244.
+DM-14447,FULL-mention,DM-10302,DM-15891,FS,1.48,True,False,,"In updating the pipe_analysis scripts following the changes on DM-10302, I noticed that when reading an old (I think it would be version 2) catalog, some of the aliases aren't getting set properly."
+DM-14447,FULL-mention,DM-10302,DM-15796,FS,1.45,True,True,SF,"Now that the code has been updated from {{_flux}} to {{_instFlux}} in schemas, we should do a minimal pass over our documentation to bring it up to date."
+DM-14447,FULL-mention,DM-15244,DM-10933,FF,1.22,True,False,,"now that [~<USER> finished DM-15244, I believe we should be good to finally merge this."
+DM-14447,FULL-mention,DM-14834,DM-14986,FS,1.4300000000000002,True,False,,"As of DM-14834 we handling Eigen differently in pybind11 wrappers: wrappers should now {{#include pybind11/eigen.h}}, which is the standard pybind11 way to do it."
+DM-14447,FULL-mention,DM-9937,DM-15043,FS,1.4300000000000002,True,False,,"A last-minute change for DM-9937, combined with sloppy testing, caused non-compiling C++ to get committed to {{master}}."
+DM-14447,FULL-mention,DM-15244,DM-15355,FS,1.45,True,True,SF,"ci_hsc is failing with the following error, almost certainly due to DM-15244:"
+DM-14447,FULL-mention,DM-15151,DM-15790,FS,1.23,True,False,,"DM-15151 added compilation of pybind11 with hidden symbol visibility, but unfortunately only on macOS."
+DM-14447,FULL-mention,DM-15796,DM-16182,FS,1.48,True,False,,The base_PsfFlux_flux -> base_PsfFlux_instFlux changes was already merged in DM-15796.
+DM-14447,FULL-mention,DM-15857,DM-15891,FF,1.19,True,False,,"[~<USER>: I'm marking this done, as the original bug you described should be fixed in DM-15857, which I just merged."
+DM-14447,FULL-mention,DM-15837,DM-16170,FS,1.47,True,False,,This ticket (DM-16170) reverts the DM-15837 workaround.
+DM-14447,E3,DM-10302,DM-15800,FS,1.48,True,False,,DM-10302 changed the names of `flux` columns to instFlux.
+DM-14447,E3,DM-15244,DM-10302,FS,1.45,True,False,,we should do this immediately following on the changes in DM-15244.
+DM-14447,E3,DM-10302,DM-15891,FS,1.48,True,False,,"In updating the pipe_analysis scripts following the changes on DM-10302, I noticed that when reading an old (I think it would be version 2) catalog, some of the aliases aren't getting set properly."
+DM-14447,E3,DM-10302,DM-15796,FS,1.45,True,True,SF,"Now that the code has been updated from {{_flux}} to {{_instFlux}} in schemas, we should do a minimal pass over our documentation to bring it up to date."
+DM-14447,E3,DM-15244,DM-10933,FF,1.22,True,False,,"now that [~<USER> finished DM-15244, I believe we should be good to finally merge this."
+DM-14447,E3,DM-14728,DM-14305,FS,1.3900000000000001,True,False,,"This is to help LSST upgrade Eigen, which will probably require eliminating our use of {{ndarray::EigenView}}."
+DM-14447,E3,DM-14781,DM-14305,FS,1.46,True,False,,As part of DM-14305 upgrading Eigen to 3.3 we need to transition to a version new enough that pybind11 supports it.
+DM-14447,E3,DM-14728,DM-14740,FF,1.23,True,False,,Use the {{ndarray::Array}} functions added in DM-14728 instead of {{ndarray::Array::asEigen}} to eliminate our use of {{ndarray::EigenView}} in our C++ code.
+DM-14447,E3,DM-14834,DM-14986,FS,1.4300000000000002,True,False,,"As of DM-14834 we handling Eigen differently in pybind11 wrappers: wrappers should now {{#include pybind11/eigen.h}}, which is the standard pybind11 way to do it."
+DM-14447,E3,DM-9937,DM-15043,FS,1.4300000000000002,True,False,,"A last-minute change for DM-9937, combined with sloppy testing, caused non-compiling C++ to get committed to {{master}}."
+DM-14447,E3,DM-15244,DM-15355,FS,1.45,True,True,SF,"ci_hsc is failing with the following error, almost certainly due to DM-15244:"
+DM-14447,E3,DM-15151,DM-15790,FS,1.23,True,False,,"DM-15151 added compilation of pybind11 with hidden symbol visibility, but unfortunately only on macOS."
+DM-14447,E3,DM-15796,DM-16182,FS,1.48,True,False,,The base_PsfFlux_flux -> base_PsfFlux_instFlux changes was already merged in DM-15796.
+DM-14447,E3,DM-15857,DM-15891,FF,1.19,True,False,,"[~<USER>: I'm marking this done, as the original bug you described should be fixed in DM-15857, which I just merged."
+DM-14447,E3,DM-15837,DM-16170,FS,1.47,True,False,,This ticket (DM-16170) reverts the DM-15837 workaround.
+DM-14447,FULL,DM-14725,DM-14305,FS,1.5,False,False,,
+DM-14447,FULL,DM-14728,DM-14305,FS,2.39,False,False,,"This is to help LSST upgrade Eigen, which will probably require eliminating our use of {{ndarray::EigenView}}."
+DM-14447,FULL,DM-14728,DM-14740,FF,2.23,False,False,,Use the {{ndarray::Array}} functions added in DM-14728 instead of {{ndarray::Array::asEigen}} to eliminate our use of {{ndarray::EigenView}} in our C++ code.
+DM-14447,FULL,DM-14781,DM-14305,FS,2.46,False,False,,As part of DM-14305 upgrading Eigen to 3.3 we need to transition to a version new enough that pybind11 supports it.
+DM-14447,FULL,DM-14834,DM-14305,FS,1.5,False,False,,
+DM-14447,FULL,DM-14847,DM-13851,FF,1.5,False,False,,
+DM-14447,FULL,DM-15023,DM-14305,FS,1.5,False,False,,
+DM-14447,FULL,DM-14864,DM-14828,FF,1.25,False,False,,
+DM-14447,FULL,DM-15126,DM-14828,FS,1.5,False,False,,
+DM-14447,FULL,DM-15132,DM-14828,FS,1.5,False,False,,
+DM-14447,FULL,DM-10302,DM-15800,FS,1.48,True,False,,DM-10302 changed the names of `flux` columns to instFlux.
+DM-14447,FULL,DM-15244,DM-10302,FS,1.45,True,False,,we should do this immediately following on the changes in DM-15244.
+DM-14447,FULL,DM-10302,DM-15891,FS,1.48,True,False,,"In updating the pipe_analysis scripts following the changes on DM-10302, I noticed that when reading an old (I think it would be version 2) catalog, some of the aliases aren't getting set properly."
+DM-14447,FULL,DM-10302,DM-15796,FS,1.45,True,True,SF,"Now that the code has been updated from {{_flux}} to {{_instFlux}} in schemas, we should do a minimal pass over our documentation to bring it up to date."
+DM-14447,FULL,DM-15244,DM-10933,FF,1.22,True,False,,"now that [~<USER> finished DM-15244, I believe we should be good to finally merge this."
+DM-14447,FULL,DM-14834,DM-14986,FS,1.4300000000000002,True,False,,"As of DM-14834 we handling Eigen differently in pybind11 wrappers: wrappers should now {{#include pybind11/eigen.h}}, which is the standard pybind11 way to do it."
+DM-14447,FULL,DM-9937,DM-15043,FS,1.4300000000000002,True,False,,"A last-minute change for DM-9937, combined with sloppy testing, caused non-compiling C++ to get committed to {{master}}."
+DM-14447,FULL,DM-15244,DM-15355,FS,1.45,True,True,SF,"ci_hsc is failing with the following error, almost certainly due to DM-15244:"
+DM-14447,FULL,DM-15151,DM-15790,FS,1.23,True,False,,"DM-15151 added compilation of pybind11 with hidden symbol visibility, but unfortunately only on macOS."
+DM-14447,FULL,DM-15796,DM-16182,FS,1.48,True,False,,The base_PsfFlux_flux -> base_PsfFlux_instFlux changes was already merged in DM-15796.
+DM-14447,FULL,DM-15857,DM-15891,FF,1.19,True,False,,"[~<USER>: I'm marking this done, as the original bug you described should be fixed in DM-15857, which I just merged."
+DM-14447,FULL,DM-15837,DM-16170,FS,1.47,True,False,,This ticket (DM-16170) reverts the DM-15837 workaround.
+DM-11783,B1,DM-12310,DM-11785,FF,1.5,False,False,,
+DM-11783,B1,DM-11931,DM-12310,FF,1.5,False,False,,
+DM-11783,B1,DM-15254,DM-15751,FS,1.5,False,False,,
+DM-11783,E3-mention,DM-12310,DM-11571,FF,0.92,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,E3-mention,DM-11571,DM-15695,FS,1.44,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,E3-mention,DM-11784,DM-11785,FS,1.48,True,True,SF,Datasets are identified in DM-11784.
+DM-11783,E3-mention,DM-12310,DM-11785,FF,1.3599999999999999,True,False,,Have to fix this to get jointcal's photometry to work for HSC.
+DM-11783,E3-mention,DM-12310,DM-11787,FS,1.47,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,E3-mention,DM-14786,DM-11787,FF,1.46,True,False,,This ticket is what was used to produce the results that were measured and uploaded to DM-11787.
+DM-11783,E3-mention,DM-11787,DM-15695,FS,1.4100000000000001,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,E3-mention,DM-14574,DM-14786,FS,1.48,True,True,FS,"I'm going to have DM-14574 go into review so that the design for the Simple model for the magnitude-based photometry fitter is happy, before I dig into the more complicated Constrained model."
+DM-11783,E3-mention,DM-14574,DM-14767,SS,1.4,True,False,,"While starting to implement the magnitude based photometric model (DM-14574), I noticed that my implementation of the error model for the flux based model was incorrect."
+DM-11783,FULL-mention,DM-12310,DM-11785,FF,2.36,False,False,,Have to fix this to get jointcal's photometry to work for HSC.
+DM-11783,FULL-mention,DM-11931,DM-12310,FF,1.5,False,False,,
+DM-11783,FULL-mention,DM-15254,DM-15751,FS,1.5,False,False,,
+DM-11783,FULL-mention,DM-12310,DM-11571,FF,0.92,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,FULL-mention,DM-11571,DM-15695,FS,1.44,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,FULL-mention,DM-11784,DM-11785,FS,1.48,True,True,SF,Datasets are identified in DM-11784.
+DM-11783,FULL-mention,DM-12310,DM-11787,FS,1.47,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,FULL-mention,DM-14786,DM-11787,FF,1.46,True,False,,This ticket is what was used to produce the results that were measured and uploaded to DM-11787.
+DM-11783,FULL-mention,DM-11787,DM-15695,FS,1.4100000000000001,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,FULL-mention,DM-14574,DM-14786,FS,1.48,True,True,FS,"I'm going to have DM-14574 go into review so that the design for the Simple model for the magnitude-based photometry fitter is happy, before I dig into the more complicated Constrained model."
+DM-11783,FULL-mention,DM-14574,DM-14767,SS,1.4,True,False,,"While starting to implement the magnitude based photometric model (DM-14574), I noticed that my implementation of the error model for the flux based model was incorrect."
+DM-11783,E3,DM-12310,DM-11571,FF,0.92,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,E3,DM-11571,DM-15695,FS,1.44,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,E3,DM-11784,DM-11785,FS,1.48,True,True,SF,Datasets are identified in DM-11784.
+DM-11783,E3,DM-12310,DM-11785,FF,1.3599999999999999,True,False,,Have to fix this to get jointcal's photometry to work for HSC.
+DM-11783,E3,DM-12310,DM-11787,FS,1.47,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,E3,DM-14786,DM-11787,FF,1.46,True,False,,This ticket is what was used to produce the results that were measured and uploaded to DM-11787.
+DM-11783,E3,DM-11787,DM-15695,FS,1.4100000000000001,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,E3,DM-14574,DM-14786,FS,1.48,True,True,FS,"I'm going to have DM-14574 go into review so that the design for the Simple model for the magnitude-based photometry fitter is happy, before I dig into the more complicated Constrained model."
+DM-11783,E3,DM-14574,DM-14767,SS,1.4,True,False,,"While starting to implement the magnitude based photometric model (DM-14574), I noticed that my implementation of the error model for the flux based model was incorrect."
+DM-11783,E3,DM-14786,DM-15421,FF,1.45,True,True,SF,"Now that there is a working constrained photometry model, I believe it is time to switch jointcal's default config to use the constrained models instead of the simple models."
+DM-11783,FULL,DM-12310,DM-11785,FF,2.36,False,False,,Have to fix this to get jointcal's photometry to work for HSC.
+DM-11783,FULL,DM-11931,DM-12310,FF,1.5,False,False,,
+DM-11783,FULL,DM-15254,DM-15751,FS,1.5,False,False,,
+DM-11783,FULL,DM-12310,DM-11571,FF,0.92,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,FULL,DM-11571,DM-15695,FS,1.44,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,FULL,DM-11784,DM-11785,FS,1.48,True,True,SF,Datasets are identified in DM-11784.
+DM-11783,FULL,DM-12310,DM-11787,FS,1.47,True,False,,We can't proceed with the photometric part of the meas_mosaic comparison until I can produce a fit.
+DM-11783,FULL,DM-14786,DM-11787,FF,1.46,True,False,,This ticket is what was used to produce the results that were measured and uploaded to DM-11787.
+DM-11783,FULL,DM-11787,DM-15695,FS,1.4100000000000001,True,False,,"Now that we have reliable output from jointcal+validate_drp, we need to compute the final summary statistics described on the [acceptance test|https://confluence.lsstcorp.org/display/DM/JointCal+Acceptance+Tests] page."
+DM-11783,FULL,DM-14574,DM-14786,FS,1.48,True,True,FS,"I'm going to have DM-14574 go into review so that the design for the Simple model for the magnitude-based photometry fitter is happy, before I dig into the more complicated Constrained model."
+DM-11783,FULL,DM-14574,DM-14767,SS,1.4,True,False,,"While starting to implement the magnitude based photometric model (DM-14574), I noticed that my implementation of the error model for the flux based model was incorrect."
+DM-11783,FULL,DM-14786,DM-15421,FF,1.45,True,True,SF,"Now that there is a working constrained photometry model, I believe it is time to switch jointcal's default config to use the constrained models instead of the simple models."
+DM-16683,E3-mention,DM-15597,DM-18707,FS,1.22,True,True,FS,DM-15597 analyzed fits to COSMOS galaxies using MultiProFit.
+DM-16683,E3-mention,DM-17466,DM-17928,FF,1.3599999999999999,True,True,FS,"I generated these as follows, after fitting as described in the comment on DM-17466:    {code:bash}  # Multiband plots for HSC  python ${MULTIPROFIT_PATH}/examples/fitcosmos.py --catalogpath /project/<USER>hsc/cosmos/COSMOS_25.2_training_sample/ --catalogfile real_galaxy_catalog_25.2.fits --hscbands 'HSC-I' 'HSC-R' 'HSC-G' --indices ${GNUM} --fithsc 1 --modelspecfile ${MULTIPROFIT_PATH}/examples/modelspecs-plot-final-psfg2.csv --file cosmos_25.2_fits_hsc_${GNUM}_psfg2_pickle.dat --plot 1 --redo 0 --write 0 --imgplotmaxs 40.0 20.0 10.0 --imgplotmaxmulti 30.0 --weightsband 1.0 1.16 1.79  {code}"
+DM-16683,E3-mention,DM-15597,DM-19230,FS,1.03,True,True,FS,DM-15597 introduced a notebook for analyzing the results of MultiProFit fits to COSMOS galaxies.
+DM-16683,E3-mention,DM-18105,DM-18515,FF,1.23,True,True,FS,"Using the linear fitter(s) implemented in DM-18105, test linear models and/or parameter initialization on the COSMOS galaxy fitting scripts using HST/HSC data"
+DM-16683,E3-mention,DM-18105,DM-18585,FF,1.17,True,False,,"MultiProFit supports Gaussian mixture models, which can be fit using linear fitters (DM-18105), e.g. after initializing from a Sersic multi-Gaussian approximation."
+DM-16683,E3-mention,DM-18707,DM-19384,FF,1.23,True,True,FS,Create a notebook using updated fit results from DM-18707 to investigate whether fast Gaussian fits can be used to 1) improve Sersic model initialization and 2) set reasonable joint flux-size priors
+DM-16683,E3-mention,DM-18585,DM-18707,FF,1.47,True,False,,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-16683,E3-mention,DM-18515,DM-18707,FF,1.38,True,True,FS,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-16683,FULL-mention,DM-15597,DM-18707,FS,1.22,True,True,FS,DM-15597 analyzed fits to COSMOS galaxies using MultiProFit.
+DM-16683,FULL-mention,DM-17466,DM-17928,FF,1.3599999999999999,True,True,FS,"I generated these as follows, after fitting as described in the comment on DM-17466:    {code:bash}  # Multiband plots for HSC  python ${MULTIPROFIT_PATH}/examples/fitcosmos.py --catalogpath /project/<USER>hsc/cosmos/COSMOS_25.2_training_sample/ --catalogfile real_galaxy_catalog_25.2.fits --hscbands 'HSC-I' 'HSC-R' 'HSC-G' --indices ${GNUM} --fithsc 1 --modelspecfile ${MULTIPROFIT_PATH}/examples/modelspecs-plot-final-psfg2.csv --file cosmos_25.2_fits_hsc_${GNUM}_psfg2_pickle.dat --plot 1 --redo 0 --write 0 --imgplotmaxs 40.0 20.0 10.0 --imgplotmaxmulti 30.0 --weightsband 1.0 1.16 1.79  {code}"
+DM-16683,FULL-mention,DM-15597,DM-19230,FS,1.03,True,True,FS,DM-15597 introduced a notebook for analyzing the results of MultiProFit fits to COSMOS galaxies.
+DM-16683,FULL-mention,DM-18105,DM-18515,FF,1.23,True,True,FS,"Using the linear fitter(s) implemented in DM-18105, test linear models and/or parameter initialization on the COSMOS galaxy fitting scripts using HST/HSC data"
+DM-16683,FULL-mention,DM-18105,DM-18585,FF,1.17,True,False,,"MultiProFit supports Gaussian mixture models, which can be fit using linear fitters (DM-18105), e.g. after initializing from a Sersic multi-Gaussian approximation."
+DM-16683,FULL-mention,DM-18707,DM-19384,FF,1.23,True,True,FS,Create a notebook using updated fit results from DM-18707 to investigate whether fast Gaussian fits can be used to 1) improve Sersic model initialization and 2) set reasonable joint flux-size priors
+DM-16683,FULL-mention,DM-18585,DM-18707,FF,1.47,True,False,,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-16683,FULL-mention,DM-18515,DM-18707,FF,1.38,True,True,FS,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-16683,E3,DM-15597,DM-18707,FS,1.22,True,True,FS,DM-15597 analyzed fits to COSMOS galaxies using MultiProFit.
+DM-16683,E3,DM-17466,DM-17928,FF,1.3599999999999999,True,True,FS,"I generated these as follows, after fitting as described in the comment on DM-17466:    {code:bash}  # Multiband plots for HSC  python ${MULTIPROFIT_PATH}/examples/fitcosmos.py --catalogpath /project/<USER>hsc/cosmos/COSMOS_25.2_training_sample/ --catalogfile real_galaxy_catalog_25.2.fits --hscbands 'HSC-I' 'HSC-R' 'HSC-G' --indices ${GNUM} --fithsc 1 --modelspecfile ${MULTIPROFIT_PATH}/examples/modelspecs-plot-final-psfg2.csv --file cosmos_25.2_fits_hsc_${GNUM}_psfg2_pickle.dat --plot 1 --redo 0 --write 0 --imgplotmaxs 40.0 20.0 10.0 --imgplotmaxmulti 30.0 --weightsband 1.0 1.16 1.79  {code}"
+DM-16683,E3,DM-15597,DM-19230,FS,1.03,True,True,FS,DM-15597 introduced a notebook for analyzing the results of MultiProFit fits to COSMOS galaxies.
+DM-16683,E3,DM-18105,DM-18515,FF,1.23,True,True,FS,"Using the linear fitter(s) implemented in DM-18105, test linear models and/or parameter initialization on the COSMOS galaxy fitting scripts using HST/HSC data"
+DM-16683,E3,DM-18105,DM-18585,FF,1.17,True,False,,"MultiProFit supports Gaussian mixture models, which can be fit using linear fitters (DM-18105), e.g. after initializing from a Sersic multi-Gaussian approximation."
+DM-16683,E3,DM-18707,DM-19384,FF,1.23,True,True,FS,Create a notebook using updated fit results from DM-18707 to investigate whether fast Gaussian fits can be used to 1) improve Sersic model initialization and 2) set reasonable joint flux-size priors
+DM-16683,E3,DM-18585,DM-18707,FF,1.47,True,False,,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-16683,E3,DM-18515,DM-18707,FF,1.38,True,True,FS,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-16683,FULL,DM-15597,DM-18707,FS,1.22,True,True,FS,DM-15597 analyzed fits to COSMOS galaxies using MultiProFit.
+DM-16683,FULL,DM-17466,DM-17928,FF,1.3599999999999999,True,True,FS,"I generated these as follows, after fitting as described in the comment on DM-17466:    {code:bash}  # Multiband plots for HSC  python ${MULTIPROFIT_PATH}/examples/fitcosmos.py --catalogpath /project/<USER>hsc/cosmos/COSMOS_25.2_training_sample/ --catalogfile real_galaxy_catalog_25.2.fits --hscbands 'HSC-I' 'HSC-R' 'HSC-G' --indices ${GNUM} --fithsc 1 --modelspecfile ${MULTIPROFIT_PATH}/examples/modelspecs-plot-final-psfg2.csv --file cosmos_25.2_fits_hsc_${GNUM}_psfg2_pickle.dat --plot 1 --redo 0 --write 0 --imgplotmaxs 40.0 20.0 10.0 --imgplotmaxmulti 30.0 --weightsband 1.0 1.16 1.79  {code}"
+DM-16683,FULL,DM-15597,DM-19230,FS,1.03,True,True,FS,DM-15597 introduced a notebook for analyzing the results of MultiProFit fits to COSMOS galaxies.
+DM-16683,FULL,DM-18105,DM-18515,FF,1.23,True,True,FS,"Using the linear fitter(s) implemented in DM-18105, test linear models and/or parameter initialization on the COSMOS galaxy fitting scripts using HST/HSC data"
+DM-16683,FULL,DM-18105,DM-18585,FF,1.17,True,False,,"MultiProFit supports Gaussian mixture models, which can be fit using linear fitters (DM-18105), e.g. after initializing from a Sersic multi-Gaussian approximation."
+DM-16683,FULL,DM-18707,DM-19384,FF,1.23,True,True,FS,Create a notebook using updated fit results from DM-18707 to investigate whether fast Gaussian fits can be used to 1) improve Sersic model initialization and 2) set reasonable joint flux-size priors
+DM-16683,FULL,DM-18585,DM-18707,FF,1.47,True,False,,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-16683,FULL,DM-18515,DM-18707,FF,1.38,True,True,FS,"Since then, DM-18105, DM-18515 and DM-18585 have added new features, so the fits and analysis thereof need to be updated."
+DM-10897,E3-mention,DM-11479,DM-12779,FF,1.23,True,True,FS,"Package has been renamed, need DM-11479 to be merged, then will add {{cp_pipe}} to {{lsst_distrib}} (it has already been added to the lsstsw repos.yaml)."
+DM-10897,E3-mention,DM-12429,DM-12480,FS,1.3599999999999999,True,True,FS,"Following review comments on DM-12429, the policy for obs_comCam is not the minimal required to produce the same functionality, as a lot of things are redefined identically to how they are defined for the default in obs_base."
+DM-10897,FULL-mention,DM-11479,DM-12779,FF,1.23,True,True,FS,"Package has been renamed, need DM-11479 to be merged, then will add {{cp_pipe}} to {{lsst_distrib}} (it has already been added to the lsstsw repos.yaml)."
+DM-10897,FULL-mention,DM-12429,DM-12480,FS,1.3599999999999999,True,True,FS,"Following review comments on DM-12429, the policy for obs_comCam is not the minimal required to produce the same functionality, as a lot of things are redefined identically to how they are defined for the default in obs_base."
+DM-10897,E3,DM-11479,DM-12779,FF,1.23,True,True,FS,"Package has been renamed, need DM-11479 to be merged, then will add {{cp_pipe}} to {{lsst_distrib}} (it has already been added to the lsstsw repos.yaml)."
+DM-10897,E3,DM-12429,DM-12480,FS,1.3599999999999999,True,True,FS,"Following review comments on DM-12429, the policy for obs_comCam is not the minimal required to produce the same functionality, as a lot of things are redefined identically to how they are defined for the default in obs_base."
+DM-10897,FULL,DM-11479,DM-12779,FF,1.23,True,True,FS,"Package has been renamed, need DM-11479 to be merged, then will add {{cp_pipe}} to {{lsst_distrib}} (it has already been added to the lsstsw repos.yaml)."
+DM-10897,FULL,DM-12429,DM-12480,FS,1.3599999999999999,True,True,FS,"Following review comments on DM-12429, the policy for obs_comCam is not the minimal required to produce the same functionality, as a lot of things are redefined identically to how they are defined for the default in obs_base."
+DM-12437,B1,DM-11777,DM-9955,FF,1.25,False,False,,
+DM-12437,B1,DM-11802,DM-11791,FF,1.5,False,False,,
+DM-12437,B1,DM-11104,DM-11870,FF,1.5,False,False,,
+DM-12437,B1,DM-12201,DM-12199,FF,1.5,False,False,,
+DM-12437,B1,DM-12516,DM-12530,FF,1.5,False,False,,
+DM-12437,E3-mention,DM-12526,DM-4392,FF,1.3599999999999999,True,False,,I've believe the configuration needed as merged as part of DM-12526.
+DM-12437,E3-mention,DM-12516,DM-12530,FF,1.48,True,False,,This should be retried once that issue is resolved.
+DM-12437,E3-mention,DM-12510,DM-12448,FF,1.38,True,False,,Any additional tweaking can be done under DM-12448.
+DM-12437,E3-mention,DM-12379,DM-12386,FF,1.4300000000000002,True,True,SF,This appears to be a self inflected wound from DM-12379
+DM-12437,FULL-mention,DM-11777,DM-9955,FF,1.25,False,False,,
+DM-12437,FULL-mention,DM-11802,DM-11791,FF,1.5,False,False,,
+DM-12437,FULL-mention,DM-11104,DM-11870,FF,1.5,False,False,,
+DM-12437,FULL-mention,DM-12201,DM-12199,FF,1.5,False,False,,
+DM-12437,FULL-mention,DM-12516,DM-12530,FF,2.48,False,False,,This should be retried once that issue is resolved.
+DM-12437,FULL-mention,DM-12526,DM-4392,FF,1.3599999999999999,True,False,,I've believe the configuration needed as merged as part of DM-12526.
+DM-12437,FULL-mention,DM-12510,DM-12448,FF,1.38,True,False,,Any additional tweaking can be done under DM-12448.
+DM-12437,FULL-mention,DM-12379,DM-12386,FF,1.4300000000000002,True,True,SF,This appears to be a self inflected wound from DM-12379
+DM-12437,E3,DM-12526,DM-4392,FF,1.3599999999999999,True,False,,I've believe the configuration needed as merged as part of DM-12526.
+DM-12437,E3,DM-12516,DM-12530,FF,1.48,True,False,,This should be retried once that issue is resolved.
+DM-12437,E3,DM-12510,DM-12448,FF,1.38,True,False,,Any additional tweaking can be done under DM-12448.
+DM-12437,E3,DM-12379,DM-12386,FF,1.4300000000000002,True,True,SF,This appears to be a self inflected wound from DM-12379
+DM-12437,FULL,DM-11777,DM-9955,FF,1.25,False,False,,
+DM-12437,FULL,DM-11802,DM-11791,FF,1.5,False,False,,
+DM-12437,FULL,DM-11104,DM-11870,FF,1.5,False,False,,
+DM-12437,FULL,DM-12201,DM-12199,FF,1.5,False,False,,
+DM-12437,FULL,DM-12516,DM-12530,FF,2.48,False,False,,This should be retried once that issue is resolved.
+DM-12437,FULL,DM-12526,DM-4392,FF,1.3599999999999999,True,False,,I've believe the configuration needed as merged as part of DM-12526.
+DM-12437,FULL,DM-12510,DM-12448,FF,1.38,True,False,,Any additional tweaking can be done under DM-12448.
+DM-12437,FULL,DM-12379,DM-12386,FF,1.4300000000000002,True,True,SF,This appears to be a self inflected wound from DM-12379
+DM-12733,E3-mention,DM-13292,DM-13293,FS,1.23,True,True,FS,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,E3-mention,DM-13292,DM-13294,FS,1.19,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,E3-mention,DM-13292,DM-13295,FS,1.48,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,E3-mention,DM-13293,DM-15756,FS,1.1099999999999999,True,True,FS,"I want to merge DM-13293 ASAP, and we can then discuss when this should be done once the big one is in."
+DM-12733,E3-mention,DM-5082,DM-13291,FS,1.1600000000000001,True,False,,"Run code attached to DM-5082 as-is, reproduce results   * gather data on tiger   * run with correct version of stack   * check against Will's results"
+DM-12733,E3-mention,DM-5082,DM-13295,FS,1.08,True,False,,"This ticket has been replaced by a string of 6 chained tickets, better detailing the work to be done."
+DM-12733,FULL-mention,DM-13292,DM-13293,FS,1.23,True,True,FS,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,FULL-mention,DM-13292,DM-13294,FS,1.19,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,FULL-mention,DM-13292,DM-13295,FS,1.48,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,FULL-mention,DM-13293,DM-15756,FS,1.1099999999999999,True,True,FS,"I want to merge DM-13293 ASAP, and we can then discuss when this should be done once the big one is in."
+DM-12733,FULL-mention,DM-5082,DM-13291,FS,1.1600000000000001,True,False,,"Run code attached to DM-5082 as-is, reproduce results   * gather data on tiger   * run with correct version of stack   * check against Will's results"
+DM-12733,FULL-mention,DM-5082,DM-13295,FS,1.08,True,False,,"This ticket has been replaced by a string of 6 chained tickets, better detailing the work to be done."
+DM-12733,E3,DM-13292,DM-13293,FS,1.23,True,True,FS,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,E3,DM-13292,DM-13294,FS,1.19,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,E3,DM-13292,DM-13295,FS,1.48,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,E3,DM-13293,DM-15756,FS,1.1099999999999999,True,True,FS,"I want to merge DM-13293 ASAP, and we can then discuss when this should be done once the big one is in."
+DM-12733,E3,DM-5082,DM-13291,FS,1.1600000000000001,True,False,,"Run code attached to DM-5082 as-is, reproduce results   * gather data on tiger   * run with correct version of stack   * check against Will's results"
+DM-12733,E3,DM-5082,DM-13295,FS,1.08,True,False,,"This ticket has been replaced by a string of 6 chained tickets, better detailing the work to be done."
+DM-12733,FULL,DM-13292,DM-13293,FS,1.23,True,True,FS,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,FULL,DM-13292,DM-13294,FS,1.19,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,FULL,DM-13292,DM-13295,FS,1.48,True,False,,"Cleanup and validation follow in DM-13293, DM-13294 and DM-13295."
+DM-12733,FULL,DM-13293,DM-15756,FS,1.1099999999999999,True,True,FS,"I want to merge DM-13293 ASAP, and we can then discuss when this should be done once the big one is in."
+DM-12733,FULL,DM-5082,DM-13291,FS,1.1600000000000001,True,False,,"Run code attached to DM-5082 as-is, reproduce results   * gather data on tiger   * run with correct version of stack   * check against Will's results"
+DM-12733,FULL,DM-5082,DM-13295,FS,1.08,True,False,,"This ticket has been replaced by a string of 6 chained tickets, better detailing the work to be done."
+DM-22400,E3-mention,DM-24330,DM-24543,FS,1.46,True,False,,This was identified in the review of DM-24330 but I forgot while handling other review comments.
+DM-22400,E3-mention,DM-24923,DM-24985,FS,1.4100000000000001,True,True,SF,in DM-24923 `IngestTestBase.file` was changed from a member variable to a class property.
+DM-22400,FULL-mention,DM-24330,DM-24543,FS,1.46,True,False,,This was identified in the review of DM-24330 but I forgot while handling other review comments.
+DM-22400,FULL-mention,DM-24923,DM-24985,FS,1.4100000000000001,True,True,SF,in DM-24923 `IngestTestBase.file` was changed from a member variable to a class property.
+DM-22400,E3,DM-24330,DM-24543,FS,1.46,True,False,,This was identified in the review of DM-24330 but I forgot while handling other review comments.
+DM-22400,E3,DM-24923,DM-24985,FS,1.4100000000000001,True,True,SF,in DM-24923 `IngestTestBase.file` was changed from a member variable to a class property.
+DM-22400,FULL,DM-24330,DM-24543,FS,1.46,True,False,,This was identified in the review of DM-24330 but I forgot while handling other review comments.
+DM-22400,FULL,DM-24923,DM-24985,FS,1.4100000000000001,True,True,SF,in DM-24923 `IngestTestBase.file` was changed from a member variable to a class property.
+DM-1705,E3-mention,DM-2716,DM-2703,FF,1.48,True,False,,this was done in DM-2716
+DM-1705,E3-mention,DM-2698,DM-2653,FF,1.3900000000000001,True,False,,Done through DM-2698 and DM-2716
+DM-1705,E3-mention,DM-2716,DM-2653,FF,1.38,True,False,,Done through DM-2698 and DM-2716
+DM-1705,E3-mention,DM-2930,DM-3618,FS,1.4,True,True,SF,Changes from DM-2930 are failing integration tests because wmgr is restarting xrootd and now we need to also restart mysqld if xrootd pid changes.
+DM-1705,FULL-mention,DM-2716,DM-2703,FF,1.48,True,False,,this was done in DM-2716
+DM-1705,FULL-mention,DM-2698,DM-2653,FF,1.3900000000000001,True,False,,Done through DM-2698 and DM-2716
+DM-1705,FULL-mention,DM-2716,DM-2653,FF,1.38,True,False,,Done through DM-2698 and DM-2716
+DM-1705,FULL-mention,DM-2930,DM-3618,FS,1.4,True,True,SF,Changes from DM-2930 are failing integration tests because wmgr is restarting xrootd and now we need to also restart mysqld if xrootd pid changes.
+DM-1705,E3,DM-2716,DM-2703,FF,1.48,True,False,,this was done in DM-2716
+DM-1705,E3,DM-2698,DM-2653,FF,1.3900000000000001,True,False,,Done through DM-2698 and DM-2716
+DM-1705,E3,DM-2716,DM-2653,FF,1.38,True,False,,Done through DM-2698 and DM-2716
+DM-1705,E3,DM-2930,DM-3618,FS,1.4,True,True,SF,Changes from DM-2930 are failing integration tests because wmgr is restarting xrootd and now we need to also restart mysqld if xrootd pid changes.
+DM-1705,FULL,DM-2716,DM-2703,FF,1.48,True,False,,this was done in DM-2716
+DM-1705,FULL,DM-2698,DM-2653,FF,1.3900000000000001,True,False,,Done through DM-2698 and DM-2716
+DM-1705,FULL,DM-2716,DM-2653,FF,1.38,True,False,,Done through DM-2698 and DM-2716
+DM-1705,FULL,DM-2930,DM-3618,FS,1.4,True,True,SF,Changes from DM-2930 are failing integration tests because wmgr is restarting xrootd and now we need to also restart mysqld if xrootd pid changes.
+DM-17262,E3-mention,DM-22124,DM-25752,FS,1.2,True,True,FS,The next step foreseen after this ticket was not ticketed at the time as it should have been.
+DM-17262,E3-mention,DM-26840,DM-25752,FF,1.31,True,False,,Still waiting for a stable release for final testing.
+DM-17262,FULL-mention,DM-22124,DM-25752,FS,1.2,True,True,FS,The next step foreseen after this ticket was not ticketed at the time as it should have been.
+DM-17262,FULL-mention,DM-26840,DM-25752,FF,1.31,True,False,,Still waiting for a stable release for final testing.
+DM-17262,E3,DM-22124,DM-25752,FS,1.2,True,True,FS,The next step foreseen after this ticket was not ticketed at the time as it should have been.
+DM-17262,E3,DM-26840,DM-25752,FF,1.31,True,False,,Still waiting for a stable release for final testing.
+DM-17262,FULL,DM-22124,DM-25752,FS,1.2,True,True,FS,The next step foreseen after this ticket was not ticketed at the time as it should have been.
+DM-17262,FULL,DM-26840,DM-25752,FF,1.31,True,False,,Still waiting for a stable release for final testing.
+DM-25244,E3-mention,DM-25354,DM-25411,FS,1.46,True,True,SF,My DM-25354 merge have broken unit test for Postgres (and I think for Oracle too):
+DM-25244,E3-mention,DM-24803,DM-25355,FS,1.3399999999999999,True,True,SF,AS discussed in DM-24803 we need a way to manage schema versions defined in daf_butler.
+DM-25244,E3-mention,DM-25028,DM-25151,FF,1.13,True,False,,this is implemented and currently being reviewed in DM-25028
+DM-25244,E3-mention,DM-25385,DM-24508,FS,1.02,True,False,,[~<USER> didn't you do this in DM-25385 ?
+DM-25244,E3-mention,DM-26597,DM-26645,FF,1.1600000000000001,True,False,,"I've changed the log level, in DM-26597 (will check that one in today as soon as Jenkins passes)."
+DM-25244,FULL-mention,DM-25354,DM-25411,FS,1.46,True,True,SF,My DM-25354 merge have broken unit test for Postgres (and I think for Oracle too):
+DM-25244,FULL-mention,DM-24803,DM-25355,FS,1.3399999999999999,True,True,SF,AS discussed in DM-24803 we need a way to manage schema versions defined in daf_butler.
+DM-25244,FULL-mention,DM-25028,DM-25151,FF,1.13,True,False,,this is implemented and currently being reviewed in DM-25028
+DM-25244,FULL-mention,DM-25385,DM-24508,FS,1.02,True,False,,[~<USER> didn't you do this in DM-25385 ?
+DM-25244,FULL-mention,DM-26597,DM-26645,FF,1.1600000000000001,True,False,,"I've changed the log level, in DM-26597 (will check that one in today as soon as Jenkins passes)."
+DM-25244,E3,DM-25354,DM-25411,FS,1.46,True,True,SF,My DM-25354 merge have broken unit test for Postgres (and I think for Oracle too):
+DM-25244,E3,DM-24803,DM-25355,FS,1.3399999999999999,True,True,SF,AS discussed in DM-24803 we need a way to manage schema versions defined in daf_butler.
+DM-25244,E3,DM-25028,DM-25151,FF,1.13,True,False,,this is implemented and currently being reviewed in DM-25028
+DM-25244,E3,DM-25385,DM-24508,FS,1.02,True,False,,[~<USER> didn't you do this in DM-25385 ?
+DM-25244,E3,DM-26597,DM-26645,FF,1.1600000000000001,True,False,,"I've changed the log level, in DM-26597 (will check that one in today as soon as Jenkins passes)."
+DM-25244,E3,DM-25355,DM-25985,FS,1.28,True,False,,"Next step in supporting schema migration for registry, need to determine and implement how we are going to define schema versions in the registry code and mechanism to store versions in the butler_attributes table."
+DM-25244,FULL,DM-25354,DM-25411,FS,1.46,True,True,SF,My DM-25354 merge have broken unit test for Postgres (and I think for Oracle too):
+DM-25244,FULL,DM-24803,DM-25355,FS,1.3399999999999999,True,True,SF,AS discussed in DM-24803 we need a way to manage schema versions defined in daf_butler.
+DM-25244,FULL,DM-25028,DM-25151,FF,1.13,True,False,,this is implemented and currently being reviewed in DM-25028
+DM-25244,FULL,DM-25385,DM-24508,FS,1.02,True,False,,[~<USER> didn't you do this in DM-25385 ?
+DM-25244,FULL,DM-26597,DM-26645,FF,1.1600000000000001,True,False,,"I've changed the log level, in DM-26597 (will check that one in today as soon as Jenkins passes)."
+DM-25244,FULL,DM-25355,DM-25985,FS,1.28,True,False,,"Next step in supporting schema migration for registry, need to determine and implement how we are going to define schema versions in the registry code and mechanism to store versions in the butler_attributes table."
+DM-2607,B1,DM-4092,DM-2334,FF,1.5,False,False,,
+DM-2607,E3-mention,DM-3662,DM-3686,FS,1.46,True,True,SF,In recently merged DM-3662 compiler version testing was done using OS tools with regular $PATH.
+DM-2607,E3-mention,DM-4092,DM-2334,FF,1.44,True,False,,Paves the way for DM-2334
+DM-2607,FULL-mention,DM-4092,DM-2334,FF,2.44,False,False,,Paves the way for DM-2334
+DM-2607,FULL-mention,DM-3662,DM-3686,FS,1.46,True,True,SF,In recently merged DM-3662 compiler version testing was done using OS tools with regular $PATH.
+DM-2607,E3,DM-3662,DM-3686,FS,1.46,True,True,SF,In recently merged DM-3662 compiler version testing was done using OS tools with regular $PATH.
+DM-2607,E3,DM-4092,DM-2334,FF,1.44,True,False,,Paves the way for DM-2334
+DM-2607,FULL,DM-4092,DM-2334,FF,2.44,False,False,,Paves the way for DM-2334
+DM-2607,FULL,DM-3662,DM-3686,FS,1.46,True,True,SF,In recently merged DM-3662 compiler version testing was done using OS tools with regular $PATH.
+DM-12790,B1,DM-14813,DM-14852,FF,1.5,False,False,,
+DM-12790,E3-mention,DM-14053,DM-14773,FS,1.42,True,False,,Currently {{module-toctree}} and {{package-toctree}} directives introduced in DM-14053 are not sorting their lists.
+DM-12790,E3-mention,DM-15016,DM-15075,FS,1.3399999999999999,True,True,SF,DM-15016 introduced new Edition tracking modes in LTD Keeper than don't use the {{tracked_refs}}.
+DM-12790,FULL-mention,DM-14813,DM-14852,FF,1.5,False,False,,
+DM-12790,FULL-mention,DM-14053,DM-14773,FS,1.42,True,False,,Currently {{module-toctree}} and {{package-toctree}} directives introduced in DM-14053 are not sorting their lists.
+DM-12790,FULL-mention,DM-15016,DM-15075,FS,1.3399999999999999,True,True,SF,DM-15016 introduced new Edition tracking modes in LTD Keeper than don't use the {{tracked_refs}}.
+DM-12790,E3,DM-14053,DM-14773,FS,1.42,True,False,,Currently {{module-toctree}} and {{package-toctree}} directives introduced in DM-14053 are not sorting their lists.
+DM-12790,E3,DM-15016,DM-15075,FS,1.3399999999999999,True,True,SF,DM-15016 introduced new Edition tracking modes in LTD Keeper than don't use the {{tracked_refs}}.
+DM-12790,FULL,DM-14813,DM-14852,FF,1.5,False,False,,
+DM-12790,FULL,DM-14053,DM-14773,FS,1.42,True,False,,Currently {{module-toctree}} and {{package-toctree}} directives introduced in DM-14053 are not sorting their lists.
+DM-12790,FULL,DM-15016,DM-15075,FS,1.3399999999999999,True,True,SF,DM-15016 introduced new Edition tracking modes in LTD Keeper than don't use the {{tracked_refs}}.
+DM-14015,E3-mention,DM-14118,DM-14152,FF,1.4300000000000002,True,True,SS,The attached plot can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,E3-mention,DM-14118,DM-14168,FF,1.48,True,True,SS,The attached plots can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,E3-mention,DM-14118,DM-14172,FF,1.45,True,True,SS,The quoted figures can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,FULL-mention,DM-14118,DM-14152,FF,1.4300000000000002,True,True,SS,The attached plot can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,FULL-mention,DM-14118,DM-14168,FF,1.48,True,True,SS,The attached plots can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,FULL-mention,DM-14118,DM-14172,FF,1.45,True,True,SS,The quoted figures can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,E3,DM-14118,DM-14152,FF,1.4300000000000002,True,True,SS,The attached plot can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,E3,DM-14118,DM-14168,FF,1.48,True,True,SS,The attached plots can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,E3,DM-14118,DM-14172,FF,1.45,True,True,SS,The quoted figures can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,FULL,DM-14118,DM-14152,FF,1.4300000000000002,True,True,SS,The attached plot can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,FULL,DM-14118,DM-14168,FF,1.48,True,True,SS,The attached plots can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-14015,FULL,DM-14118,DM-14172,FF,1.45,True,True,SS,The quoted figures can be generated by the notebook created in DM-14118 (lsst-dev:/home/<USER>src/mine/taranu_lsst/cModelConfigs.ipynb).
+DM-2107,E3-mention,DM-10908,DM-9146,FF,1.48,True,False,,The foundational work for this ticket (imagerserv refactoring) has been completed in recently closed ticket DM-10908.
+DM-2107,E3-mention,DM-9929,DM-8286,FF,1.46,True,True,FS,Completed as integral part of DM-9929.
+DM-2107,FULL-mention,DM-10908,DM-9146,FF,1.48,True,False,,The foundational work for this ticket (imagerserv refactoring) has been completed in recently closed ticket DM-10908.
+DM-2107,FULL-mention,DM-9929,DM-8286,FF,1.46,True,True,FS,Completed as integral part of DM-9929.
+DM-2107,E3,DM-10908,DM-9146,FF,1.48,True,False,,The foundational work for this ticket (imagerserv refactoring) has been completed in recently closed ticket DM-10908.
+DM-2107,E3,DM-9929,DM-8286,FF,1.46,True,True,FS,Completed as integral part of DM-9929.
+DM-2107,FULL,DM-10908,DM-9146,FF,1.48,True,False,,The foundational work for this ticket (imagerserv refactoring) has been completed in recently closed ticket DM-10908.
+DM-2107,FULL,DM-9929,DM-8286,FF,1.46,True,True,FS,Completed as integral part of DM-9929.
+DM-14448,B1,DM-15085,DM-15268,FS,1.5,False,False,,
+DM-14448,B1,DM-14980,DM-15528,FF,1.5,False,False,,
+DM-14448,B1,DM-15336,DM-15424,FS,1.5,False,False,,
+DM-14448,B1,DM-15336,DM-15210,FS,1.5,False,False,,
+DM-14448,B1,DM-15770,DM-15663,FF,1.25,False,False,,
+DM-14448,B1,DM-15836,DM-15500,FF,1.25,False,False,,
+DM-14448,B1,DM-15871,DM-14980,FF,1.25,False,False,,
+DM-14448,B1,DM-15897,DM-15663,FF,1.25,False,False,,
+DM-14448,B1,DM-15913,DM-15663,FF,1.25,False,False,,
+DM-14448,E3-mention,DM-14003,DM-13992,FF,1.1800000000000002,True,False,,"Since we're trying to build a complete shim on DM-14003, it's not clear we'll actually need to make any modifications to CmdLineTasks to get them working."
+DM-14448,E3-mention,DM-14504,DM-15767,SS,1.47,True,False,,"This work was started on DM-14504, while trying to make it possible to remove {{daf.base.Persistable}} by first removing pex_policy."
+DM-14448,E3-mention,DM-15085,DM-15189,FF,1.02,True,False,,I need to use ci_hsc to test DM-15189 and I might as well fix this at the same time.
+DM-14448,E3-mention,DM-15212,DM-15189,FF,1.3900000000000001,True,False,,"This is a spin-off of DM-15189 containing (hopefully all of) the supporting work in daf_butler for that ticket, separated into this ticket to merge it sooner and avoid conflicts with other daf_butler development."
+DM-14448,E3-mention,DM-2639,DM-15311,FS,1.4100000000000001,True,False,,"In the supertask migration meeting today with [~<USER>,[~<USER>,[~<USER>,[~<USER>  we decided that instead of tackling at the same time as the Task refactoring that we plan to do for the migration, we're going to tackle this BEFORE the refactoring."
+DM-14448,E3-mention,DM-15459,DM-15336,FF,1.29,True,False,,"I think this will solve at least some of the test failures on DM-15336 if you rebase on it, so you get the review."
+DM-14448,E3-mention,DM-15767,DM-16413,FS,1.13,True,False,,These somehow escaped the purge of DM-15767.
+DM-14448,FULL-mention,DM-15085,DM-15268,FS,1.5,False,False,,
+DM-14448,FULL-mention,DM-14980,DM-15528,FF,1.5,False,False,,
+DM-14448,FULL-mention,DM-15336,DM-15424,FS,1.5,False,False,,
+DM-14448,FULL-mention,DM-15336,DM-15210,FS,1.5,False,False,,
+DM-14448,FULL-mention,DM-15770,DM-15663,FF,1.25,False,False,,
+DM-14448,FULL-mention,DM-15836,DM-15500,FF,1.25,False,False,,
+DM-14448,FULL-mention,DM-15871,DM-14980,FF,1.25,False,False,,
+DM-14448,FULL-mention,DM-15897,DM-15663,FF,1.25,False,False,,
+DM-14448,FULL-mention,DM-15913,DM-15663,FF,1.25,False,False,,
+DM-14448,FULL-mention,DM-14003,DM-13992,FF,1.1800000000000002,True,False,,"Since we're trying to build a complete shim on DM-14003, it's not clear we'll actually need to make any modifications to CmdLineTasks to get them working."
+DM-14448,FULL-mention,DM-14504,DM-15767,SS,1.47,True,False,,"This work was started on DM-14504, while trying to make it possible to remove {{daf.base.Persistable}} by first removing pex_policy."
+DM-14448,FULL-mention,DM-15085,DM-15189,FF,1.02,True,False,,I need to use ci_hsc to test DM-15189 and I might as well fix this at the same time.
+DM-14448,FULL-mention,DM-15212,DM-15189,FF,1.3900000000000001,True,False,,"This is a spin-off of DM-15189 containing (hopefully all of) the supporting work in daf_butler for that ticket, separated into this ticket to merge it sooner and avoid conflicts with other daf_butler development."
+DM-14448,FULL-mention,DM-2639,DM-15311,FS,1.4100000000000001,True,False,,"In the supertask migration meeting today with [~<USER>,[~<USER>,[~<USER>,[~<USER>  we decided that instead of tackling at the same time as the Task refactoring that we plan to do for the migration, we're going to tackle this BEFORE the refactoring."
+DM-14448,FULL-mention,DM-15459,DM-15336,FF,1.29,True,False,,"I think this will solve at least some of the test failures on DM-15336 if you rebase on it, so you get the review."
+DM-14448,FULL-mention,DM-15767,DM-16413,FS,1.13,True,False,,These somehow escaped the purge of DM-15767.
+DM-14448,E3,DM-14003,DM-13992,FF,1.1800000000000002,True,False,,"Since we're trying to build a complete shim on DM-14003, it's not clear we'll actually need to make any modifications to CmdLineTasks to get them working."
+DM-14448,E3,DM-14504,DM-15767,SS,1.47,True,False,,"This work was started on DM-14504, while trying to make it possible to remove {{daf.base.Persistable}} by first removing pex_policy."
+DM-14448,E3,DM-15085,DM-15189,FF,1.02,True,False,,I need to use ci_hsc to test DM-15189 and I might as well fix this at the same time.
+DM-14448,E3,DM-15212,DM-15189,FF,1.3900000000000001,True,False,,"This is a spin-off of DM-15189 containing (hopefully all of) the supporting work in daf_butler for that ticket, separated into this ticket to merge it sooner and avoid conflicts with other daf_butler development."
+DM-14448,E3,DM-2639,DM-15311,FS,1.4100000000000001,True,False,,"In the supertask migration meeting today with [~<USER>,[~<USER>,[~<USER>,[~<USER>  we decided that instead of tackling at the same time as the Task refactoring that we plan to do for the migration, we're going to tackle this BEFORE the refactoring."
+DM-14448,E3,DM-15459,DM-15336,FF,1.29,True,False,,"I think this will solve at least some of the test failures on DM-15336 if you rebase on it, so you get the review."
+DM-14448,E3,DM-15767,DM-16413,FS,1.13,True,False,,These somehow escaped the purge of DM-15767.
+DM-14448,FULL,DM-15085,DM-15268,FS,1.5,False,False,,
+DM-14448,FULL,DM-14980,DM-15528,FF,1.5,False,False,,
+DM-14448,FULL,DM-15336,DM-15424,FS,1.5,False,False,,
+DM-14448,FULL,DM-15336,DM-15210,FS,1.5,False,False,,
+DM-14448,FULL,DM-15770,DM-15663,FF,1.25,False,False,,
+DM-14448,FULL,DM-15836,DM-15500,FF,1.25,False,False,,
+DM-14448,FULL,DM-15871,DM-14980,FF,1.25,False,False,,
+DM-14448,FULL,DM-15897,DM-15663,FF,1.25,False,False,,
+DM-14448,FULL,DM-15913,DM-15663,FF,1.25,False,False,,
+DM-14448,FULL,DM-14003,DM-13992,FF,1.1800000000000002,True,False,,"Since we're trying to build a complete shim on DM-14003, it's not clear we'll actually need to make any modifications to CmdLineTasks to get them working."
+DM-14448,FULL,DM-14504,DM-15767,SS,1.47,True,False,,"This work was started on DM-14504, while trying to make it possible to remove {{daf.base.Persistable}} by first removing pex_policy."
+DM-14448,FULL,DM-15085,DM-15189,FF,1.02,True,False,,I need to use ci_hsc to test DM-15189 and I might as well fix this at the same time.
+DM-14448,FULL,DM-15212,DM-15189,FF,1.3900000000000001,True,False,,"This is a spin-off of DM-15189 containing (hopefully all of) the supporting work in daf_butler for that ticket, separated into this ticket to merge it sooner and avoid conflicts with other daf_butler development."
+DM-14448,FULL,DM-2639,DM-15311,FS,1.4100000000000001,True,False,,"In the supertask migration meeting today with [~<USER>,[~<USER>,[~<USER>,[~<USER>  we decided that instead of tackling at the same time as the Task refactoring that we plan to do for the migration, we're going to tackle this BEFORE the refactoring."
+DM-14448,FULL,DM-15459,DM-15336,FF,1.29,True,False,,"I think this will solve at least some of the test failures on DM-15336 if you rebase on it, so you get the review."
+DM-14448,FULL,DM-15767,DM-16413,FS,1.13,True,False,,These somehow escaped the purge of DM-15767.
+DM-12738,B1,DM-13171,DM-12635,FS,1.5,False,False,,
+DM-12738,E3-mention,DM-12627,DM-12645,FF,1.42,True,False,,"""Implemented on DM-12627."""
+DM-12738,E3-mention,DM-12627,DM-12644,FF,1.33,True,False,,"""Implemented on DM-12627."""
+DM-12738,E3-mention,DM-12624,DM-12626,FF,1.47,True,False,,Done as part of DM-12624.
+DM-12738,E3-mention,DM-12624,DM-13820,FF,1.37,True,False,,Done as part of DM-12624
+DM-12738,E3-mention,DM-13869,DM-12647,FF,1.23,True,False,,Done as part of DM-13869.
+DM-12738,E3-mention,DM-12640,DM-12633,FF,1.47,True,False,,Done as part of DM-12640.
+DM-12738,E3-mention,DM-12624,DM-13287,FF,0.99,True,False,,Done as part of DM-12624.
+DM-12738,E3-mention,DM-13840,DM-13033,FF,1.2,True,False,,"""Done as part of DM-13840."""
+DM-12738,E3-mention,DM-13496,DM-12640,SS,1.28,True,False,,Will base on current status of DM-13496.
+DM-12738,FULL-mention,DM-13171,DM-12635,FS,1.5,False,False,,
+DM-12738,FULL-mention,DM-12627,DM-12645,FF,1.42,True,False,,"""Implemented on DM-12627."""
+DM-12738,FULL-mention,DM-12627,DM-12644,FF,1.33,True,False,,"""Implemented on DM-12627."""
+DM-12738,FULL-mention,DM-12624,DM-12626,FF,1.47,True,False,,Done as part of DM-12624.
+DM-12738,FULL-mention,DM-12624,DM-13820,FF,1.37,True,False,,Done as part of DM-12624
+DM-12738,FULL-mention,DM-13869,DM-12647,FF,1.23,True,False,,Done as part of DM-13869.
+DM-12738,FULL-mention,DM-12640,DM-12633,FF,1.47,True,False,,Done as part of DM-12640.
+DM-12738,FULL-mention,DM-12624,DM-13287,FF,0.99,True,False,,Done as part of DM-12624.
+DM-12738,FULL-mention,DM-13840,DM-13033,FF,1.2,True,False,,"""Done as part of DM-13840."""
+DM-12738,FULL-mention,DM-13496,DM-12640,SS,1.28,True,False,,Will base on current status of DM-13496.
+DM-12738,E3,DM-12627,DM-12645,FF,1.42,True,False,,"""Implemented on DM-12627."""
+DM-12738,E3,DM-12627,DM-12644,FF,1.33,True,False,,"""Implemented on DM-12627."""
+DM-12738,E3,DM-12624,DM-12626,FF,1.47,True,False,,Done as part of DM-12624.
+DM-12738,E3,DM-12624,DM-13820,FF,1.37,True,False,,Done as part of DM-12624
+DM-12738,E3,DM-13869,DM-12647,FF,1.23,True,False,,Done as part of DM-13869.
+DM-12738,E3,DM-12640,DM-12633,FF,1.47,True,False,,Done as part of DM-12640.
+DM-12738,E3,DM-12624,DM-13287,FF,0.99,True,False,,Done as part of DM-12624.
+DM-12738,E3,DM-13840,DM-13033,FF,1.2,True,False,,"""Done as part of DM-13840."""
+DM-12738,E3,DM-13496,DM-12640,SS,1.28,True,False,,Will base on current status of DM-13496.
+DM-12738,E3,DM-12620,DM-12633,FF,0.93,True,False,,"This should use SQLAlchemy as much as possible, but target SQLite specifically when necessary."
+DM-12738,E3,DM-14638,DM-14639,FF,1.1800000000000002,True,True,SF,Add a {{transaction}} context manager to {{Butler}} that uses {{Registry.transaction}} and {{Datastore.transaction}} to make multiple {{put}} calls optionally transactional (rolling back in case of failure).
+DM-12738,FULL,DM-13171,DM-12635,FS,1.5,False,False,,
+DM-12738,FULL,DM-12627,DM-12645,FF,1.42,True,False,,"""Implemented on DM-12627."""
+DM-12738,FULL,DM-12627,DM-12644,FF,1.33,True,False,,"""Implemented on DM-12627."""
+DM-12738,FULL,DM-12624,DM-12626,FF,1.47,True,False,,Done as part of DM-12624.
+DM-12738,FULL,DM-12624,DM-13820,FF,1.37,True,False,,Done as part of DM-12624
+DM-12738,FULL,DM-13869,DM-12647,FF,1.23,True,False,,Done as part of DM-13869.
+DM-12738,FULL,DM-12640,DM-12633,FF,1.47,True,False,,Done as part of DM-12640.
+DM-12738,FULL,DM-12624,DM-13287,FF,0.99,True,False,,Done as part of DM-12624.
+DM-12738,FULL,DM-13840,DM-13033,FF,1.2,True,False,,"""Done as part of DM-13840."""
+DM-12738,FULL,DM-13496,DM-12640,SS,1.28,True,False,,Will base on current status of DM-13496.
+DM-12738,FULL,DM-12620,DM-12633,FF,0.93,True,False,,"This should use SQLAlchemy as much as possible, but target SQLite specifically when necessary."
+DM-12738,FULL,DM-14638,DM-14639,FF,1.1800000000000002,True,True,SF,Add a {{transaction}} context manager to {{Butler}} that uses {{Registry.transaction}} and {{Datastore.transaction}} to make multiple {{put}} calls optionally transactional (rolling back in case of failure).
+DM-2513,B1,DM-2299,DM-2510,FS,1.5,False,False,,
+DM-2513,E3-mention,DM-2299,DM-2322,FF,1.22,True,False,,I am taking care of that in tickets/DM-2299
+DM-2513,FULL-mention,DM-2299,DM-2510,FS,1.5,False,False,,
+DM-2513,FULL-mention,DM-2299,DM-2322,FF,1.22,True,False,,I am taking care of that in tickets/DM-2299
+DM-2513,E3,DM-2299,DM-2322,FF,1.22,True,False,,I am taking care of that in tickets/DM-2299
+DM-2513,FULL,DM-2299,DM-2510,FS,1.5,False,False,,
+DM-2513,FULL,DM-2299,DM-2322,FF,1.22,True,False,,I am taking care of that in tickets/DM-2299
+DM-26164,E3-mention,DM-26678,DM-27000,FF,1.48,True,True,SF,This is a follow-up action of DM-26678.
+DM-26164,FULL-mention,DM-26678,DM-27000,FF,1.48,True,True,SF,This is a follow-up action of DM-26678.
+DM-26164,E3,DM-26678,DM-27000,FF,1.48,True,True,SF,This is a follow-up action of DM-26678.
+DM-26164,FULL,DM-26678,DM-27000,FF,1.48,True,True,SF,This is a follow-up action of DM-26678.
+DM-8350,E3-mention,DM-8668,DM-7989,FF,1.47,True,True,FS,"""has been fixed by [~<USER> in DM-8668."""
+DM-8350,E3-mention,DM-8668,DM-8670,FS,1.3599999999999999,True,True,FS,update period area according to the feedback to the flow and the layout of DM-8668
+DM-8350,E3-mention,DM-9348,DM-7992,FS,1.4300000000000002,True,False,,I believe this is implemented in DM-9348.
+DM-8350,FULL-mention,DM-8668,DM-7989,FF,1.47,True,True,FS,"""has been fixed by [~<USER> in DM-8668."""
+DM-8350,FULL-mention,DM-8668,DM-8670,FS,1.3599999999999999,True,True,FS,update period area according to the feedback to the flow and the layout of DM-8668
+DM-8350,FULL-mention,DM-9348,DM-7992,FS,1.4300000000000002,True,False,,I believe this is implemented in DM-9348.
+DM-8350,E3,DM-8668,DM-7989,FF,1.47,True,True,FS,"""has been fixed by [~<USER> in DM-8668."""
+DM-8350,E3,DM-8668,DM-8670,FS,1.3599999999999999,True,True,FS,update period area according to the feedback to the flow and the layout of DM-8668
+DM-8350,E3,DM-9348,DM-7992,FS,1.4300000000000002,True,False,,I believe this is implemented in DM-9348.
+DM-8350,E3,DM-7802,DM-9348,FS,1.3599999999999999,True,True,FS,"This is the second part of changes to support LSST time series, which should handle band selection in UI."
+DM-8350,FULL,DM-8668,DM-7989,FF,1.47,True,True,FS,"""has been fixed by [~<USER> in DM-8668."""
+DM-8350,FULL,DM-8668,DM-8670,FS,1.3599999999999999,True,True,FS,update period area according to the feedback to the flow and the layout of DM-8668
+DM-8350,FULL,DM-9348,DM-7992,FS,1.4300000000000002,True,False,,I believe this is implemented in DM-9348.
+DM-8350,FULL,DM-7802,DM-9348,FS,1.3599999999999999,True,True,FS,"This is the second part of changes to support LSST time series, which should handle band selection in UI."
+DM-1703,B1,DM-1900,DM-1901,FS,1.5,False,False,,
+DM-1703,B1,DM-1900,DM-2176,FF,1.5,False,False,,
+DM-1703,B1,DM-2593,DM-1901,FF,1.5,False,False,,
+DM-1703,E3-mention,DM-2760,DM-2761,FF,1.2,True,False,,"Note that this needs DM-2760 for qserv, otherwise things will be broken badly."
+DM-1703,E3-mention,DM-2176,DM-2385,FS,1.3599999999999999,True,True,SF,"It clearly needs some research, I think I'll postpone the implementation of the data loading part and open new story for it."
+DM-1703,FULL-mention,DM-1900,DM-1901,FS,1.5,False,False,,
+DM-1703,FULL-mention,DM-1900,DM-2176,FF,1.5,False,False,,
+DM-1703,FULL-mention,DM-2593,DM-1901,FF,1.5,False,False,,
+DM-1703,FULL-mention,DM-2760,DM-2761,FF,1.2,True,False,,"Note that this needs DM-2760 for qserv, otherwise things will be broken badly."
+DM-1703,FULL-mention,DM-2176,DM-2385,FS,1.3599999999999999,True,True,SF,"It clearly needs some research, I think I'll postpone the implementation of the data loading part and open new story for it."
+DM-1703,E3,DM-2760,DM-2761,FF,1.2,True,False,,"Note that this needs DM-2760 for qserv, otherwise things will be broken badly."
+DM-1703,E3,DM-2176,DM-2385,FS,1.3599999999999999,True,True,SF,"It clearly needs some research, I think I'll postpone the implementation of the data loading part and open new story for it."
+DM-1703,E3,DM-2176,DM-1901,FS,1.44,True,False,,Once we have new service that controls worker communication we'll need to reimplement WorkerAdmin class based on that.
+DM-1703,E3,DM-1900,DM-2420,FS,1.3399999999999999,True,False,,"There is basic documentation in the design document (https://dev.lsstcorp.org/trac/wiki/db/Qserv/WMGRDesign), this needs to be extended with detailed description of what those methods do and what kind of data they accept and return."
+DM-1703,FULL,DM-1900,DM-2176,FF,1.5,False,False,,
+DM-1703,FULL,DM-2593,DM-1901,FF,1.5,False,False,,
+DM-1703,FULL,DM-2760,DM-2761,FF,1.2,True,False,,"Note that this needs DM-2760 for qserv, otherwise things will be broken badly."
+DM-1703,FULL,DM-2176,DM-2385,FS,1.3599999999999999,True,True,SF,"It clearly needs some research, I think I'll postpone the implementation of the data loading part and open new story for it."
+DM-1703,FULL,DM-2176,DM-1901,FS,1.44,True,False,,Once we have new service that controls worker communication we'll need to reimplement WorkerAdmin class based on that.
+DM-1703,FULL,DM-1900,DM-2420,FS,1.3399999999999999,True,False,,"There is basic documentation in the design document (https://dev.lsstcorp.org/trac/wiki/db/Qserv/WMGRDesign), this needs to be extended with detailed description of what those methods do and what kind of data they accept and return."
+DM-25674,B1,DM-26081,DM-25856,FF,1.5,False,False,,
+DM-25674,E3-mention,DM-26382,DM-26384,FF,1.49,True,True,SF,As soon as DM-26382 is implemented update ts_rotator to read the new timestamp field from the low-level controller's telemetry struct.
+DM-25674,E3-mention,DM-25856,DM-26197,FF,1.47,True,False,,"""Implemented as part of DM-25856"""
+DM-25674,E3-mention,DM-25994,DM-26107,FS,1.48,True,True,SF,The Rotator low-level controller will output velocity information as of DM-25994. Update the Rotator CSC accordingly.
+DM-25674,FULL-mention,DM-26081,DM-25856,FF,1.5,False,False,,
+DM-25674,FULL-mention,DM-26382,DM-26384,FF,1.49,True,True,SF,As soon as DM-26382 is implemented update ts_rotator to read the new timestamp field from the low-level controller's telemetry struct.
+DM-25674,FULL-mention,DM-25856,DM-26197,FF,1.47,True,False,,"""Implemented as part of DM-25856"""
+DM-25674,FULL-mention,DM-25994,DM-26107,FS,1.48,True,True,SF,The Rotator low-level controller will output velocity information as of DM-25994. Update the Rotator CSC accordingly.
+DM-25674,E3,DM-26382,DM-26384,FF,1.49,True,True,SF,As soon as DM-26382 is implemented update ts_rotator to read the new timestamp field from the low-level controller's telemetry struct.
+DM-25674,E3,DM-25856,DM-26197,FF,1.47,True,False,,"""Implemented as part of DM-25856"""
+DM-25674,E3,DM-25994,DM-26107,FS,1.48,True,True,SF,The Rotator low-level controller will output velocity information as of DM-25994. Update the Rotator CSC accordingly.
+DM-25674,FULL,DM-26081,DM-25856,FF,1.5,False,False,,
+DM-25674,FULL,DM-26382,DM-26384,FF,1.49,True,True,SF,As soon as DM-26382 is implemented update ts_rotator to read the new timestamp field from the low-level controller's telemetry struct.
+DM-25674,FULL,DM-25856,DM-26197,FF,1.47,True,False,,"""Implemented as part of DM-25856"""
+DM-25674,FULL,DM-25994,DM-26107,FS,1.48,True,True,SF,The Rotator low-level controller will output velocity information as of DM-25994. Update the Rotator CSC accordingly.
+DM-10153,B1,DM-10346,DM-10156,FF,1.5,False,False,,
+DM-10153,B1,DM-16926,DM-10156,FF,1.25,False,False,,
+DM-10153,B1,DM-18067,DM-10156,FF,1.5,False,False,,
+DM-10153,B1,DM-17029,DM-10156,FF,1.5,False,False,,
+DM-10153,E3-mention,DM-16926,DM-10156,FF,1.24,True,False,,The adopted RFC should trigger DM-10156.
+DM-10153,E3-mention,DM-16925,DM-10156,FF,1.1800000000000002,True,False,,I can just rebase DM-10156 on top of this and then you can use just that ticket to do your backwards compatibility testing.
+DM-10153,E3-mention,DM-10156,DM-15544,FF,1.45,True,False,,Done as part of DM-10156.
+DM-10153,E3-mention,DM-16830,DM-16650,FF,1.21,True,False,,Might want to do this before DM-16650 gets merged.
+DM-10153,E3-mention,DM-16650,DM-16696,FF,1.22,True,False,,"""I'm going to do this as part of DM-16650, which is going on now."""
+DM-10153,E3-mention,DM-16925,DM-18544,FS,1.23,True,True,SF,Also add {{deprecated}} markings on all of the API added as part of DM-16925.
+DM-10153,FULL-mention,DM-10346,DM-10156,FF,1.5,False,False,,
+DM-10153,FULL-mention,DM-16926,DM-10156,FF,2.24,False,False,,The adopted RFC should trigger DM-10156.
+DM-10153,FULL-mention,DM-18067,DM-10156,FF,1.5,False,False,,
+DM-10153,FULL-mention,DM-17029,DM-10156,FF,1.5,False,False,,
+DM-10153,FULL-mention,DM-16925,DM-10156,FF,1.1800000000000002,True,False,,I can just rebase DM-10156 on top of this and then you can use just that ticket to do your backwards compatibility testing.
+DM-10153,FULL-mention,DM-10156,DM-15544,FF,1.45,True,False,,Done as part of DM-10156.
+DM-10153,FULL-mention,DM-16830,DM-16650,FF,1.21,True,False,,Might want to do this before DM-16650 gets merged.
+DM-10153,FULL-mention,DM-16650,DM-16696,FF,1.22,True,False,,"""I'm going to do this as part of DM-16650, which is going on now."""
+DM-10153,FULL-mention,DM-16925,DM-18544,FS,1.23,True,True,SF,Also add {{deprecated}} markings on all of the API added as part of DM-16925.
+DM-10153,E3,DM-16926,DM-10156,FF,1.24,True,False,,The adopted RFC should trigger DM-10156.
+DM-10153,E3,DM-16925,DM-10156,FF,1.1800000000000002,True,False,,I can just rebase DM-10156 on top of this and then you can use just that ticket to do your backwards compatibility testing.
+DM-10153,E3,DM-10156,DM-15544,FF,1.45,True,False,,Done as part of DM-10156.
+DM-10153,E3,DM-16830,DM-16650,FF,1.21,True,False,,Might want to do this before DM-16650 gets merged.
+DM-10153,E3,DM-16650,DM-16696,FF,1.22,True,False,,"""I'm going to do this as part of DM-16650, which is going on now."""
+DM-10153,E3,DM-16925,DM-18544,FS,1.23,True,True,SF,Also add {{deprecated}} markings on all of the API added as part of DM-16925.
+DM-10153,FULL,DM-10346,DM-10156,FF,1.5,False,False,,
+DM-10153,FULL,DM-16926,DM-10156,FF,2.24,False,False,,The adopted RFC should trigger DM-10156.
+DM-10153,FULL,DM-18067,DM-10156,FF,1.5,False,False,,
+DM-10153,FULL,DM-17029,DM-10156,FF,1.5,False,False,,
+DM-10153,FULL,DM-16925,DM-10156,FF,1.1800000000000002,True,False,,I can just rebase DM-10156 on top of this and then you can use just that ticket to do your backwards compatibility testing.
+DM-10153,FULL,DM-10156,DM-15544,FF,1.45,True,False,,Done as part of DM-10156.
+DM-10153,FULL,DM-16830,DM-16650,FF,1.21,True,False,,Might want to do this before DM-16650 gets merged.
+DM-10153,FULL,DM-16650,DM-16696,FF,1.22,True,False,,"""I'm going to do this as part of DM-16650, which is going on now."""
+DM-10153,FULL,DM-16925,DM-18544,FS,1.23,True,True,SF,Also add {{deprecated}} markings on all of the API added as part of DM-16925.
+DM-6196,B1,DM-7006,DM-6992,FF,1.25,False,False,,
+DM-6196,B1,DM-7737,DM-7328,FF,1.5,False,False,,
+DM-6196,B1,DM-8557,DM-7328,FF,1.25,False,False,,
+DM-6196,E3-mention,DM-7071,DM-7082,FS,1.24,True,True,SF,Test and deploy django admin fix from DM-7071.
+DM-6196,E3-mention,DM-7098,DM-6992,FF,1.23,True,False,,The JSON generated by post_qa should include two more fields required by DM-6992 obtained from the following env variables in Jenkins
+DM-6196,E3-mention,DM-7006,DM-6992,FF,1.13,True,False,,I need these changes in tickets/DM-6992 branch and will just merge it to master.
+DM-6196,E3-mention,DM-7005,DM-8195,FS,1.21,True,False,,"DM-7005 implements a data table connected with the metrics plot that list the jobs, measurement values and packages that changed with respect to the previous job linked to the corresponding git urls."
+DM-6196,E3-mention,DM-7517,DM-7749,FS,1.17,True,False,,I could not test it properly with data from production because there was a change in the API https://jira.lsstcorp.org/browse/DM-7517 and I need that to draw correctly the box annotations.
+DM-6196,E3-mention,DM-6629,DM-6917,FF,1.38,True,False,,"DM-6629 provided a new API for consistently specifying metrics, their specification, and reporting results of measurements."
+DM-6196,E3-mention,DM-7441,DM-5945,FF,1.08,True,False,,This is going to be required once we have more bokeh apps to implement the QA plots see DM-5945 
+DM-6196,E3-mention,DM-8195,DM-8368,FS,1.08,True,False,,Using SQuaSH after the last deployment DM-8195 two improvements were suggested by users.
+DM-6196,FULL-mention,DM-7006,DM-6992,FF,2.13,False,False,,I need these changes in tickets/DM-6992 branch and will just merge it to master.
+DM-6196,FULL-mention,DM-7737,DM-7328,FF,1.5,False,False,,
+DM-6196,FULL-mention,DM-8557,DM-7328,FF,1.25,False,False,,
+DM-6196,FULL-mention,DM-7071,DM-7082,FS,1.24,True,True,SF,Test and deploy django admin fix from DM-7071.
+DM-6196,FULL-mention,DM-7098,DM-6992,FF,1.23,True,False,,The JSON generated by post_qa should include two more fields required by DM-6992 obtained from the following env variables in Jenkins
+DM-6196,FULL-mention,DM-7005,DM-8195,FS,1.21,True,False,,"DM-7005 implements a data table connected with the metrics plot that list the jobs, measurement values and packages that changed with respect to the previous job linked to the corresponding git urls."
+DM-6196,FULL-mention,DM-7517,DM-7749,FS,1.17,True,False,,I could not test it properly with data from production because there was a change in the API https://jira.lsstcorp.org/browse/DM-7517 and I need that to draw correctly the box annotations.
+DM-6196,FULL-mention,DM-6629,DM-6917,FF,1.38,True,False,,"DM-6629 provided a new API for consistently specifying metrics, their specification, and reporting results of measurements."
+DM-6196,FULL-mention,DM-7441,DM-5945,FF,1.08,True,False,,This is going to be required once we have more bokeh apps to implement the QA plots see DM-5945 
+DM-6196,FULL-mention,DM-8195,DM-8368,FS,1.08,True,False,,Using SQuaSH after the last deployment DM-8195 two improvements were suggested by users.
+DM-6196,E3,DM-7071,DM-7082,FS,1.24,True,True,SF,Test and deploy django admin fix from DM-7071.
+DM-6196,E3,DM-7098,DM-6992,FF,1.23,True,False,,The JSON generated by post_qa should include two more fields required by DM-6992 obtained from the following env variables in Jenkins
+DM-6196,E3,DM-7006,DM-6992,FF,1.13,True,False,,I need these changes in tickets/DM-6992 branch and will just merge it to master.
+DM-6196,E3,DM-7005,DM-8195,FS,1.21,True,False,,"DM-7005 implements a data table connected with the metrics plot that list the jobs, measurement values and packages that changed with respect to the previous job linked to the corresponding git urls."
+DM-6196,E3,DM-7517,DM-7749,FS,1.17,True,False,,I could not test it properly with data from production because there was a change in the API https://jira.lsstcorp.org/browse/DM-7517 and I need that to draw correctly the box annotations.
+DM-6196,E3,DM-6629,DM-6917,FF,1.38,True,False,,"DM-6629 provided a new API for consistently specifying metrics, their specification, and reporting results of measurements."
+DM-6196,E3,DM-7441,DM-5945,FF,1.08,True,False,,This is going to be required once we have more bokeh apps to implement the QA plots see DM-5945 
+DM-6196,E3,DM-8195,DM-8368,FS,1.08,True,False,,Using SQuaSH after the last deployment DM-8195 two improvements were suggested by users.
+DM-6196,FULL,DM-7006,DM-6992,FF,2.13,False,False,,I need these changes in tickets/DM-6992 branch and will just merge it to master.
+DM-6196,FULL,DM-7737,DM-7328,FF,1.5,False,False,,
+DM-6196,FULL,DM-8557,DM-7328,FF,1.25,False,False,,
+DM-6196,FULL,DM-7071,DM-7082,FS,1.24,True,True,SF,Test and deploy django admin fix from DM-7071.
+DM-6196,FULL,DM-7098,DM-6992,FF,1.23,True,False,,The JSON generated by post_qa should include two more fields required by DM-6992 obtained from the following env variables in Jenkins
+DM-6196,FULL,DM-7005,DM-8195,FS,1.21,True,False,,"DM-7005 implements a data table connected with the metrics plot that list the jobs, measurement values and packages that changed with respect to the previous job linked to the corresponding git urls."
+DM-6196,FULL,DM-7517,DM-7749,FS,1.17,True,False,,I could not test it properly with data from production because there was a change in the API https://jira.lsstcorp.org/browse/DM-7517 and I need that to draw correctly the box annotations.
+DM-6196,FULL,DM-6629,DM-6917,FF,1.38,True,False,,"DM-6629 provided a new API for consistently specifying metrics, their specification, and reporting results of measurements."
+DM-6196,FULL,DM-7441,DM-5945,FF,1.08,True,False,,This is going to be required once we have more bokeh apps to implement the QA plots see DM-5945 
+DM-6196,FULL,DM-8195,DM-8368,FS,1.08,True,False,,Using SQuaSH after the last deployment DM-8195 two improvements were suggested by users.
+DM-20162,E3-mention,DM-20728,DM-21070,FF,1.21,True,True,FS,Run the new MultiProFit task (DM-20728) on COSMOS/HSC (UDeep) data - a patch or two - to verify that it works and for further analysis.
+DM-20162,E3-mention,DM-19843,DM-20265,FF,1.47,True,True,FS,"DM-19843 implemented computing and using the Jacobian in least squares fits of Gaussian mixture models in MultiProFit, but not for PSFs, where we fit a total flux (fixed to 1) and flux ratios."
+DM-20162,E3-mention,DM-19843,DM-20050,FF,1.26,True,True,FS,DM-19843 implemented least squares fitting using the analytic Jacobian for Gaussian mixture models in MultiProFit.
+DM-20162,FULL-mention,DM-20728,DM-21070,FF,1.21,True,True,FS,Run the new MultiProFit task (DM-20728) on COSMOS/HSC (UDeep) data - a patch or two - to verify that it works and for further analysis.
+DM-20162,FULL-mention,DM-19843,DM-20265,FF,1.47,True,True,FS,"DM-19843 implemented computing and using the Jacobian in least squares fits of Gaussian mixture models in MultiProFit, but not for PSFs, where we fit a total flux (fixed to 1) and flux ratios."
+DM-20162,FULL-mention,DM-19843,DM-20050,FF,1.26,True,True,FS,DM-19843 implemented least squares fitting using the analytic Jacobian for Gaussian mixture models in MultiProFit.
+DM-20162,E3,DM-20728,DM-21070,FF,1.21,True,True,FS,Run the new MultiProFit task (DM-20728) on COSMOS/HSC (UDeep) data - a patch or two - to verify that it works and for further analysis.
+DM-20162,E3,DM-19843,DM-20265,FF,1.47,True,True,FS,"DM-19843 implemented computing and using the Jacobian in least squares fits of Gaussian mixture models in MultiProFit, but not for PSFs, where we fit a total flux (fixed to 1) and flux ratios."
+DM-20162,E3,DM-19843,DM-20050,FF,1.26,True,True,FS,DM-19843 implemented least squares fitting using the analytic Jacobian for Gaussian mixture models in MultiProFit.
+DM-20162,FULL,DM-20728,DM-21070,FF,1.21,True,True,FS,Run the new MultiProFit task (DM-20728) on COSMOS/HSC (UDeep) data - a patch or two - to verify that it works and for further analysis.
+DM-20162,FULL,DM-19843,DM-20265,FF,1.47,True,True,FS,"DM-19843 implemented computing and using the Jacobian in least squares fits of Gaussian mixture models in MultiProFit, but not for PSFs, where we fit a total flux (fixed to 1) and flux ratios."
+DM-20162,FULL,DM-19843,DM-20050,FF,1.26,True,True,FS,DM-19843 implemented least squares fitting using the analytic Jacobian for Gaussian mixture models in MultiProFit.
+DM-14566,E3-mention,DM-15598,DM-15618,FF,1.46,True,True,SF,This appears to have been resolved by a future upgrade to 2.141 as part of DM-15598 and should be resolved when that ticket is merged/deployed.
+DM-14566,E3-mention,DM-15598,DM-11627,FF,1.45,True,False,,Appears to have been resolved by DM-15598
+DM-14566,E3-mention,DM-15598,DM-15587,FF,1.46,True,False,,This is planned to be merged/deployed as part of DM-15598 early next week.
+DM-14566,E3-mention,DM-15598,DM-15608,FF,1.47,True,True,SF,This should be resolved when DM-15598 is deployed.
+DM-14566,FULL-mention,DM-15598,DM-15618,FF,1.46,True,True,SF,This appears to have been resolved by a future upgrade to 2.141 as part of DM-15598 and should be resolved when that ticket is merged/deployed.
+DM-14566,FULL-mention,DM-15598,DM-11627,FF,1.45,True,False,,Appears to have been resolved by DM-15598
+DM-14566,FULL-mention,DM-15598,DM-15587,FF,1.46,True,False,,This is planned to be merged/deployed as part of DM-15598 early next week.
+DM-14566,FULL-mention,DM-15598,DM-15608,FF,1.47,True,True,SF,This should be resolved when DM-15598 is deployed.
+DM-14566,E3,DM-15598,DM-15618,FF,1.46,True,True,SF,This appears to have been resolved by a future upgrade to 2.141 as part of DM-15598 and should be resolved when that ticket is merged/deployed.
+DM-14566,E3,DM-15598,DM-11627,FF,1.45,True,False,,Appears to have been resolved by DM-15598
+DM-14566,E3,DM-15598,DM-15587,FF,1.46,True,False,,This is planned to be merged/deployed as part of DM-15598 early next week.
+DM-14566,E3,DM-15598,DM-15608,FF,1.47,True,True,SF,This should be resolved when DM-15598 is deployed.
+DM-14566,FULL,DM-15598,DM-15618,FF,1.46,True,True,SF,This appears to have been resolved by a future upgrade to 2.141 as part of DM-15598 and should be resolved when that ticket is merged/deployed.
+DM-14566,FULL,DM-15598,DM-11627,FF,1.45,True,False,,Appears to have been resolved by DM-15598
+DM-14566,FULL,DM-15598,DM-15587,FF,1.46,True,False,,This is planned to be merged/deployed as part of DM-15598 early next week.
+DM-14566,FULL,DM-15598,DM-15608,FF,1.47,True,True,SF,This should be resolved when DM-15598 is deployed.
+DM-8366,E3-mention,DM-9816,DM-9857,SS,1.3199999999999998,True,False,,Provide a second set of eyes in evaluation of Plotly.js and support DM-9816.
+DM-8366,FULL-mention,DM-9816,DM-9857,SS,1.3199999999999998,True,False,,Provide a second set of eyes in evaluation of Plotly.js and support DM-9816.
+DM-8366,E3,DM-9816,DM-9857,SS,1.3199999999999998,True,False,,Provide a second set of eyes in evaluation of Plotly.js and support DM-9816.
+DM-8366,FULL,DM-9816,DM-9857,SS,1.3199999999999998,True,False,,Provide a second set of eyes in evaluation of Plotly.js and support DM-9816.
+DM-21251,E3-mention,DM-21380,DM-22495,FS,1.49,True,False,,"DM-21380 added model photometry metrics to verify_metrics, which are used in validate_drp."
+DM-21251,E3-mention,DM-21887,DM-21967,FF,1.2,True,False,,"DM-21887 determined that it would be possible but not particularly easy to determine the PSF by fitting stars, so this ticket will implement fitting the TinyTim-based model PSF for the nearest source in the GalSim catalog as an interim solution."
+DM-21251,E3-mention,DM-21801,DM-21887,FF,1.0699999999999998,True,True,FS,DM-21801 and DM-21802 added Gaussian fit and HST-COSMOS imaging options to MultiProFitTask.
+DM-21251,FULL-mention,DM-21380,DM-22495,FS,1.49,True,False,,"DM-21380 added model photometry metrics to verify_metrics, which are used in validate_drp."
+DM-21251,FULL-mention,DM-21887,DM-21967,FF,1.2,True,False,,"DM-21887 determined that it would be possible but not particularly easy to determine the PSF by fitting stars, so this ticket will implement fitting the TinyTim-based model PSF for the nearest source in the GalSim catalog as an interim solution."
+DM-21251,FULL-mention,DM-21801,DM-21887,FF,1.0699999999999998,True,True,FS,DM-21801 and DM-21802 added Gaussian fit and HST-COSMOS imaging options to MultiProFitTask.
+DM-21251,E3,DM-21380,DM-22495,FS,1.49,True,False,,"DM-21380 added model photometry metrics to verify_metrics, which are used in validate_drp."
+DM-21251,E3,DM-21887,DM-21967,FF,1.2,True,False,,"DM-21887 determined that it would be possible but not particularly easy to determine the PSF by fitting stars, so this ticket will implement fitting the TinyTim-based model PSF for the nearest source in the GalSim catalog as an interim solution."
+DM-21251,E3,DM-21801,DM-21887,FF,1.0699999999999998,True,True,FS,DM-21801 and DM-21802 added Gaussian fit and HST-COSMOS imaging options to MultiProFitTask.
+DM-21251,FULL,DM-21380,DM-22495,FS,1.49,True,False,,"DM-21380 added model photometry metrics to verify_metrics, which are used in validate_drp."
+DM-21251,FULL,DM-21887,DM-21967,FF,1.2,True,False,,"DM-21887 determined that it would be possible but not particularly easy to determine the PSF by fitting stars, so this ticket will implement fitting the TinyTim-based model PSF for the nearest source in the GalSim catalog as an interim solution."
+DM-21251,FULL,DM-21801,DM-21887,FF,1.0699999999999998,True,True,FS,DM-21801 and DM-21802 added Gaussian fit and HST-COSMOS imaging options to MultiProFitTask.
+DM-16576,B1,DM-16554,DM-17228,FF,1.5,False,False,,
+DM-16576,E3-mention,DM-19877,DM-19873,FF,1.24,True,True,FS,This PR requires that DM-19877 is merged first.
+DM-16576,E3-mention,DM-16554,DM-17228,FF,1.49,True,False,,Once DM-16554 is merged there will be two metadata translators in obs_lsst.
+DM-16576,E3-mention,DM-17025,DM-18181,FS,1.45,True,False,,DM-17025 added the ability to validate a DatasetRef against a selected file template.
+DM-16576,E3-mention,DM-9873,DM-18864,FF,1.23,True,True,SF,The changes are at https://github.com/lsst/afw/pull/446/files and depend on DM-9873 changes to daf_base.
+DM-16576,FULL-mention,DM-16554,DM-17228,FF,2.49,False,False,,Once DM-16554 is merged there will be two metadata translators in obs_lsst.
+DM-16576,FULL-mention,DM-19877,DM-19873,FF,1.24,True,True,FS,This PR requires that DM-19877 is merged first.
+DM-16576,FULL-mention,DM-17025,DM-18181,FS,1.45,True,False,,DM-17025 added the ability to validate a DatasetRef against a selected file template.
+DM-16576,FULL-mention,DM-9873,DM-18864,FF,1.23,True,True,SF,The changes are at https://github.com/lsst/afw/pull/446/files and depend on DM-9873 changes to daf_base.
+DM-16576,E3,DM-19877,DM-19873,FF,1.24,True,True,FS,This PR requires that DM-19877 is merged first.
+DM-16576,E3,DM-16554,DM-17228,FF,1.49,True,False,,Once DM-16554 is merged there will be two metadata translators in obs_lsst.
+DM-16576,E3,DM-17025,DM-18181,FS,1.45,True,False,,DM-17025 added the ability to validate a DatasetRef against a selected file template.
+DM-16576,E3,DM-9873,DM-18864,FF,1.23,True,True,SF,The changes are at https://github.com/lsst/afw/pull/446/files and depend on DM-9873 changes to daf_base.
+DM-16576,FULL,DM-16554,DM-17228,FF,2.49,False,False,,Once DM-16554 is merged there will be two metadata translators in obs_lsst.
+DM-16576,FULL,DM-19877,DM-19873,FF,1.24,True,True,FS,This PR requires that DM-19877 is merged first.
+DM-16576,FULL,DM-17025,DM-18181,FS,1.45,True,False,,DM-17025 added the ability to validate a DatasetRef against a selected file template.
+DM-16576,FULL,DM-9873,DM-18864,FF,1.23,True,True,SF,The changes are at https://github.com/lsst/afw/pull/446/files and depend on DM-9873 changes to daf_base.
+DM-22403,B1,DM-23322,DM-20580,FS,1.5,False,False,,
+DM-22403,E3-mention,DM-23604,DM-23881,FS,1.23,True,True,SF,"This is continuation of tests from DM-23604, for the next round of tests I want to try an approach outlined in that ticket:   * use finer partitioning, MQ3C level=10 could be optimal   * do not filter on pixelId in queries, all filtering is done on client side    This should reduce number of queries that we send to Cassandra and hopefully solve scaling issues that we saw."
+DM-22403,FULL-mention,DM-23322,DM-20580,FS,1.5,False,False,,
+DM-22403,FULL-mention,DM-23604,DM-23881,FS,1.23,True,True,SF,"This is continuation of tests from DM-23604, for the next round of tests I want to try an approach outlined in that ticket:   * use finer partitioning, MQ3C level=10 could be optimal   * do not filter on pixelId in queries, all filtering is done on client side    This should reduce number of queries that we send to Cassandra and hopefully solve scaling issues that we saw."
+DM-22403,E3,DM-23604,DM-23881,FS,1.23,True,True,SF,"This is continuation of tests from DM-23604, for the next round of tests I want to try an approach outlined in that ticket:   * use finer partitioning, MQ3C level=10 could be optimal   * do not filter on pixelId in queries, all filtering is done on client side    This should reduce number of queries that we send to Cassandra and hopefully solve scaling issues that we saw."
+DM-22403,FULL,DM-23322,DM-20580,FS,1.5,False,False,,
+DM-22403,FULL,DM-23604,DM-23881,FS,1.23,True,True,SF,"This is continuation of tests from DM-23604, for the next round of tests I want to try an approach outlined in that ticket:   * use finer partitioning, MQ3C level=10 could be optimal   * do not filter on pixelId in queries, all filtering is done on client side    This should reduce number of queries that we send to Cassandra and hopefully solve scaling issues that we saw."
+DM-13784,E3-mention,DM-12436,DM-14131,FS,1.3900000000000001,True,False,,This is almost certainly fallout from the merger of DM-12436 yesterday to remove py2 support that included fixing up message formatting.
+DM-13784,E3-mention,DM-12436,DM-4537,FF,1.44,True,False,,This was implemented/merged under DM-12436.
+DM-13784,E3-mention,DM-12436,DM-4534,FF,1.42,True,False,,This was implemented/merged as part of DM-12436.
+DM-13784,E3-mention,DM-14097,DM-14138,FS,1.38,True,False,,"The {{github_tag_versions}} script, used to apply git tags from eups tags + versiondb manifests, had its error reporting overhauled in DM-14097."
+DM-13784,FULL-mention,DM-12436,DM-14131,FS,1.3900000000000001,True,False,,This is almost certainly fallout from the merger of DM-12436 yesterday to remove py2 support that included fixing up message formatting.
+DM-13784,FULL-mention,DM-12436,DM-4537,FF,1.44,True,False,,This was implemented/merged under DM-12436.
+DM-13784,FULL-mention,DM-12436,DM-4534,FF,1.42,True,False,,This was implemented/merged as part of DM-12436.
+DM-13784,FULL-mention,DM-14097,DM-14138,FS,1.38,True,False,,"The {{github_tag_versions}} script, used to apply git tags from eups tags + versiondb manifests, had its error reporting overhauled in DM-14097."
+DM-13784,E3,DM-12436,DM-14131,FS,1.3900000000000001,True,False,,This is almost certainly fallout from the merger of DM-12436 yesterday to remove py2 support that included fixing up message formatting.
+DM-13784,E3,DM-12436,DM-4537,FF,1.44,True,False,,This was implemented/merged under DM-12436.
+DM-13784,E3,DM-12436,DM-4534,FF,1.42,True,False,,This was implemented/merged as part of DM-12436.
+DM-13784,E3,DM-14097,DM-14138,FS,1.38,True,False,,"The {{github_tag_versions}} script, used to apply git tags from eups tags + versiondb manifests, had its error reporting overhauled in DM-14097."
+DM-13784,FULL,DM-12436,DM-14131,FS,1.3900000000000001,True,False,,This is almost certainly fallout from the merger of DM-12436 yesterday to remove py2 support that included fixing up message formatting.
+DM-13784,FULL,DM-12436,DM-4537,FF,1.44,True,False,,This was implemented/merged under DM-12436.
+DM-13784,FULL,DM-12436,DM-4534,FF,1.42,True,False,,This was implemented/merged as part of DM-12436.
+DM-13784,FULL,DM-14097,DM-14138,FS,1.38,True,False,,"The {{github_tag_versions}} script, used to apply git tags from eups tags + versiondb manifests, had its error reporting overhauled in DM-14097."
+DM-4401,B1,DM-4808,DM-4806,FF,1.25,False,False,,
+DM-4401,E3-mention,DM-3447,DM-2421,FF,1.22,True,False,,So I propose to update {{pymod.py}} once  DM-3447 is merged.
+DM-4401,E3-mention,DM-4756,DM-5272,FS,1.23,True,True,SF,The thread-local logging changes from DM-4756 break the {{log}} package on OS X:
+DM-4401,FULL-mention,DM-4808,DM-4806,FF,1.25,False,False,,
+DM-4401,FULL-mention,DM-3447,DM-2421,FF,1.22,True,False,,So I propose to update {{pymod.py}} once  DM-3447 is merged.
+DM-4401,FULL-mention,DM-4756,DM-5272,FS,1.23,True,True,SF,The thread-local logging changes from DM-4756 break the {{log}} package on OS X:
+DM-4401,E3,DM-3447,DM-2421,FF,1.22,True,False,,So I propose to update {{pymod.py}} once  DM-3447 is merged.
+DM-4401,E3,DM-4756,DM-5272,FS,1.23,True,True,SF,The thread-local logging changes from DM-4756 break the {{log}} package on OS X:
+DM-4401,FULL,DM-4808,DM-4806,FF,1.25,False,False,,
+DM-4401,FULL,DM-3447,DM-2421,FF,1.22,True,False,,So I propose to update {{pymod.py}} once  DM-3447 is merged.
+DM-4401,FULL,DM-4756,DM-5272,FS,1.23,True,True,SF,The thread-local logging changes from DM-4756 break the {{log}} package on OS X:
+DM-10635,E3-mention,DM-10639,DM-11253,FS,1.48,True,False,,Includes converting existing content found in DM-10639.
+DM-10635,E3-mention,DM-10637,DM-11034,SS,1.4300000000000002,True,False,,This is an addition to the original Getting Started tutorial series from DM-10637.
+DM-10635,FULL-mention,DM-10639,DM-11253,FS,1.48,True,False,,Includes converting existing content found in DM-10639.
+DM-10635,FULL-mention,DM-10637,DM-11034,SS,1.4300000000000002,True,False,,This is an addition to the original Getting Started tutorial series from DM-10637.
+DM-10635,E3,DM-10639,DM-11253,FS,1.48,True,False,,Includes converting existing content found in DM-10639.
+DM-10635,E3,DM-10637,DM-11034,SS,1.4300000000000002,True,False,,This is an addition to the original Getting Started tutorial series from DM-10637.
+DM-10635,E3,DM-11253,DM-11513,FF,1.28,True,False,,The next step is to document these content patterns and the Git repository layout more precisely so that the {{pipe_base}} documentation effort can be replicated by anyone in any other package.
+DM-10635,FULL,DM-10639,DM-11253,FS,1.48,True,False,,Includes converting existing content found in DM-10639.
+DM-10635,FULL,DM-10637,DM-11034,SS,1.4300000000000002,True,False,,This is an addition to the original Getting Started tutorial series from DM-10637.
+DM-10635,FULL,DM-11253,DM-11513,FF,1.28,True,False,,The next step is to document these content patterns and the Git repository layout more precisely so that the {{pipe_base}} documentation effort can be replicated by anyone in any other package.
+DM-8290,E3-mention,DM-10005,DM-11432,FS,1.48,True,False,,Follow up to DM-10005 (Prototype).
+DM-8290,E3-mention,DM-11445,DM-12445,FF,1.4300000000000002,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report  [ ] DM-12184 - Coaddition Tasks cannot assume that N masks can fit in memory  [ ] DM-12445 -  Set appropriate default configs for CompareWarp Coadds  [ ] DM-12517 - Use SourceDetectionTask  [x]  DM-12491 Reduce compareWarp I/O  [x] DM-12101 Add debugging plots to ComareWarpAssembleTask  [x] DM-12514 - Improve filtering of artifacts in CompareWarpAssemble
+DM-8290,E3-mention,DM-10005,DM-11445,FS,1.33,True,False,,"See DM-11432 for stack integration    And DM-11445 for testing:  1) How does it handle 3 input images? What behavior do we want on regions where there are 2 input images? What about the boundaries between regions with 2 and 3 input images.  2) Visually, what does it do with the scattered Y-band background?  3) Subtraction imperfections as a function of source magnitude.   4) Process cosmos field to look for rare stuff."
+DM-8290,E3-mention,DM-11445,DM-12592,FS,1.4100000000000001,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report
+DM-8290,E3-mention,DM-12445,DM-12697,FS,1.44,True,False,,There turned out to be two separate problems (both introduced by DM-12445):    1)  Holes in the template become holes in the resulting coadd.
+DM-8290,E3-mention,DM-12697,DM-13410,FS,1.23,True,False,,"* the assembleStaticSky.badMaskPlanes=[NO_DATA], was from ensuring the SOMETHING was in the WIDE template coadd (fixing DM-12697), I'll run a test with + BAD, SAT to be sure."
+DM-8290,FULL-mention,DM-10005,DM-11432,FS,1.48,True,False,,Follow up to DM-10005 (Prototype).
+DM-8290,FULL-mention,DM-11445,DM-12445,FF,1.4300000000000002,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report  [ ] DM-12184 - Coaddition Tasks cannot assume that N masks can fit in memory  [ ] DM-12445 -  Set appropriate default configs for CompareWarp Coadds  [ ] DM-12517 - Use SourceDetectionTask  [x]  DM-12491 Reduce compareWarp I/O  [x] DM-12101 Add debugging plots to ComareWarpAssembleTask  [x] DM-12514 - Improve filtering of artifacts in CompareWarpAssemble
+DM-8290,FULL-mention,DM-10005,DM-11445,FS,1.33,True,False,,"See DM-11432 for stack integration    And DM-11445 for testing:  1) How does it handle 3 input images? What behavior do we want on regions where there are 2 input images? What about the boundaries between regions with 2 and 3 input images.  2) Visually, what does it do with the scattered Y-band background?  3) Subtraction imperfections as a function of source magnitude.   4) Process cosmos field to look for rare stuff."
+DM-8290,FULL-mention,DM-11445,DM-12592,FS,1.4100000000000001,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report
+DM-8290,FULL-mention,DM-12445,DM-12697,FS,1.44,True,False,,There turned out to be two separate problems (both introduced by DM-12445):    1)  Holes in the template become holes in the resulting coadd.
+DM-8290,FULL-mention,DM-12697,DM-13410,FS,1.23,True,False,,"* the assembleStaticSky.badMaskPlanes=[NO_DATA], was from ensuring the SOMETHING was in the WIDE template coadd (fixing DM-12697), I'll run a test with + BAD, SAT to be sure."
+DM-8290,E3,DM-10005,DM-11432,FS,1.48,True,False,,Follow up to DM-10005 (Prototype).
+DM-8290,E3,DM-11445,DM-12445,FF,1.4300000000000002,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report  [ ] DM-12184 - Coaddition Tasks cannot assume that N masks can fit in memory  [ ] DM-12445 -  Set appropriate default configs for CompareWarp Coadds  [ ] DM-12517 - Use SourceDetectionTask  [x]  DM-12491 Reduce compareWarp I/O  [x] DM-12101 Add debugging plots to ComareWarpAssembleTask  [x] DM-12514 - Improve filtering of artifacts in CompareWarpAssemble
+DM-8290,E3,DM-10005,DM-11445,FS,1.33,True,False,,"See DM-11432 for stack integration    And DM-11445 for testing:  1) How does it handle 3 input images? What behavior do we want on regions where there are 2 input images? What about the boundaries between regions with 2 and 3 input images.  2) Visually, what does it do with the scattered Y-band background?  3) Subtraction imperfections as a function of source magnitude.   4) Process cosmos field to look for rare stuff."
+DM-8290,E3,DM-11445,DM-12592,FS,1.4100000000000001,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report
+DM-8290,E3,DM-12445,DM-12697,FS,1.44,True,False,,There turned out to be two separate problems (both introduced by DM-12445):    1)  Holes in the template become holes in the resulting coadd.
+DM-8290,E3,DM-12697,DM-13410,FS,1.23,True,False,,"* the assembleStaticSky.badMaskPlanes=[NO_DATA], was from ensuring the SOMETHING was in the WIDE template coadd (fixing DM-12697), I'll run a test with + BAD, SAT to be sure."
+DM-8290,FULL,DM-10005,DM-11432,FS,1.48,True,False,,Follow up to DM-10005 (Prototype).
+DM-8290,FULL,DM-11445,DM-12445,FF,1.4300000000000002,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report  [ ] DM-12184 - Coaddition Tasks cannot assume that N masks can fit in memory  [ ] DM-12445 -  Set appropriate default configs for CompareWarp Coadds  [ ] DM-12517 - Use SourceDetectionTask  [x]  DM-12491 Reduce compareWarp I/O  [x] DM-12101 Add debugging plots to ComareWarpAssembleTask  [x] DM-12514 - Improve filtering of artifacts in CompareWarpAssemble
+DM-8290,FULL,DM-10005,DM-11445,FS,1.33,True,False,,"See DM-11432 for stack integration    And DM-11445 for testing:  1) How does it handle 3 input images? What behavior do we want on regions where there are 2 input images? What about the boundaries between regions with 2 and 3 input images.  2) Visually, what does it do with the scattered Y-band background?  3) Subtraction imperfections as a function of source magnitude.   4) Process cosmos field to look for rare stuff."
+DM-8290,FULL,DM-11445,DM-12592,FS,1.4100000000000001,True,False,,Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report
+DM-8290,FULL,DM-12445,DM-12697,FS,1.44,True,False,,There turned out to be two separate problems (both introduced by DM-12445):    1)  Holes in the template become holes in the resulting coadd.
+DM-8290,FULL,DM-12697,DM-13410,FS,1.23,True,False,,"* the assembleStaticSky.badMaskPlanes=[NO_DATA], was from ensuring the SOMETHING was in the WIDE template coadd (fixing DM-12697), I'll run a test with + BAD, SAT to be sure."
+DM-26787,B1,DM-12413,DM-12414,FF,1.5,False,False,,
+DM-26787,B1,DM-11330,DM-12413,FF,1.25,False,False,,
+DM-26787,B1,DM-15153,DM-11330,FF,1.25,False,False,,
+DM-26787,B1,DM-20430,DM-11330,FF,1.25,False,False,,
+DM-26787,B1,DM-20127,DM-11330,FF,1.25,False,False,,
+DM-26787,B1,DM-26714,DM-26603,FF,1.5,False,False,,
+DM-26787,B1,DM-26647,DM-26656,FF,1.5,False,False,,
+DM-26787,B1,DM-26603,DM-26875,FF,1.5,False,False,,
+DM-26787,B1,DM-27208,DM-27229,FF,1.5,False,False,,
+DM-26787,E3-mention,DM-11330,DM-12414,FF,1.21,True,False,,"DM-11330 will run the deblender on several patches of HSC data, with an analysis of the results."
+DM-26787,E3-mention,DM-26603,DM-27081,FS,1.46,True,False,,DM-26603 broke the daily build.
+DM-26787,E3-mention,DM-26603,DM-26762,FF,1.47,True,False,,This was fixed as part of DM-26603
+DM-26787,E3-mention,DM-26647,DM-26656,FF,1.33,True,False,,The reason for the higher number of failed blends in tract 9813 was identified to be due to patches on the edges of the tract with incomplete coverage in all bands (where the coadds existed but did not have data in all bands).
+DM-26787,E3-mention,DM-26603,DM-26875,FF,1.45,True,False,,This ticket is just created to test that DM-26603 correctly fixes the problem.
+DM-26787,E3-mention,DM-27072,DM-27229,FF,1.48,True,True,SF,This ticket is a follow-up to DM-27072 to compare meas_deblender and meas_extensions_scarlet once the columns have been made uniform by DM-27208.
+DM-26787,E3-mention,DM-27208,DM-27072,FF,1.46,True,False,,So I'm creating a new ticket to redo this analysis once DM-27208 is completed.
+DM-26787,E3-mention,DM-27214,DM-27208,FF,1.21,True,False,,"The branch will also implement DM-27214, since that ticket is related to this one and should be included in making the catalogs consistent."
+DM-26787,E3-mention,DM-27081,DM-27082,FF,1.38,True,True,SF,"DM-27081 provided a temporary fix for a bug introduced by the new version of scarlet, since `eups distrib install` installs the code from a location without git information, and without first executing `setup.py`, where one of the two must be true for a successful install of the scarlet version."
+DM-26787,FULL-mention,DM-12413,DM-12414,FF,1.5,False,False,,
+DM-26787,FULL-mention,DM-11330,DM-12413,FF,1.25,False,False,,
+DM-26787,FULL-mention,DM-15153,DM-11330,FF,1.25,False,False,,
+DM-26787,FULL-mention,DM-20430,DM-11330,FF,1.25,False,False,,
+DM-26787,FULL-mention,DM-20127,DM-11330,FF,1.25,False,False,,
+DM-26787,FULL-mention,DM-26714,DM-26603,FF,1.5,False,False,,
+DM-26787,FULL-mention,DM-26647,DM-26656,FF,2.33,False,False,,The reason for the higher number of failed blends in tract 9813 was identified to be due to patches on the edges of the tract with incomplete coverage in all bands (where the coadds existed but did not have data in all bands).
+DM-26787,FULL-mention,DM-26603,DM-26875,FF,2.45,False,False,,This ticket is just created to test that DM-26603 correctly fixes the problem.
+DM-26787,FULL-mention,DM-26603,DM-27081,FS,1.46,True,False,,DM-26603 broke the daily build.
+DM-26787,FULL-mention,DM-26603,DM-26762,FF,1.47,True,False,,This was fixed as part of DM-26603
+DM-26787,FULL-mention,DM-27072,DM-27229,FF,1.48,True,True,SF,This ticket is a follow-up to DM-27072 to compare meas_deblender and meas_extensions_scarlet once the columns have been made uniform by DM-27208.
+DM-26787,FULL-mention,DM-27208,DM-27072,FF,1.46,True,False,,So I'm creating a new ticket to redo this analysis once DM-27208 is completed.
+DM-26787,FULL-mention,DM-27214,DM-27208,FF,1.21,True,False,,"The branch will also implement DM-27214, since that ticket is related to this one and should be included in making the catalogs consistent."
+DM-26787,FULL-mention,DM-27081,DM-27082,FF,1.38,True,True,SF,"DM-27081 provided a temporary fix for a bug introduced by the new version of scarlet, since `eups distrib install` installs the code from a location without git information, and without first executing `setup.py`, where one of the two must be true for a successful install of the scarlet version."
+DM-26787,E3,DM-11330,DM-12414,FF,1.21,True,False,,"DM-11330 will run the deblender on several patches of HSC data, with an analysis of the results."
+DM-26787,E3,DM-26603,DM-27081,FS,1.46,True,False,,DM-26603 broke the daily build.
+DM-26787,E3,DM-26603,DM-26762,FF,1.47,True,False,,This was fixed as part of DM-26603
+DM-26787,E3,DM-26647,DM-26656,FF,1.33,True,False,,The reason for the higher number of failed blends in tract 9813 was identified to be due to patches on the edges of the tract with incomplete coverage in all bands (where the coadds existed but did not have data in all bands).
+DM-26787,E3,DM-26603,DM-26875,FF,1.45,True,False,,This ticket is just created to test that DM-26603 correctly fixes the problem.
+DM-26787,E3,DM-27072,DM-27229,FF,1.48,True,True,SF,This ticket is a follow-up to DM-27072 to compare meas_deblender and meas_extensions_scarlet once the columns have been made uniform by DM-27208.
+DM-26787,E3,DM-27208,DM-27072,FF,1.46,True,False,,So I'm creating a new ticket to redo this analysis once DM-27208 is completed.
+DM-26787,E3,DM-27214,DM-27208,FF,1.21,True,False,,"The branch will also implement DM-27214, since that ticket is related to this one and should be included in making the catalogs consistent."
+DM-26787,E3,DM-27081,DM-27082,FF,1.38,True,True,SF,"DM-27081 provided a temporary fix for a bug introduced by the new version of scarlet, since `eups distrib install` installs the code from a location without git information, and without first executing `setup.py`, where one of the two must be true for a successful install of the scarlet version."
+DM-26787,E3,DM-26656,DM-27072,FF,1.48,True,True,SF,"Now that the RC2 data has been successfully run in scarlet, we need to run pipe analysis to compare the scarlet results with the results from meas_deblender."
+DM-26787,FULL,DM-12413,DM-12414,FF,1.5,False,False,,
+DM-26787,FULL,DM-11330,DM-12413,FF,1.25,False,False,,
+DM-26787,FULL,DM-15153,DM-11330,FF,1.25,False,False,,
+DM-26787,FULL,DM-20430,DM-11330,FF,1.25,False,False,,
+DM-26787,FULL,DM-20127,DM-11330,FF,1.25,False,False,,
+DM-26787,FULL,DM-26714,DM-26603,FF,1.5,False,False,,
+DM-26787,FULL,DM-26647,DM-26656,FF,2.33,False,False,,The reason for the higher number of failed blends in tract 9813 was identified to be due to patches on the edges of the tract with incomplete coverage in all bands (where the coadds existed but did not have data in all bands).
+DM-26787,FULL,DM-26603,DM-26875,FF,2.45,False,False,,This ticket is just created to test that DM-26603 correctly fixes the problem.
+DM-26787,FULL,DM-26603,DM-27081,FS,1.46,True,False,,DM-26603 broke the daily build.
+DM-26787,FULL,DM-26603,DM-26762,FF,1.47,True,False,,This was fixed as part of DM-26603
+DM-26787,FULL,DM-27072,DM-27229,FF,1.48,True,True,SF,This ticket is a follow-up to DM-27072 to compare meas_deblender and meas_extensions_scarlet once the columns have been made uniform by DM-27208.
+DM-26787,FULL,DM-27208,DM-27072,FF,1.46,True,False,,So I'm creating a new ticket to redo this analysis once DM-27208 is completed.
+DM-26787,FULL,DM-27214,DM-27208,FF,1.21,True,False,,"The branch will also implement DM-27214, since that ticket is related to this one and should be included in making the catalogs consistent."
+DM-26787,FULL,DM-27081,DM-27082,FF,1.38,True,True,SF,"DM-27081 provided a temporary fix for a bug introduced by the new version of scarlet, since `eups distrib install` installs the code from a location without git information, and without first executing `setup.py`, where one of the two must be true for a successful install of the scarlet version."
+DM-26787,FULL,DM-26656,DM-27072,FF,1.48,True,True,SF,"Now that the RC2 data has been successfully run in scarlet, we need to run pipe analysis to compare the scarlet results with the results from meas_deblender."

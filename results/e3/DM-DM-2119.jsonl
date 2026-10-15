@@ -1,0 +1,23 @@
+{"i": "DM-4183", "j": "DM-4402", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4184", "j": "DM-4402", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4183", "j": "DM-4229", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4184", "j": "DM-4229", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.71, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4185", "j": "DM-4402", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4225", "j": "DM-4229", "relation": "FS", "predecessor": "i", "quote": "Evaluate results of production-scale performance tests, both single and multiple host.", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4185", "j": "DM-4229", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4226", "j": "DM-4402", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4225", "j": "DM-4402", "relation": "FS", "predecessor": "j", "quote": "Add dependence on developing tests with lightweight databases for secondary index.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4226", "j": "DM-4228", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4226", "j": "DM-4229", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4227", "j": "DM-4402", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4228", "j": "DM-4229", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4227", "j": "DM-4229", "relation": "FS", "predecessor": "i", "quote": "With the performance measurements for bulk updating complete, and showing no significant overhead compared to initially loading the database from files, I believe that we should move forward with translating the MySQL-based test code into the QServ software suite.", "confidence": 0.92, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4183", "j": "DM-4227", "relation": "SF", "predecessor": "j", "quote": "I will revisit this during the next sprint's test of bulk-updating, but my expectation is that Memcached is not a viable option for the scale of the secondary index.", "confidence": 0.82, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4228", "j": "DM-4402", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4229", "j": "DM-4402", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4227", "j": "DM-4228", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4183", "j": "DM-4225", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.9, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4184", "j": "DM-4226", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.56, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4185", "j": "DM-4225", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4184", "j": "DM-4225", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4183", "j": "DM-4226", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.64, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

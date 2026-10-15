@@ -1,0 +1,22 @@
+[
+ {
+  "predecessor": "DM-9942",
+  "successor": "DM-9943",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-9942",
+  "successor": "DM-9944",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-9942",
+  "successor": "DM-9945",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-9942",
+  "successor": "DM-10275",
+  "type": "FS"
+ }
+]

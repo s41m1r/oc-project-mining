@@ -1,0 +1,16 @@
+{"i": "DM-17655", "j": "DM-18004", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17655", "j": "DM-22135", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17655", "j": "DM-21803", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17655", "j": "DM-17812", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17655", "j": "DM-19628", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17655", "j": "DM-21477", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17655", "j": "DM-19632", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17655", "j": "DM-21524", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17812", "j": "DM-19628", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-19628", "j": "DM-21477", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-18004", "j": "DM-21803", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17812", "j": "DM-19632", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-18004", "j": "DM-21524", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-19632", "j": "DM-21524", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-21524", "j": "DM-21803", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-21524", "j": "DM-22135", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

@@ -1,0 +1,14 @@
+{"i": "DM-16665", "j": "DM-16809", "relation": "FS", "predecessor": "j", "quote": "See DM-16809 (the blocking ticket) for more details.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16668", "j": "DM-16707", "relation": "FS", "predecessor": "j", "quote": "[2018-12-20] \"Follow-up items are in DM-16668 (Implement the UI for TAP service) \"", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15492", "j": "DM-16707", "relation": "FS", "predecessor": "j", "quote": "This has been accomplished by DM-16707, DM-17212.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15492", "j": "DM-17212", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16707", "j": "DM-17211", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17211", "j": "DM-17212", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16666", "j": "DM-16707", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16668", "j": "DM-18123", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16668", "j": "DM-18122", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16668", "j": "DM-17217", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16668", "j": "DM-18121", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16666", "j": "DM-16668", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17211", "j": "DM-17213", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17211", "j": "DM-17214", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

@@ -1,0 +1,45 @@
+{"i": "DM-10156", "j": "DM-16926", "relation": "FS", "predecessor": "j", "quote": "The adopted RFC should trigger DM-10156.", "confidence": 0.99, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-16925", "relation": "FS", "predecessor": "j", "quote": "I can just rebase DM-10156 on top of this and then you can use just that ticket to do your backwards compatibility testing.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-17029", "relation": "FF", "predecessor": "i", "quote": "I think I'm going to hold off on merging this until DM-10156 is ready to merge: I think those two should go in as part of the same weekly.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-10346", "relation": "FS", "predecessor": "i", "quote": "Was that moved to DM-10156, because it can't reasonably be done before actually removing Calib from Exposure?", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-18067", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-18544", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.54, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10346", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "I propose to drop this from the DM-10153 epic, and place it on the back-burner until a use case emerges.", "confidence": 0.78, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-15544", "relation": "FS", "predecessor": "i", "quote": "Done as part of DM-10156.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10346", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "If only we could do DM-10153 simultaneously (but I think that would be maddening).", "confidence": 0.82, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15544", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15544", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.76, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15849", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.62, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16208", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15849", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "I don't understand why we need a hash function for PhotoCalib, or even an equality operator.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16650", "j": "DM-16830", "relation": "FS", "predecessor": "j", "quote": "Might want to do this before DM-16650 gets merged.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16598", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16598", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "If only we could do DM-10153 simultaneously (but I think that would be maddening).", "confidence": 0.84, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16650", "j": "DM-16696", "relation": "FS", "predecessor": "i", "quote": "\"I'm going to do this as part of DM-16650, which is going on now.\"", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16696", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16208", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.42, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16650", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16650", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16925", "j": "DM-16926", "relation": "FS", "predecessor": "i", "quote": "Based on the API arrived at in DM-16925, file an RFC describing the plans for transitioning to PhotoCalib.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16696", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "I propose to drop this from the DM-10153 epic, and place it on the back-burner until a use case emerges.", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16830", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16830", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16925", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16925", "j": "DM-18544", "relation": "FS", "predecessor": "i", "quote": "Also add {{deprecated}} markings on all of the API added as part of DM-16925.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16925", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16926", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17029", "j": "DM-18067", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16926", "j": "DM-17029", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17029", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-18157", "j": "DM-18544", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-18067", "j": "DM-18157", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17029", "j": "DM-7619", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-17029", "j": "DM-18544", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-18157", "j": "DM-7619", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-16696", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-15849", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-16598", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-16830", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-16208", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10156", "j": "DM-16650", "relation": "FS", "predecessor": "i", "quote": "I think we will have to think more carefully about how Calib and PhotoCalib interact as part of this ticket (or do the Cailb->PhotoCalib replacement first): jointcal assumes it trivially turn a Calib into a PhotoCalib, because Maggies is somewhat \"generic\".", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

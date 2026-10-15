@@ -1,0 +1,158 @@
+{"i": "DM-10933", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10302", "j": "DM-15800", "relation": "FS", "predecessor": "i", "quote": "DM-10302 changed the names of `flux` columns to instFlux.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10302", "j": "DM-15244", "relation": "FS", "predecessor": "j", "quote": "we should do this immediately following on the changes in DM-15244.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10348", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10302", "j": "DM-15891", "relation": "FS", "predecessor": "i", "quote": "In updating the pipe_analysis scripts following the changes on DM-10302, I noticed that when reading an old (I think it would be version 2) catalog, some of the aliases aren't getting set properly.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10302", "j": "DM-15796", "relation": "FS", "predecessor": "i", "quote": "Now that the code has been updated from {{_flux}} to {{_instFlux}} in schemas, we should do a minimal pass over our documentation to bring it up to date.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10302", "j": "DM-15837", "relation": "NONE", "predecessor": "i", "quote": "It looks related to the changes of DM-10302?", "confidence": 0.79, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10302", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12006", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12675", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12610", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10933", "j": "DM-15244", "relation": "FS", "predecessor": "j", "quote": "now that [~<USER> finished DM-15244, I believe we should be good to finally merge this.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13222", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12558", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13232", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13297", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13222", "j": "DM-14770", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13836", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13701", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13851", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13555", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13565", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "Perhaps the epic needs updating.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13889", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14017", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14325", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14305", "j": "DM-14728", "relation": "FS", "predecessor": "j", "quote": "This is to help LSST upgrade Eigen, which will probably require eliminating our use of {{ndarray::EigenView}}.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14107", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14429", "j": "DM-14548", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14305", "j": "DM-15023", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14305", "j": "DM-14781", "relation": "FS", "predecessor": "j", "quote": "As part of DM-14305 upgrading Eigen to 3.3 we need to transition to a version new enough that pybind11 supports it.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14429", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14558", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14548", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14625", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14557", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14593", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14571", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14626", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14690", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14752", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14740", "relation": "FS", "predecessor": "i", "quote": "Use the {{ndarray::Array}} functions added in DM-14728 instead of {{ndarray::Array::asEigen}} to eliminate our use of {{ndarray::EigenView}} in our C++ code.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14742", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14814", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14770", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14828", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14847", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14725", "j": "DM-14728", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14849", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14848", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14842", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14834", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14781", "relation": "NONE", "predecessor": "i", "quote": "This intermediate step is required in order to release a version of ndarray that no longer uses EigenView for pybind11, and thus allows us to switch to the standard pybind11 wrappers.", "confidence": 0.74, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14932", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14919", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15005", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14986", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15023", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14864", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-14894", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15008", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15043", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15090", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15046", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15138", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15139", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15132", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15152", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15126", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15151", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15158", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15047", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15162", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15159", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15172", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15183", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15187", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15190", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15182", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15208", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15194", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15224", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15390", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15244", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15355", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15352", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15435", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15513", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15452", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15441", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15442", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15532", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15577", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15440", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15593", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15652", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15659", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15796", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15757", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15599", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15719", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15790", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15800", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15811", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15794", "relation": "NONE", "predecessor": "i", "quote": "The change in variable names from Sigma to Err where not caught in ap_association as it not currently part of lsst_distrib.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15816", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15814", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15837", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15855", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15857", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15889", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15858", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16129", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15974", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-15891", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16168", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16169", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16170", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16174", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16291", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16285", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16302", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16182", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16172", "relation": "NONE", "predecessor": "i", "quote": "This is to help LSST upgrade Eigen, which will probably require eliminating our use of {{ndarray::EigenView}}.", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16177", "relation": "NONE", "predecessor": "i", "quote": "Also make it possible (or automatic) to eliminate {{ndarray::Array::asEigen}} and {{ndarray::EigenView}} when building against a more modern version of Eigen.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16319", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16360", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16335", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16561", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-6161", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16546", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16443", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-16641", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.99, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-9790", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-9630", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-9937", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-9933", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14728", "j": "DM-9938", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14828", "j": "DM-15187", "relation": "FS", "predecessor": "i", "quote": "In DM-14828 I missed the fact that the pickle support ({{__getstate__}} and {{__setstate__}}) in sphgeom needed updating.", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14834", "j": "DM-14986", "relation": "FS", "predecessor": "i", "quote": "As of DM-14834 we handling Eigen differently in pybind11 wrappers: wrappers should now {{#include pybind11/eigen.h}}, which is the standard pybind11 way to do it.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14834", "j": "DM-14842", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15043", "j": "DM-9937", "relation": "FS", "predecessor": "j", "quote": "A last-minute change for DM-9937, combined with sloppy testing, caused non-compiling C++ to get committed to {{master}}.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15158", "j": "DM-15162", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15151", "j": "DM-15599", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15244", "j": "DM-15355", "relation": "FS", "predecessor": "i", "quote": "ci_hsc is failing with the following error, almost certainly due to DM-15244:", "confidence": 0.95, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15151", "j": "DM-15790", "relation": "FS", "predecessor": "i", "quote": "DM-15151 added compilation of pybind11 with hidden symbol visibility, but unfortunately only on macOS.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15796", "j": "DM-16182", "relation": "FS", "predecessor": "i", "quote": "The base_PsfFlux_flux -> base_PsfFlux_instFlux changes was already merged in DM-15796.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15857", "j": "DM-15891", "relation": "FS", "predecessor": "i", "quote": "[~<USER>: I'm marking this done, as the original bug you described should be fixed in DM-15857, which I just merged.", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15837", "j": "DM-16170", "relation": "FS", "predecessor": "i", "quote": "This ticket (DM-16170) reverts the DM-15837 workaround.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15891", "j": "DM-16170", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16169", "j": "DM-16182", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16129", "j": "DM-16177", "relation": "FS", "predecessor": "i", "quote": "This appears to be missing with the new shared stack from DM-16129", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16172", "j": "DM-16174", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15857", "j": "DM-16170", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16129", "j": "DM-16174", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16129", "j": "DM-16172", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15244", "j": "DM-15794", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-16129", "j": "DM-16335", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10302", "j": "DM-16182", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

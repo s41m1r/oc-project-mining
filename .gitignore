@@ -1,0 +1,9 @@
+# datasets and derived databases (download and rebuild, see README)
+data/
+*.sqlite
+*.sqlite-journal
+# environment and caches
+.venv/
+__pycache__/
+.DS_Store
+*.pyc

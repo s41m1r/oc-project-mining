@@ -1,0 +1,37 @@
+[
+ {
+  "predecessor": "DM-1900",
+  "successor": "DM-2176",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-2176",
+  "successor": "DM-2385",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-2176",
+  "successor": "DM-1901",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-2176",
+  "successor": "DM-2593",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-2176",
+  "successor": "DM-2419",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-1900",
+  "successor": "DM-2420",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-1896",
+  "successor": "DM-2623",
+  "type": "FS"
+ }
+]

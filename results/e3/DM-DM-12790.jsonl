@@ -1,0 +1,5 @@
+{"i": "DM-14053", "j": "DM-14773", "relation": "FS", "predecessor": "i", "quote": "Currently {{module-toctree}} and {{package-toctree}} directives introduced in DM-14053 are not sorting their lists.", "confidence": 0.92, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14813", "j": "DM-14852", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15056", "j": "DM-15069", "relation": "NONE", "predecessor": "i", "quote": "\"Duplicate of DM-15056\"", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15016", "j": "DM-15075", "relation": "FS", "predecessor": "i", "quote": "DM-15016 introduced new Edition tracking modes in LTD Keeper than don't use the {{tracked_refs}}.", "confidence": 0.84, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14053", "j": "DM-15007", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

@@ -1,0 +1,12 @@
+{"i": "DM-12941", "j": "DM-14163", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11566", "j": "DM-13348", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.76, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12436", "j": "DM-14131", "relation": "FS", "predecessor": "i", "quote": "This is almost certainly fallout from the merger of DM-12436 yesterday to remove py2 support that included fixing up message formatting.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13086", "j": "DM-13745", "relation": "FS", "predecessor": "j", "quote": "The goal of ticket was done on DM-13745.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12436", "j": "DM-4537", "relation": "FS", "predecessor": "i", "quote": "This was implemented/merged under DM-12436.", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11586", "j": "DM-14163", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13652", "j": "DM-14163", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12436", "j": "DM-4534", "relation": "FF", "predecessor": "i", "quote": "This was implemented/merged as part of DM-12436.", "confidence": 0.92, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14138", "j": "DM-14399", "relation": "FS", "predecessor": "i", "quote": "This is clearly fallout from the cleanup work on DM-14138 that included conversion from {{github3.py}} -> {{pygithub}}.", "confidence": 0.83, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14097", "j": "DM-14138", "relation": "FS", "predecessor": "i", "quote": "The {{github_tag_versions}} script, used to apply git tags from eups tags + versiondb manifests, had its error reporting overhauled in DM-14097.", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14138", "j": "DM-14163", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14138", "j": "DM-14369", "relation": "FS", "predecessor": "i", "quote": "The nightly release failed due to fallout from DM-14138 merged yesterday.", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}

@@ -1,0 +1,15 @@
+{"i": "DM-13292", "j": "DM-13293", "relation": "FS", "predecessor": "i", "quote": "Cleanup and validation follow in DM-13293, DM-13294 and DM-13295.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13292", "j": "DM-13294", "relation": "FS", "predecessor": "i", "quote": "Cleanup and validation follow in DM-13293, DM-13294 and DM-13295.", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13292", "j": "DM-13295", "relation": "FS", "predecessor": "i", "quote": "Cleanup and validation follow in DM-13293, DM-13294 and DM-13295.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13293", "j": "DM-15756", "relation": "FS", "predecessor": "i", "quote": "I want to merge DM-13293 ASAP, and we can then discuss when this should be done once the big one is in.", "confidence": 0.86, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13291", "j": "DM-5082", "relation": "FS", "predecessor": "j", "quote": "Run code attached to DM-5082 as-is, reproduce results   * gather data on tiger   * run with correct version of stack   * check against Will's results", "confidence": 0.91, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14190", "j": "DM-15277", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15401", "j": "DM-15756", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13293", "j": "DM-15277", "relation": "FF", "predecessor": "i", "quote": "Being done as part of DM-13293", "confidence": 0.83, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13292", "j": "DM-5082", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14190", "j": "DM-15756", "relation": "FS", "predecessor": "j", "quote": "DM-15756 exists to fix this problem.", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13291", "j": "DM-13292", "relation": "SF", "predecessor": "j", "quote": "will be done as the first part of DM-13292", "confidence": 0.77, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13295", "j": "DM-5082", "relation": "FS", "predecessor": "j", "quote": "This ticket has been replaced by a string of 6 chained tickets, better detailing the work to be done.", "confidence": 0.83, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10896", "j": "DM-13293", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.9, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-15277", "j": "DM-15756", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13293", "j": "DM-13295", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.68, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

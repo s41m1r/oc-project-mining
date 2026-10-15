@@ -1,0 +1,82 @@
+[
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-18004",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-17812",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-21477",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-21524",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-21803",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-19628",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-19632",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17655",
+  "successor": "DM-22135",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-21477",
+  "successor": "DM-19628",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17812",
+  "successor": "DM-19628",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17812",
+  "successor": "DM-19632",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-21524",
+  "successor": "DM-21803",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-21524",
+  "successor": "DM-19632",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-21524",
+  "successor": "DM-22135",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-18004",
+  "successor": "DM-21524",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-18004",
+  "successor": "DM-21803",
+  "type": "FS"
+ }
+]

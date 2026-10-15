@@ -1,0 +1,3 @@
+{"i": "DM-2421", "j": "DM-3447", "relation": "FS", "predecessor": "j", "quote": "So I propose to update {{pymod.py}} once  DM-3447 is merged.", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4756", "j": "DM-5272", "relation": "FS", "predecessor": "i", "quote": "The thread-local logging changes from DM-4756 break the {{log}} package on OS X:", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-4806", "j": "DM-4808", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

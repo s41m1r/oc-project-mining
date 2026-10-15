@@ -1,0 +1,90 @@
+{"i": "DM-10005", "j": "DM-11432", "relation": "FS", "predecessor": "i", "quote": "Follow up to DM-10005 (Prototype).", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10005", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10005", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.73, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-12445", "relation": "FS", "predecessor": "i", "quote": "Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report  [ ] DM-12184 - Coaddition Tasks cannot assume that N masks can fit in memory  [ ] DM-12445 -  Set appropriate default configs for CompareWarp Coadds  [ ] DM-12517 - Use SourceDetectionTask  [x]  DM-12491 Reduce compareWarp I/O  [x] DM-12101 Add debugging plots to ComareWarpAssembleTask  [x] DM-12514 - Improve filtering of artifacts in CompareWarpAssemble", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-12101", "relation": "FS", "predecessor": "i", "quote": "Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report  [ ] DM-12184 - Coaddition Tasks cannot assume that N masks can fit in memory  [ ] DM-12445 -  Set appropriate default configs for CompareWarp Coadds  [ ] DM-12517 - Use SourceDetectionTask  [x]  DM-12491 Reduce compareWarp I/O  [x] DM-12101 Add debugging plots to ComareWarpAssembleTask  [x] DM-12514 - Improve filtering of artifacts in CompareWarpAssemble  ", "confidence": 0.93, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-12514", "relation": "FS", "predecessor": "i", "quote": "Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report  [ ] DM-12184 - Coaddition Tasks cannot assume that N masks can fit in memory  [ ] DM-12445 -  Set appropriate default configs for CompareWarp Coadds  [ ] DM-12517 - Use SourceDetectionTask  [x]  DM-12491 Reduce compareWarp I/O  [x] DM-12101 Add debugging plots to ComareWarpAssembleTask  [x] DM-12514 - Improve filtering of artifacts in CompareWarpAssemble  ", "confidence": 0.9, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10005", "j": "DM-11445", "relation": "FS", "predecessor": "i", "quote": "See DM-11432 for stack integration    And DM-11445 for testing:  1) How does it handle 3 input images? What behavior do we want on regions where there are 2 input images? What about the boundaries between regions with 2 and 3 input images.  2) Visually, what does it do with the scattered Y-band background?  3) Subtraction imperfections as a function of source magnitude.   4) Process cosmos field to look for rare stuff.", "confidence": 0.83, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-12517", "relation": "FS", "predecessor": "i", "quote": "Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12517 - Use SourceDetectionTask", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-12592", "relation": "FS", "predecessor": "i", "quote": "Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:  [ ] DM-12592 - Write up report", "confidence": 0.91, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-12491", "relation": "NONE", "predecessor": "i", "quote": "Testing revealed some problems with small Nepoch numbers and gave birth to the following tickets:", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12101", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12101", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12391", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12445", "j": "DM-12593", "relation": "FS", "predecessor": "i", "quote": "Plotting thumbnails for \"WarpCompare\" and \"SafeClip\" coadds in all 5 bands for objects that overlap tract 9813 or 8766 (WarpCompare version as of DM-12445).", "confidence": 0.85, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12445", "j": "DM-12697", "relation": "FS", "predecessor": "i", "quote": "There turned out to be two separate problems (both introduced by DM-12445):    1)  Holes in the template become holes in the resulting coadd.", "confidence": 0.94, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12391", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12445", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12445", "j": "DM-12723", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12445", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12514", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12491", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12491", "j": "DM-8953", "relation": "NONE", "predecessor": "j", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12514", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12592", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12517", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12593", "j": "DM-12697", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12592", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12517", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "Currently WarpCompareAssembleCoadd directly creates a detection mask on the warp-difference images from a Chi-Image.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12658", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12593", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12658", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12664", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12593", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12664", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12692", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12691", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.62, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12691", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12692", "j": "DM-12697", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.72, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12692", "j": "DM-13637", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.62, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12692", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12697", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12697", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.89, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12700", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12723", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12700", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12697", "j": "DM-13410", "relation": "FS", "predecessor": "i", "quote": "* the assembleStaticSky.badMaskPlanes=[NO_DATA], was from ensuring the SOMETHING was in the WIDE template coadd (fixing DM-12697), I'll run a test with + BAD, SAT to be sure.", "confidence": 0.73, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-12723", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13345", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13410", "j": "DM-13654", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13410", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.87, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13498", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13563", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13345", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13410", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "A set of PSF-matched temp exps and coadds are needed for DM-8290 (Warped Image Comparison) and DM-8140 to test a deblender that incorporates color information.", "confidence": 0.82, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13563", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13587", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13587", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13498", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.83, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13654", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13654", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13637", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14075", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-14075", "j": "DM-8953", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-13637", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "A set of PSF-matched temp exps and coadds are needed for DM-8290 (Warped Image Comparison) and DM-8140 to test a deblender that incorporates color information.", "confidence": 0.62, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-8953", "j": "DM-9035", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12517", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12101", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12514", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.78, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12658", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12664", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.91, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12391", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-11445", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12491", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12691", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12692", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12697", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.97, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-13345", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-13498", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-13410", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12723", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-12700", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.76, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-13654", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-14075", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-13637", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.98, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11432", "j": "DM-13563", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11445", "j": "DM-12593", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.74, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

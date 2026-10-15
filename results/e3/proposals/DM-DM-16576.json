@@ -1,0 +1,22 @@
+[
+ {
+  "predecessor": "DM-16554",
+  "successor": "DM-17228",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-17025",
+  "successor": "DM-18181",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-19188",
+  "successor": "DM-19682",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-19877",
+  "successor": "DM-19873",
+  "type": "FS"
+ }
+]

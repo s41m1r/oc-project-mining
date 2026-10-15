@@ -1,0 +1,77 @@
+[
+ {
+  "predecessor": "DM-12617",
+  "successor": "DM-12618",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12617",
+  "successor": "DM-12624",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12617",
+  "successor": "DM-12632",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12620",
+  "successor": "DM-12633",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12620",
+  "successor": "DM-12640",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12640",
+  "successor": "DM-12644",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12644",
+  "successor": "DM-12645",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12640",
+  "successor": "DM-12646",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12629",
+  "successor": "DM-14139",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12646",
+  "successor": "DM-14139",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12622",
+  "successor": "DM-14321",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12620",
+  "successor": "DM-14520",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12627",
+  "successor": "DM-14543",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-12647",
+  "successor": "DM-13869",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-14638",
+  "successor": "DM-14639",
+  "type": "FS"
+ }
+]

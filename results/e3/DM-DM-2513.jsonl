@@ -1,0 +1,5 @@
+{"i": "DM-2322", "j": "DM-3511", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.9, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3956", "j": "DM-3971", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2299", "j": "DM-3511", "relation": "NONE", "predecessor": "i", "quote": "I'm hoping we can close this issue along with DM-2299 and DM-2558 and DM-2322 tomorrow.", "confidence": 0.76, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2299", "j": "DM-2322", "relation": "FS", "predecessor": "i", "quote": "I am taking care of that in tickets/DM-2299", "confidence": 0.97, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3971", "j": "DM-5026", "relation": "NONE", "predecessor": "i", "quote": "Eups-packaged sqlalchemy lists {{mysqlclient}} as required dependency which is not really right.", "confidence": 0.71, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}

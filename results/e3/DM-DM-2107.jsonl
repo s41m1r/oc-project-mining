@@ -1,0 +1,8 @@
+{"i": "DM-10908", "j": "DM-9146", "relation": "FS", "predecessor": "i", "quote": "The foundational work for this ticket (imagerserv refactoring) has been completed in recently closed ticket DM-10908.", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-8286", "j": "DM-9929", "relation": "FF", "predecessor": "j", "quote": "Completed as integral part of DM-9929.", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-9146", "j": "DM-9929", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.77, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10450", "j": "DM-10807", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10807", "j": "DM-10909", "relation": "FS", "predecessor": "i", "quote": "FYI, this is implemented in DM-10807.", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10427", "j": "DM-10807", "relation": "FS", "predecessor": "j", "quote": "Done as part of DM-10807.", "confidence": 0.79, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-10427", "j": "DM-10909", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-11742", "j": "DM-9929", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.92, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

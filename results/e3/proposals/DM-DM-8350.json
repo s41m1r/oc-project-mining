@@ -1,0 +1,42 @@
+[
+ {
+  "predecessor": "DM-7802",
+  "successor": "DM-9348",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-9565",
+  "successor": "DM-9348",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-7802",
+  "successor": "DM-9691",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-8668",
+  "successor": "DM-8670",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-8670",
+  "successor": "DM-9382",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-8833",
+  "successor": "DM-9196",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-7802",
+  "successor": "DM-9371",
+  "type": "FS"
+ },
+ {
+  "predecessor": "DM-7802",
+  "successor": "DM-9964",
+  "type": "FS"
+ }
+]

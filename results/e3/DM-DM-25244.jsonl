@@ -1,0 +1,15 @@
+{"i": "DM-24414", "j": "DM-26131", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.79, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-26136", "j": "DM-26539", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-25354", "j": "DM-25411", "relation": "FS", "predecessor": "i", "quote": "My DM-25354 merge have broken unit test for Postgres (and I think for Oracle too):", "confidence": 0.96, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-24329", "j": "DM-24398", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-24803", "j": "DM-25355", "relation": "FS", "predecessor": "i", "quote": "AS discussed in DM-24803 we need a way to manage schema versions defined in daf_butler.", "confidence": 0.84, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-25028", "j": "DM-25151", "relation": "FS", "predecessor": "i", "quote": "this is implemented and currently being reviewed in DM-25028", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-26388", "j": "DM-26415", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-24414", "j": "DM-26684", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-24508", "j": "DM-25385", "relation": "FS", "predecessor": "j", "quote": "[~<USER> didn't you do this in DM-25385 ?", "confidence": 0.77, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-26685", "j": "DM-26690", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.84, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-26597", "j": "DM-26645", "relation": "FS", "predecessor": "i", "quote": "I've changed the log level, in DM-26597 (will check that one in today as soon as Jenkins passes).", "confidence": 0.91, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-25627", "j": "DM-26388", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-25627", "j": "DM-26645", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-25355", "j": "DM-25985", "relation": "FS", "predecessor": "i", "quote": "Next step in supporting schema migration for registry, need to determine and implement how we are going to define schema versions in the registry code and mechanism to store versions in the butler_attributes table.", "confidence": 0.78, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-25627", "j": "DM-26415", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.94, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

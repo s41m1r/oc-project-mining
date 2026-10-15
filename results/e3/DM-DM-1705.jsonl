@@ -1,0 +1,12 @@
+{"i": "DM-2703", "j": "DM-2716", "relation": "FS", "predecessor": "j", "quote": "this was done in DM-2716", "confidence": 0.98, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3432", "j": "DM-3474", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.88, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2653", "j": "DM-2698", "relation": "FS", "predecessor": "j", "quote": "Done through DM-2698 and DM-2716", "confidence": 0.89, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2653", "j": "DM-2716", "relation": "FS", "predecessor": "j", "quote": "Done through DM-2698 and DM-2716", "confidence": 0.88, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2930", "j": "DM-3618", "relation": "FS", "predecessor": "i", "quote": "Changes from DM-2930 are failing integration tests because wmgr is restarting xrootd and now we need to also restart mysqld if xrootd pid changes.", "confidence": 0.9, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-2698", "j": "DM-2716", "relation": "FF", "predecessor": "j", "quote": "I will clean this up through a new ticket.", "confidence": 0.67, "quote_ok": true, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3262", "j": "DM-3363", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.82, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3261", "j": "DM-3262", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3262", "j": "DM-3522", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.93, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3262", "j": "DM-3432", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.86, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3262", "j": "DM-3451", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.96, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}
+{"i": "DM-3262", "j": "DM-3474", "relation": "NONE", "predecessor": "i", "quote": "", "confidence": 0.95, "quote_ok": false, "model": "gpt-5.4-mini-2026-03-17"}

@@ -1,0 +1,10 @@
+# Python dependencies for experiments/code (Python 3.10+)
+pymongo   # bson parser for the Public Jira Dataset (load_jira_public.py)
+pypdf     # text extraction from PDFs
+pymupdf   # PDF rendering/inspection
+pandas    # pipeline (mining.py, eval_*.py)
+numpy
+networkx
+matplotlib
+openai    # E3 / B2 with E3_PROVIDER=openai
+anthropic # E3 / B2 with E3_PROVIDER=anthropic

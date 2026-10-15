@@ -1,0 +1,31 @@
+project,release,pred,succ,type,quote,valid
+MDL,2.5,MDL-30790,MDL-38632,FF,"This is a followup of MDL-30790 where a new setting (show_expanded) was added to decide if the folders were going to be shown totally expanded (show_expanded = 1, default) or only 1st level (show_expanded = 0).",1
+SERVER,4.3.1,SERVER-44040,SERVER-44042,FS,This test is disabled by SERVER-44040.,1
+MDL,2.5,MDL-39077,MDL-39390,FF,The fix for MDL-39077 has been integrated so this can be tested again.,1
+MDL,2.5,MDL-38476,MDL-38477,FF,Cheat sheet with the correct order to satisfy the dependencies between issues git pull git://github.com/<USER>moodle.git MDL-38437_master git pull git://github.com/<USER>moodle.git MDL-38439_master git pull git://github.com/<USER>moodle.git MDL-38475_master git pull git://github.com/<USER>moodle.git MDL-38476_master git pull git://github.com/<USER>moodle.git MDL-38477_master,0
+SERVER,4.3.1,SERVER-41670,SERVER-41673,FF,"[2019-10-04] ""Completed as part of SERVER-41670",1
+SERVER,4.3.1,SERVER-43301,SERVER-43635,FS,This test is disabled by SERVER-43301.,1
+SERVER,4.3.1,SERVER-42029,SERVER-42405,FF,Fixed by the change for SERVER-42029,1
+SERVER,4.3.1,SERVER-43415,SERVER-43869,FS,"When the index build is interrupted and has to be cleaned up, we may not have the necessary locks in place, leading to this [invariant|https://github.com/mongodb/mongo/blob/22922911b7c8fc8acf3adabcf4c13b80e5e3595d/src/mongo/db/catalog/multi_index_block.cpp#L132] introduced in SERVER-43415.",1
+MESOS,1.0.0,MESOS-4759,MESOS-5117,FF,"In MESOS-4641, we have made the container created by Mesos can join CNI network by introducing {{network/cni}} isolator, we need to enhance {{mesos-execute}} to support CNI network as well by introducing a {{--networks}} flag.",1
+SERVER,4.3.1,SERVER-41847,SERVER-41844,FF,Re-opening because we need to complete SERVER-41847 for the {{replica_set}} task to run successfully in the new builder.,1
+MESOS,1.0.0,MESOS-5669,MESOS-5702,FF,"I thought I'd log the issue, but if it has been fixed by the issue above, feel free to close.",1
+SERVER,4.3.1,SERVER-42887,SERVER-41666,FF,Completed as part of SERVER-42887,1
+SERVER,4.3.1,SERVER-1599,SERVER-42608,FS,"Shell helper updateOne and updateMany should accept hint, which was added in SERVER-1599",1
+SERVER,4.3.1,SERVER-42218,SERVER-42221,FF,Enable test from SERVER-42218 [here|https://github.com/mongodb/mongo/commit/0d8de0a489533877bbedc22e1480156f50401b13#diff-743160a4591ecf10ba16ba14d9b6ecf9R711-R718],1
+SERVER,4.3.1,SERVER-42690,SERVER-43304,SS,"This test is a real gem and deserves it's own code review, even if this is really just a part of SERVER-42690.",1
+SERVER,4.3.1,SERVER-42527,SERVER-42807,FS,SERVER-42527 accidentally removed the nss validation check.,1
+SERVER,4.3.1,SERVER-41164,SERVER-42002,FS,Make sure that for tests added for SERVER-41164 that tests with characters allowed in Unix but disallowed on Windows don't run on Windows.,1
+SERVER,4.3.1,SERVER-44017,SERVER-26867,FF,This is necessary in cases where hang_analyzer.py is called from the shell as a part of failures from assert.soon and friends in SERVER-43254 etc.,1
+SERVER,4.3.1,SERVER-33973,SERVER-42842,FS,this started failing with SERVER-33973.,1
+SERVER,4.3.1,SERVER-42185,SERVER-42799,FS,"After SERVER-42185, index build cancellations may be timestamped in one of two ways:",1
+MDL,2.5,MDL-39077,MDL-39336,FF,"Yep, it was MDL-39077 and its not been fixed yet.",1
+SERVER,4.3.1,SERVER-42414,SERVER-44185,FS,SERVER-42414 caused a performance regression due to the newly added keyStringAssert() function.,1
+SERVER,4.3.1,SERVER-41359,SERVER-43154,FS,"Since we no longer upconvert transaction read concerns to snapshot as of SERVER-41359, we need to tag relevant tests with the 'requires_majority_read_concern' tag so that they do not run in the enableReadConcernMajority=false variant.",1
+SERVER,4.3.1,SERVER-42591,SERVER-42595,FS,Refactor gHangLock in CurOp::reportCurrentOpForClient so it doesn't deadlock when called concurrently fix BF-14245. Remember to undo SERVER-42591,1
+SERVER,4.3.1,SERVER-41907,SERVER-42980,FS,"[This assertion|https://github.com/mongodb/mongo/blob/c2ac6fb3c04fd97cefbdc4f8bca0ee57e031a260/src/mongo/db/index/index_access_method.cpp#L606-L613] was added by SERVER-41907, but it incurred a slight performance regression.",1
+MESOS,1.0.0,MESOS-4951,MESOS-4933,FF,"May depend on MESOS-4951 (pass authn realm to libprocess), similar to MESOS-4956 (/files authn).",1
+MDL,2.5,MDL-39575,MDL-39526,FF,Linking to MDL-39575 to fix the missing string.,1
+SERVER,4.3.1,SERVER-18867,SERVER-41896,FS,"The Changes structure is a structure of unique_ptrs in RecoveryUnit (as of SERVER-18867), so we should take a unique_ptr as an argument when we add to it in [registerChange|https://github.com/mongodb/mongo/blob/710be037cc2817f066c41bb0140f397f5b703a82/src/mongo/db/storage/recovery_unit.h#L447].",1
+MESOS,1.0.0,MESOS-5271,MESOS-3781,FF,Let me work on adding multiple name support to flags and then you can base your deprecation patch based on that.,0
+MDL,2.5,MDL-37127,MDL-38389,FS,"However, now that MDL-37127 has landed, we probably want to return the DEBUG versions of Moodle modules, and the RAW versions of YUI modules.",1
