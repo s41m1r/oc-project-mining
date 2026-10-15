@@ -3,9 +3,88 @@
 Reproducibility package for the paper *Object-Centric Project Mining:
 Recovering the Hidden PERT from Agile Issue Trackers* (AI-PA 2026, under review).
 
-Object-centric project mining derives the project network of a release (tasks,
-typed precedence FS/SS/FF/SF, duration distributions, critical path, slack) from
-an object-centric event log (OCEL 2.0) of an issue tracker.
+Agile teams do not draw PERT charts, but their issue trackers contain one.
+Object-centric project mining recovers it: from an object-centric event log
+(OCEL 2.0) of an issue tracker, it derives the **project network of a release**:
+tasks, typed precedence relations (finish-to-start FS, start-to-start SS,
+finish-to-finish FF, start-to-finish SF), duration distributions, critical path,
+and slack. Precedence is supported by three kinds of evidence: declared links
+(E1), relations between objects such as a shared epic (E2), and statements in
+titles, descriptions, and comments, extracted by an LLM that must quote its
+source (E3). Types are assigned by the observed execution.
+
+![Overview of object-centric project mining](docs/img/pipeline.png)
+
+## Quickstart: no download, one minute
+
+```sh
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+cd code
+../.venv/bin/python running_example.py   # the running example of the paper (Table 1)
+../.venv/bin/python demo.py              # a real release: MESOS 1.0.0 from data-sample/
+```
+
+`running_example.py` builds the OCEL of the paper's running example and mines
+its network (output summarized):
+
+```text
+A -> E  FF  declared       B -> D  FF  hidden (only comment c1 states it)
+B -> E  FF  declared       C -> D  FF  hidden
+C -> E  FF  declared       dropped F -> D (link added and removed)
+A -> D  FF  declared       dropped E -> D (E finished after D)
+A -> F  FS  declared       realized slack: E 0 (critical), D 3, F 5, A 7, B 8, C 8 days
+```
+
+![Mined network of the running example](docs/img/example.png)
+
+`demo.py` mines release 1.0.0 of Apache Mesos (596 tasks) from a 4.6 MB OCEL in
+`data-sample/` and reports, among others:
+
+```text
+Mined precedences: 83 (71 FF, 12 FS), 15 hidden (stated only in text)
+Longest chain:
+  MESOS-3648   Port stout/duration.hpp to Windows
+  MESOS-3647   Port process/time.hpp to Windows
+  MESOS-3646   Port process/clock.hpp to Windows
+  MESOS-3637   Port process/process.hpp to Windows
+  MESOS-3634   Port process/protobuf.hpp
+Hidden dependencies (first 5):
+  MESOS-4090 -> MESOS-5233 [FS]  "After MESOS-4090, all native code is move out of {{src/python/native}}."
+  ...
+```
+
+Textual evidence comes from the cached LLM answers in `results/e3/`, so neither
+script needs an API key.
+
+## Key results
+
+Evaluated on four Jira tracker projects of the TAWOS dataset (152,000 issues,
+2.2 million events) and the Public Jira Dataset:
+
+- **Declared dependencies behave like finish-to-finish, not finish-to-start.**
+  Of the declared links in 87 releases of Moodle, MongoDB, and Apache Mesos,
+  only 26%, 38%, and 9% hold as FS, but 78%, 91%, and 60% as FF. Over 84,336
+  block and depend links in 16 public Jira repositories: 31% FS, 76% FF.
+- **Declarations are late and change.** 17-44% of the links were added after
+  the dependent task had started; 6-8% were removed again.
+- **A quarter of the dependencies are hidden.** 18-32% of the mined
+  dependencies of three releases are stated only in text, e.g., *"This ticket
+  is unblocked"*; 28 of 30 checked manually state an order.
+- **Planned dependencies (RQ1).** Against 214 planned (Gantt) dependencies in 42
+  epics of LSST Data Management:
+
+  | Variant | Evidence | Precision | Recall | F1 |
+  |---|---|---|---|---|
+  | B1 | declared links | 0.00 | 0.00 | - |
+  | Textual | E3 (quote-checked LLM) | 0.31 | 0.25 | 0.28 |
+  | Full technique | E1-E3 | 0.24 | 0.25 | 0.25 |
+  | B2 | LLM without evidence | 0.30 | 0.42 | 0.35 |
+
+  B2 guesses dependencies from task names and types all of them FS; the
+  technique accepts a dependency only with a link or a quote and types it by
+  execution (14 of 23 planned FS dependencies were executed as FF).
+
+![Evidence behind the mined dependencies of three releases](docs/img/profiles.png)
 
 ## Contents
 
@@ -26,6 +105,10 @@ an object-centric event log (OCEL 2.0) of an issue tracker.
 | `code/eval_f5.py` | Slip analysis (not robust; discussed in Sect. 5) | Sect. 5 |
 | `code/load_tawos.py`, `code/build_events.sql`, `code/load_jira_public.py` | Data loading | Sect. 4.1 |
 | `code/data_checks.py`, `code/multi_object_events.py`, `code/find_example.py`, `code/show_cluster.py`, `code/remote_zip.py` | Exploration and helpers | - |
+| `code/demo.py` | Report on a real release from the sample OCEL | - |
+| `code/make_sample.py` | Cuts the sample OCEL out of a full OCEL | - |
+| `data-sample/` | OCEL of MESOS 1.0.0 (4.6 MB), derived from TAWOS | - |
+| `docs/img/` | Figures used in this README | - |
 | `results/` | All results reported in the paper (CSV/JSON), LLM answers in `results/e3/` | Sect. 4 |
 
 The datasets are not included; see below for how to obtain them.

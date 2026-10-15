@@ -1,0 +1,84 @@
+pred,succ,type,stated,support,declared,removed,kind,added,textual,quote,hidden,structural
+MESOS-3635,MESOS-3634,FF,,1.5,True,False,declared,1444347419.0,False,,False,"same epic, shared component"
+MESOS-3637,MESOS-3634,FF,,1.5,True,False,declared,1444347591.0,False,,False,"same epic, shared component"
+MESOS-3646,MESOS-3637,FF,,1.5,True,False,declared,1444348664.0,False,,False,"same epic, shared component"
+MESOS-3647,MESOS-3646,FF,,1.5,True,False,declared,1444348777.0,False,,False,"same epic, shared component"
+MESOS-3648,MESOS-3647,FF,,1.25,True,False,declared,1444349024.0,False,,False,same epic
+MESOS-3651,MESOS-3649,FF,,1.5,True,False,declared,1444349440.0,False,,False,"same epic, shared component"
+MESOS-3648,MESOS-3651,FF,,1.25,True,False,declared,1444349509.0,False,,False,same epic
+MESOS-3649,MESOS-3652,FF,,1.5,True,False,declared,1444349690.0,False,,False,"same epic, shared component"
+MESOS-3654,MESOS-3637,FF,,1.5,True,False,declared,1444350080.0,False,,False,"same epic, shared component"
+MESOS-3653,MESOS-3637,FF,,1.5,True,False,declared,1444350388.0,False,,False,"same epic, shared component"
+MESOS-3636,MESOS-3635,FF,,1.5,True,False,declared,1444350505.0,False,,False,"same epic, shared component"
+MESOS-3657,MESOS-3635,FF,,1.5,True,False,declared,1444350561.0,False,,False,"same epic, shared component"
+MESOS-3636,MESOS-3609,FF,,1.25,True,False,declared,1444351759.0,False,,False,same epic
+MESOS-3648,MESOS-3609,FF,,1.25,True,False,declared,1444351805.0,False,,False,same epic
+MESOS-3648,MESOS-3610,FF,,1.25,True,False,declared,1444351861.0,False,,False,same epic
+MESOS-3661,MESOS-3611,FF,,1.5,True,False,declared,1444352113.0,False,,False,"same epic, shared component"
+MESOS-3662,MESOS-3611,FF,,1.5,True,False,declared,1444352195.0,False,,False,"same epic, shared component"
+MESOS-3663,MESOS-3612,FF,,1.25,True,False,declared,1444378543.0,False,,False,same epic
+MESOS-3664,MESOS-3663,FF,,1.5,True,False,declared,1444378751.0,False,,False,"same epic, shared component"
+MESOS-3648,MESOS-3664,FF,,1.25,True,False,declared,1444378838.0,False,,False,same epic
+MESOS-3666,MESOS-3612,FF,,1.25,True,False,declared,1444379424.0,False,,False,same epic
+MESOS-3662,MESOS-3612,FF,,1.5,True,False,declared,1444379424.0,False,,False,"same epic, shared component"
+MESOS-3661,MESOS-3612,FF,,1.5,True,False,declared,1444379425.0,False,,False,"same epic, shared component"
+MESOS-3671,MESOS-3673,FF,,1.25,True,False,declared,1444380613.0,False,,False,same epic
+MESOS-3669,MESOS-3673,FF,,1.5,True,False,declared,1444380614.0,False,,False,"same epic, shared component"
+MESOS-3670,MESOS-3673,FF,,1.5,True,False,declared,1444380614.0,False,,False,"same epic, shared component"
+MESOS-3673,MESOS-3672,FF,,1.5,True,False,declared,1444380655.0,False,,False,"same epic, shared component"
+MESOS-3674,MESOS-3614,FF,,1.25,True,False,declared,1444381005.0,False,,False,same epic
+MESOS-3675,MESOS-3614,FF,,1.25,True,False,declared,1444381133.0,False,,False,same epic
+MESOS-3670,MESOS-3614,FF,,1.25,True,False,declared,1444381396.0,False,,False,same epic
+MESOS-3668,MESOS-3614,FF,,1.25,True,False,declared,1444381397.0,False,,False,same epic
+MESOS-3662,MESOS-3616,FF,,1.5,True,False,declared,1444381716.0,False,,False,"same epic, shared component"
+MESOS-3662,MESOS-3617,FF,,1.25,True,False,declared,1444381921.0,False,,False,same epic
+MESOS-3649,MESOS-3680,FF,,1.5,True,True,declared,1444382261.0,False,,False,"same epic, shared component"
+MESOS-3680,MESOS-3681,FF,,1.25,True,False,declared,1444382455.0,False,,False,same epic
+MESOS-3637,MESOS-3681,FF,,1.25,True,False,declared,1444382455.0,False,,False,same epic
+MESOS-3679,MESOS-3617,FF,,1.5,True,False,declared,1444382598.0,False,,False,"same epic, shared component"
+MESOS-3649,MESOS-3682,FF,,1.25,True,False,declared,1444382666.0,False,,False,same epic
+MESOS-3683,MESOS-3682,FF,,1.5,True,False,declared,1444382736.0,False,,False,"same epic, shared component"
+MESOS-3675,MESOS-3618,FF,,1.25,True,False,declared,1444382988.0,False,,False,same epic
+MESOS-3674,MESOS-3618,FF,,1.25,True,False,declared,1444382988.0,False,,False,same epic
+MESOS-3662,MESOS-3618,FF,,1.25,True,False,declared,1444382989.0,False,,False,same epic
+MESOS-3668,MESOS-3622,FF,,1.25,True,False,declared,1444383343.0,False,,False,same epic
+MESOS-3685,MESOS-3623,FF,,1.25,True,False,declared,1444383484.0,False,,False,same epic
+MESOS-3662,MESOS-3623,FF,,1.25,True,False,declared,1444383557.0,False,,False,same epic
+MESOS-3854,MESOS-2950,FF,,1.5,True,False,declared,1447062097.0,False,,False,"same epic, shared component, sprint order"
+MESOS-3923,MESOS-4459,FF,,1.25,True,False,declared,1453492806.0,False,,False,same epic
+MESOS-4625,MESOS-4626,FS,,1.5,True,False,declared,1455012028.0,False,,False,"same epic, shared component, sprint order"
+MESOS-4951,MESOS-4902,FF,FS,2.23,True,False,declared,1458075226.0,True,"To prepare for MESOS-4902, the Mesos master and agent need a way to pass the desired authentication realm to libprocess.",False,same epic
+MESOS-4962,MESOS-338,FS,,1.0,True,False,declared,1458159623.0,False,,False,
+MESOS-5152,MESOS-5164,FF,,1.25,True,False,declared,1460364442.0,False,,False,shared component
+MESOS-5142,MESOS-5164,FF,,1.5,True,False,declared,1460639964.0,False,,False,"same epic, shared component, sprint order"
+MESOS-3319,MESOS-4902,FF,FF,1.88,True,False,declared,1461275299.0,True,Included in the review chain for this ticket are a couple patches to make {{/profiler/start}} and {{/profiler/stop}} functional again: MESOS-3319,False,
+MESOS-5256,MESOS-5257,FF,,1.0,True,False,declared,1461365971.0,False,,False,
+MESOS-5142,MESOS-5273,FS,,1.25,True,False,declared,1461578007.0,False,,False,sprint order
+MESOS-5316,MESOS-5317,FS,,1.5,True,False,declared,1462221161.0,False,,False,"shared component, hand-over"
+MESOS-5398,MESOS-5399,FF,,1.0,True,False,declared,1463515792.0,False,,False,
+MESOS-5400,MESOS-4626,FF,,1.0,True,False,declared,1463516095.0,False,,False,
+MESOS-5399,MESOS-4626,FF,,1.0,True,False,declared,1463516141.0,False,,False,
+MESOS-5257,MESOS-4626,FF,,1.25,True,False,declared,1463516411.0,False,,False,same epic
+MESOS-5399,MESOS-5401,FS,,1.0,True,False,declared,1463516751.0,False,,False,
+MESOS-5272,MESOS-5401,FS,,1.25,True,False,declared,1463516751.0,False,,False,sprint order
+MESOS-5435,MESOS-5256,FF,,1.0,True,False,declared,1463968075.0,False,,False,
+MESOS-4672,MESOS-5549,FS,,1.25,True,False,declared,1465319803.0,False,,False,same epic
+MESOS-5557,MESOS-5558,FF,,1.25,True,False,declared,1465340477.0,False,,False,same epic
+MESOS-5557,MESOS-5562,FF,,1.25,True,False,declared,1465340502.0,False,,False,same epic
+MESOS-5765,MESOS-5401,FS,,1.25,True,False,declared,1467412842.0,False,,False,hand-over
+MESOS-5793,MESOS-4626,FF,,1.25,True,False,declared,1467767119.0,False,,False,same epic
+MESOS-1865,MESOS-4680,FF,FS,0.98,False,False,,,True,This one fixed in MESOS-1865,True,
+MESOS-3782,MESOS-3783,FS,FS,1.19,False,False,,,True,"Therefore, I would suggest to do this at last, or at least after the majority of code change is done.",True,same epic
+MESOS-5271,MESOS-3781,FF,FS,0.96,False,False,,,True,Let me work on adding multiple name support to flags and then you can base your deprecation patch based on that.,True,
+MESOS-4090,MESOS-5233,FS,FS,0.98,False,False,,,True,"After MESOS-4090, all native code is move out of {{src/python/native}}.",True,
+MESOS-4689,MESOS-5060,FF,FS,0.67,False,False,,,True,"There is currently a design doc in progress which will be introducing a versioned operator HTTP API (MESOS-4791), so it's possible that we could wait to implement the new semantics until that work is implemented.",True,
+MESOS-4759,MESOS-5117,FF,FS,1.2,False,False,,,True,"In MESOS-4641, we have made the container created by Mesos can join CNI network by introducing {{network/cni}} isolator, we need to enhance {{mesos-execute}} to support CNI network as well by introducing a {{--networks}} flag.",True,same epic
+MESOS-4951,MESOS-4933,FF,FS,0.98,False,False,,,True,"May depend on MESOS-4951 (pass authn realm to libprocess), similar to MESOS-4956 (/files authn).",True,
+MESOS-5404,MESOS-5170,FF,FS,1.46,False,False,,,True,"As we need to be able to authorize `Tasks` (e.g., for deciding whether to include them in the /state endpoint when applying authorization based filtering) we need to expose it to the authorizer.",True,"same epic, sprint order"
+MESOS-5271,MESOS-5370,FF,FS,0.96,False,False,,,True,MESOS-5271 adds support for a flag name to have an alias.,True,
+MESOS-5265,MESOS-5641,FS,FS,1.47,False,False,,,True,"The mesos-execute was fixed in MESOS-5265 , the document should be updated to reflect how to use mesos-execute to test the feature of docker volume isolator.",True,"same epic, hand-over"
+MESOS-5403,MESOS-5335,FF,FS,0.96,False,False,,,True,"Once authorization filters land (MESOS-5403), we will be updating the implementation.",True,
+MESOS-5581,MESOS-5582,FF,FS,0.97,False,False,,,True,"Assuming the guaranteed ordering between isolators from MESOS-5581, we can be sure that the dependency order between the `cgroups/devices` and `gpu/nvidia` isolators is met.",True,
+MESOS-5592,MESOS-5639,FS,FS,1.23,False,False,,,True,We need to document the behavior implemented in MESOS-5592.,True,same epic
+MESOS-5740,MESOS-5576,FF,FS,0.93,False,False,,,True,Review based on [MESOS-5740]: https://reviews.apache.org/r/49346/,True,
+MESOS-5669,MESOS-5702,FF,FF,0.84,False,False,,,True,"I thought I'd log the issue, but if it has been fixed by the issue above, feel free to close.",True,

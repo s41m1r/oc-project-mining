@@ -7,3 +7,6 @@ data/
 __pycache__/
 .DS_Store
 *.pyc
+
+# but keep the small sample OCEL
+!data-sample/*.sqlite

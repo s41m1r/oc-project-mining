@@ -41,6 +41,7 @@ COMMENTS = [(D, f"To test this with the new version, we need all issues of epic 
 
 
 def build():
+    DB.parent.mkdir(parents=True, exist_ok=True)
     DB.unlink(missing_ok=True)
     con = sqlite3.connect(DB)
     keys = list(ISSUES) + [X]
