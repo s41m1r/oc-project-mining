@@ -8,3 +8,5 @@ networkx
 matplotlib
 openai    # E3 / B2 with E3_PROVIDER=openai
 anthropic # E3 / B2 with E3_PROVIDER=anthropic
+ipykernel # notebooks/ (kernel for VS Code or Jupyter)
+jupyterlab # notebooks/ (optional, to open them in the browser)

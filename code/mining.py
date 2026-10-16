@@ -62,6 +62,12 @@ class OCEL:
     sprint_start: dict
 
 
+def epoch_seconds(s):
+    """Timestamps as seconds since the epoch, independent of the datetime resolution
+    (pandas 2 parses to ns, pandas 3 may infer us or s)."""
+    return pd.to_datetime(s).dt.as_unit("ns").astype("int64") / 1e9
+
+
 def load_ocel(path) -> OCEL:
     con = sqlite3.connect(path)
     rd = lambda s: pd.read_sql_query(s, con)
@@ -77,10 +83,10 @@ def load_ocel(path) -> OCEL:
     times = pd.concat(times)
     eo = rd("select * from event_object")
     ev = eo.merge(times, left_on="ocel_event_id", right_on="ocel_id").drop(columns="ocel_id")
-    ev["t"] = pd.to_datetime(ev["ocel_time"]).astype("int64") / 1e9
+    ev["t"] = epoch_seconds(ev["ocel_time"])
     releases = rd("select * from object_Release").set_index("ocel_id")
     spr = rd("select ocel_id, start_date from object_Sprint").dropna()
-    sprint_start = dict(zip(spr.ocel_id, pd.to_datetime(spr.start_date).astype("int64") / 1e9))
+    sprint_start = dict(zip(spr.ocel_id, epoch_seconds(spr.start_date)))
     con.close()
     return OCEL(issues, o2o, ev, attrs, releases, sprint_start)
 

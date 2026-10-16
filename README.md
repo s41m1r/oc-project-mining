@@ -15,6 +15,28 @@ source (E3). Types are assigned by the observed execution.
 
 ![Overview of object-centric project mining](docs/img/pipeline.png)
 
+## Guided tour (notebook)
+
+[**Open the guided tour: `notebooks/project_mining_tour.ipynb`**](notebooks/project_mining_tour.ipynb)
+
+The notebook shows the technique step by step and compares it with
+object-centric process mining on the same data. It is stored with all outputs,
+so it can be read directly on this page without installing anything:
+
+1. the running example of the paper as an OCEL;
+2. object-centric process mining: the directly-follows graph, and why it cannot
+   show which task waited for which;
+3. object-centric project mining: the mined precedences with their evidence,
+   the PERT chart, and the Gantt chart;
+4. a real release, Apache Mesos 1.0.0, in both views;
+5. what project mining adds to process mining.
+
+![PERT chart of the running example, from the notebook](docs/img/pert.png)
+
+To run it yourself, install the requirements (see the quickstart) and open it
+with `.venv/bin/jupyter lab notebooks/project_mining_tour.ipynb`, or in VS Code
+with the virtual environment as kernel.
+
 ## Quickstart: no download, one minute
 
 ```sh
@@ -106,6 +128,8 @@ Evaluated on four Jira tracker projects of the TAWOS dataset (152,000 issues,
 | `code/load_tawos.py`, `code/build_events.sql`, `code/load_jira_public.py` | Data loading | Sect. 4.1 |
 | `code/data_checks.py`, `code/multi_object_events.py`, `code/find_example.py`, `code/show_cluster.py`, `code/remote_zip.py` | Exploration and helpers | - |
 | `code/demo.py` | Report on a real release from the sample OCEL | - |
+| `code/views.py` | Directly-follows graph, PERT chart, and Gantt chart of a mined network | Def. 2, Fig. 2 |
+| `notebooks/project_mining_tour.ipynb` | Guided tour: process mining vs. project mining, PERT charts | Sect. 3, 4.2, 5 |
 | `code/make_sample.py` | Cuts the sample OCEL out of a full OCEL | - |
 | `data-sample/` | OCEL of MESOS 1.0.0 (4.6 MB), derived from TAWOS | - |
 | `docs/img/` | Figures used in this README | - |
