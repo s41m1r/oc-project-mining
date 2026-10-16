@@ -83,15 +83,17 @@ script needs an API key.
 Evaluated on four Jira tracker projects of the TAWOS dataset (152,000 issues,
 2.2 million events) and the Public Jira Dataset:
 
-- **Declared dependencies behave like finish-to-finish, not finish-to-start.**
+- **Declared dependencies hold as finish-to-finish rather than finish-to-start.**
   Of the declared links in 87 releases of Moodle, MongoDB, and Apache Mesos,
-  only 26%, 38%, and 9% hold as FS, but 78%, 91%, and 60% as FF. Over 84,336
-  block and depend links in 16 public Jira repositories: 31% FS, 76% FF.
+  78%, 91%, and 60% hold as FF, but only 31%, 40%, and 10% of those whose
+  dependent task has a recorded start hold as FS. Over 84,336 block and depend
+  links in 16 public Jira repositories: 76% FF, 31% FS.
 - **Declarations are late and change.** 17-44% of the links were added after
-  the dependent task had started; 6-8% were removed again.
-- **A quarter of the dependencies are hidden.** 18-32% of the mined
-  dependencies of three releases are stated only in text, e.g., *"This ticket
-  is unblocked"*; 28 of 30 checked manually state an order.
+  the dependent task had started, and 6-8% were later removed.
+- **Many dependencies are hidden.** 18-32% of the mined dependencies of three
+  releases are stated only in text, e.g., *"This ticket is unblocked"*. In a
+  manual check of 30 randomly sampled ones, 28 quotes state an order between
+  the two tasks.
 - **Planned dependencies (RQ1).** Against 214 planned (Gantt) dependencies in 42
   epics of LSST Data Management:
 
@@ -102,9 +104,11 @@ Evaluated on four Jira tracker projects of the TAWOS dataset (152,000 issues,
   | Full technique | E1-E3 | 0.24 | 0.25 | 0.25 |
   | B2 | LLM without evidence | 0.30 | 0.42 | 0.35 |
 
-  B2 guesses dependencies from task names and types all of them FS; the
-  technique accepts a dependency only with a link or a quote and types it by
-  execution (14 of 23 planned FS dependencies were executed as FF).
+  B1 recovers none of them because DM connects a pair of tasks either by a
+  typed (planned) or by a declared link, never both. B2 guesses dependencies
+  from task names and types all of them FS. The technique accepts a dependency
+  only with a link or a quote and types it by execution: 14 of 23 recovered
+  planned FS dependencies were executed as FF.
 
 ![Evidence behind the mined dependencies of three releases](docs/img/profiles.png)
 
@@ -143,7 +147,7 @@ The datasets are not included; see below for how to obtain them.
 |---|---|
 | Table 2 (data) | `results/rq2/releases.csv`, OCEL statistics from `code/tawos_to_ocel.py` |
 | Table 3 (RQ1) | `results/rq1/summary.csv` (variants `B1`, `E3-mention`, `FULL-mention`, `B2`; hybrid variants `E3`, `FULL`), per epic: `results/rq1/per_epic.csv`, edges: `results/rq1/edges.csv` |
-| Sect. 4.4 (RQ2) | `results/rq2/summary.csv`, `results/rq2/edges.csv`, `results/rq2/tasks.csv` |
+| Sect. 4.4 (RQ2) | `results/rq2/edges.csv` (per declared link: `fs_ok`, `ff_ok`, added after start, removed), `results/rq2/tasks.csv`, `results/rq2/summary.csv`. The FS shares in the paper count only links whose dependent task has a recorded start (`fs_ok` not empty). |
 | Fig. 3, hidden dependencies | `results/rq2/profiles.csv`; manual validation: `results/rq2/hidden_sample.csv` (column `valid`) |
 | Running example | `results/running_example.json` |
 | LLM answers and token usage | `results/e3/*.jsonl`, `results/e3/proposals/*.json`, `results/e3/usage.jsonl` |
